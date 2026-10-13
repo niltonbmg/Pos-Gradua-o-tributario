@@ -1,0 +1,243 @@
+# Conclusão
+
+## Fiel na verdade
+
+Chegamos ao fim deste primeiro volume. Percorremos a governança, os tipos de trabalho, a aliança dos termos, a diferença entre auditoria interna, externa e perícia, os papéis de trabalho, a auditoria governamental, as fraudes e os erros, as normas profissionais, o planejamento, os controles, os riscos, a evidência, a amostragem e, por fim, o relatório e seus momentos decisivos: ênfase, eventos subsequentes, representações e continuidade.
+
+Se eu tivesse de resumir tudo numa só palavra, seria esta: **verdade**. A auditoria inteira é um serviço à verdade. Planejamos para encontrá-la. Testamos para confirmá-la. Documentamos para preservá-la. Relatamos para torná-la pública. E protegemos a nossa independência para que nada a distorça.
+
+Jesus disse: "Conhecereis a verdade, e a verdade vos libertará" (João 8.32). Ele falava de uma verdade maior do que qualquer balanço: Ele mesmo, o Caminho, a Verdade e a Vida. Mas quem ama a Verdade com maiúscula aprende a respeitar a verdade com minúscula — a do saldo bancário, do estoque contado, da receita no período certo. Não existe cristão íntegro no domingo e maquiador de balanço na segunda.
+
+O auditor cristão não é um policial amargo nem um parceiro conivente. É um servo da confiança. Ele trata o cliente com respeito, a equipe com paciência e os usuários das demonstrações com lealdade. Ele sabe que, um dia, também vai prestar contas da sua administração, e trabalha para ouvir: "Muito bem, servo bom e fiel; foste fiel no pouco, sobre o muito te colocarei" (Mateus 25.21).
+
+Débora começou este livro contando queijo numa câmara fria na virada do ano. Terminou sendo promovida. Não porque era a mais brilhante da firma, mas porque foi fiel: escreveu o que fez, perguntou o que não sabia, levou adiante o que parecia estranho, recusou o que comprometia e disse a verdade com mansidão. Esse caminho está aberto para você.
+
+No próximo volume, vamos avançar para a auditoria fiscal e tributária propriamente dita: como examinar tributos, obrigações acessórias e créditos, como se preparar para a fiscalização do Fisco, e como a Reforma Tributária muda o trabalho do auditor. Débora estará lá, agora como sênior.
+
+~ Que o Senhor te guarde fiel na verdade.
+
+# Anexo A
+
+## Roteiro do Mordomo Fiel: o ciclo de um trabalho de auditoria
+
+**Antes do trabalho**
+
+- Avaliar a integridade do cliente e a independência da equipe (capítulos 4 e 11).
+
+- Assinar a carta de contratação com responsabilidades definidas (capítulo 4).
+
+**Planejamento**
+
+- Entender a entidade e o seu ambiente (capítulo 12).
+
+- Fazer procedimentos analíticos preliminares (capítulo 12).
+
+- Definir materialidade global, para execução e limite trivial (capítulo 12).
+
+- Entender os controles e avaliar riscos, inclusive de fraude (capítulos 10 e 13).
+
+- Montar estratégia global e plano de auditoria (capítulo 12).
+
+**Execução**
+
+- Testar controles, quando se pretende confiar neles (capítulo 13).
+
+- Executar testes substantivos: detalhes e analíticos (capítulo 14).
+
+- Aplicar amostragem e avaliar resultados (capítulo 15).
+
+- Documentar tudo nos papéis de trabalho (capítulo 7).
+
+**Conclusão**
+
+- Procedimentos de eventos subsequentes até a data do relatório (capítulo 19).
+
+- Avaliação da continuidade operacional (capítulo 21).
+
+- Obter a carta de representação (capítulo 20).
+
+- Avaliar distorções não corrigidas e comunicar à governança (capítulo 17).
+
+- Decidir a opinião e redigir o relatório, com ênfases e outros assuntos quando cabíveis (capítulos 17 e 18).
+
+**Depois do relatório**
+
+- Montar o arquivo final em até 60 dias e guardar por pelo menos cinco anos (capítulo 7).
+
+- Agir se tomar conhecimento de fatos novos relevantes (capítulo 19).
+
+# Anexo B
+
+## Checklist do auditor íntegro
+
+**Antes de aceitar**
+
+- Sou independente de fato e na aparência?
+
+- Tenho competência e tempo para fazer bem?
+
+- Orei sobre a aceitação deste trabalho?
+
+**Durante o trabalho**
+
+- Estou mantendo ceticismo profissional sem desprezar as pessoas?
+
+- Cada procedimento mira uma afirmação?
+
+- Cada papel de trabalho seria entendido por um auditor experiente que nunca o viu?
+
+- Recusei presentes e favores que comprometeriam a aparência de independência?
+
+- Levei adiante tudo o que pareceu estranho?
+
+**Antes de assinar**
+
+- A evidência é suficiente e adequada para esta opinião?
+
+- Os eventos subsequentes e a continuidade foram avaliados até a data do relatório?
+
+- A carta de representação foi obtida e é confiável?
+
+- A opinião diz exatamente o que eu sei, nem mais, nem menos?
+
+- Eu assinaria este relatório se o próprio Senhor fosse o leitor?
+
+# Anexo C
+
+## Tabela-resumo das normas citadas
+
+- **NBC TA 200** — Objetivos gerais do auditor independente.
+
+- **NBC TA 210** — Concordância com os termos do trabalho.
+
+- **NBC TA 220** — Gestão da qualidade da auditoria.
+
+- **NBC TA 230** — Documentação de auditoria.
+
+- **NBC TA 240** — Responsabilidade do auditor em relação a fraude.
+
+- **NBC TA 250** — Consideração de leis e regulamentos.
+
+- **NBC TA 300** — Planejamento da auditoria.
+
+- **NBC TA 315** — Identificação e avaliação dos riscos de distorção relevante.
+
+- **NBC TA 320** — Materialidade no planejamento e na execução.
+
+- **NBC TA 450** — Avaliação das distorções identificadas.
+
+- **NBC TA 500** — Evidência de auditoria.
+
+- **NBC TA 505** — Confirmações externas.
+
+- **NBC TA 520** — Procedimentos analíticos.
+
+- **NBC TA 530** — Amostragem em auditoria.
+
+- **NBC TA 560** — Eventos subsequentes.
+
+- **NBC TA 570** — Continuidade operacional.
+
+- **NBC TA 580** — Representações formais.
+
+- **NBC TA 610** — Utilização do trabalho de auditoria interna.
+
+- **NBC TA 700** — Formação da opinião e emissão do relatório.
+
+- **NBC TA 701** — Principais assuntos de auditoria.
+
+- **NBC TA 705** — Modificações na opinião.
+
+- **NBC TA 706** — Parágrafos de ênfase e de outros assuntos.
+
+- **NBC TA 720** — Outras informações.
+
+- **NBC TR 2400 / 2410** — Trabalhos de revisão.
+
+- **NBC TO 3000** — Outros trabalhos de asseguração.
+
+- **NBC TSC 4400 / 4410** — Procedimentos previamente acordados e compilação.
+
+- **NBC PG 01 / PG 100** — Código de ética e normas gerais de ética.
+
+- **NBC PA 400** — Independência.
+
+- **NBC PA 12 / PA 13** — Educação continuada e exame de qualificação técnica.
+
+- **NBC TI 01** — Auditoria interna.
+
+- **NBC TP 01 / PP 01** — Perícia contábil.
+
+- **CPC 24 / CPC 26** — Eventos subsequentes; apresentação das demonstrações.
+
+~ Os números e títulos das normas podem ser revisados pelo CFC. Confira sempre a versão vigente em cfc.org.br.
+
+# Anexo D
+
+## Glossário sem juridiquês
+
+**Abstenção de opinião.** O auditor declara que não expressa opinião, porque não conseguiu evidência suficiente e os possíveis efeitos são generalizados.
+
+**Afirmações.** Declarações implícitas da administração sobre cada saldo: existência, integridade, direitos, avaliação, corte, classificação.
+
+**Amostragem.** Aplicar procedimentos em menos de 100% dos itens, com todos tendo chance de seleção, para concluir sobre o todo.
+
+**Asseguração.** Trabalho em que o auditor aumenta a confiança de usuários sobre uma informação. Pode ser razoável (auditoria) ou limitada (revisão).
+
+**Ceticismo profissional.** Postura questionadora e alerta, sem presumir desonestidade nem honestidade absoluta.
+
+**Circularização.** Confirmação de saldos ou informações enviada diretamente por terceiros ao auditor.
+
+**CNAI.** Cadastro Nacional de Auditores Independentes, mantido pelo CFC.
+
+**Continuidade operacional.** Pressuposto de que a entidade seguirá operando no futuro previsível.
+
+**Corte.** Registro das transações no período correto.
+
+**Distorção.** Diferença entre o que foi apresentado e o que deveria ter sido.
+
+**Ênfase.** Parágrafo que chama atenção para assunto corretamente divulgado e fundamental, sem modificar a opinião.
+
+**Erro tolerável.** Valor máximo de distorção que o auditor aceita na população testada.
+
+**Evento subsequente.** Fato ocorrido entre a data do balanço e a autorização de emissão das demonstrações.
+
+**Evidência.** Informação usada pelo auditor para fundamentar a opinião.
+
+**Fraude.** Ato intencional para obter vantagem injusta ou ilegal.
+
+**Generalizado.** Efeito que atinge as demonstrações como um todo ou uma parte substancial delas.
+
+**Governança corporativa.** Sistema pelo qual a empresa é dirigida, monitorada e incentivada.
+
+**Materialidade (relevância).** Valor acima do qual uma distorção pode influenciar a decisão dos usuários.
+
+**Opinião adversa.** As demonstrações não estão adequadas, por distorção relevante e generalizada.
+
+**Papéis de trabalho.** Documentação dos procedimentos, evidências e conclusões do auditor.
+
+**Perícia contábil.** Trabalho técnico que esclarece fatos para subsidiar a solução de um litígio.
+
+**Representação formal.** Declaração escrita da administração ao auditor.
+
+**Ressalva.** Opinião modificada "exceto por" um problema relevante não generalizado.
+
+**Risco de auditoria.** Risco de opinião inadequada quando há distorção relevante. RI × RC × RD.
+
+**Segregação de funções.** Divisão de tarefas para que ninguém controle sozinho todas as fases de uma transação.
+
+**Walkthrough.** Acompanhar uma transação do início ao fim para entender o processo e os controles.
+
+~ No próximo volume, este glossário será ampliado com os termos da auditoria fiscal e tributária.
+
+---
+
+^ **AUDITORIA DO JEITO DE DEUS — Volume 1**
+
+^ *Fundamentos da Auditoria*
+
+^ Nilton Dias Sampaio Oliveira Junior
+
+^ *Do mesmo autor de "Como Vender do Jeito de Deus" e da coleção "Tributos do Jeito de Deus"*
+
+^ Edição de 2026.

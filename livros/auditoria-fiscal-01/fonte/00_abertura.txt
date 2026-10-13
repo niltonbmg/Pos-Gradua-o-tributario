@@ -1,0 +1,79 @@
+!CAPA AUDITORIA DO JEITO DE DEUS | Volume 1 — Fundamentos da Auditoria | Como examinar com verdade, opinar com coragem e proteger a confiança | Um manual prático para contadores, auditores, gestores e empresários cristãos
+
+# Sumário
+
+Palavra ao leitor — Por que um cristão deveria entender de auditoria?
+
+Capítulo 1 — Princípios da governança: a casa sobre a rocha
+
+Capítulo 2 — Objetivos, equipe, objeto e escopo da auditoria
+
+Capítulo 3 — Os tipos de trabalho do auditor independente
+
+Capítulo 4 — Concordância dos termos: a aliança antes da obra
+
+Capítulo 5 — Auditoria como técnica contábil: interna e externa
+
+Capítulo 6 — Auditoria e perícia contábil: primas, não gêmeas
+
+Capítulo 7 — Papéis de trabalho: a memória escrita da verdade
+
+Capítulo 8 — A classificação dos tipos de auditoria
+
+Capítulo 9 — Auditoria governamental: o dinheiro de todos
+
+Capítulo 10 — Fraudes e erros: a responsabilidade do auditor e da entidade
+
+Capítulo 11 — Normas profissionais do auditor independente
+
+Capítulo 12 — Planejamento de auditoria: quem constrói, primeiro calcula
+
+Capítulo 13 — Controle interno e riscos de auditoria
+
+Capítulo 14 — Testes substantivos e evidências de auditoria
+
+Capítulo 15 — Amostragem: examinar a parte para conhecer o todo
+
+Capítulo 16 — Revisão e exercícios de fixação
+
+Capítulo 17 — O relatório do auditor (NBC TA 700 e 705)
+
+Capítulo 18 — Parágrafo de ênfase e outros assuntos
+
+Capítulo 19 — Eventos subsequentes (NBC TA 560)
+
+Capítulo 20 — Representações formais da administração (NBC TA 580)
+
+Capítulo 21 — Continuidade operacional (NBC TA 570)
+
+Conclusão — Fiel na verdade
+
+Anexo A — Roteiro do Mordomo Fiel: o ciclo de um trabalho de auditoria
+
+Anexo B — Checklist do auditor íntegro
+
+Anexo C — Tabela-resumo das normas citadas
+
+Anexo D — Glossário sem juridiquês
+
+# Palavra ao leitor
+
+## Por que um cristão deveria entender de auditoria?
+
+Você pode estar se perguntando: um livro sobre auditoria com Bíblia dentro? Sim. E vou te explicar por quê.
+
+Auditoria é, no fundo, uma pergunta muito antiga: "Isso que você diz é verdade?". O empresário apresenta um balanço e diz: "Minha empresa tem este patrimônio, ganhou este lucro, deve este tanto". O banco quer saber se é verdade antes de emprestar. O investidor quer saber antes de comprar. O Fisco quer saber antes de cobrar. O funcionário quer saber antes de confiar o seu futuro. E alguém precisa olhar de perto, com método e independência, e dizer em público: "Examinei. Isto aqui merece confiança" — ou "isto aqui não merece".
+
+Esse alguém é o auditor. E o que ele protege não é um papel. É a confiança. Sem confiança, o crédito some, o investimento foge, o comércio trava. A Bíblia sabia disso muito antes da contabilidade moderna. "Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer" (Provérbios 11.1). O auditor é, em termos bem simples, o fiscal da balança.
+
+Este livro foi escrito para três tipos de leitor. Primeiro, o estudante e o profissional de contabilidade que está aprendendo auditoria e quer entender as normas sem perder a alma no caminho. Segundo, o auditor em atividade, interno ou externo, que enfrenta todos os dias a pressão para "deixar passar". Terceiro, o empresário e o gestor cristão que vai ser auditado — pelo auditor independente, pelo auditor interno ou pelo Fisco — e quer saber o que estão olhando, por que estão olhando, e como se preparar com integridade.
+
+A linguagem aqui é simples de propósito. Vamos falar de NBC TA 200, 240, 300, 500, 530, 560, 570, 580, 700, 705 e 706 — as normas brasileiras de auditoria, convergidas com as normas internacionais. Mas cada norma vem acompanhada de um exemplo, de uma tradução para a vida real e do "porquê" bíblico por trás. Não vai ter jargão sem explicação.
+
+Cada capítulo tem uma arquitetura idêntica, para que você saiba sempre onde está pisando: uma abertura para despertar a imaginação, os objetivos claros do capítulo, a fundamentação bíblica, o desenvolvimento dos conceitos técnicos, o acompanhamento da nossa personagem-guia, ferramentas práticas, perguntas para reflexão e um plano de ação dividido em hoje, esta semana, este mês e próximos 90 dias. Livros mudam a vida quando saem do livro.
+
+A personagem-guia deste volume se chama Débora. Ela tem vinte e seis anos, acabou de passar no Exame de Suficiência do CFC e foi contratada como assistente de auditoria em uma firma de médio porte. É filha de pastor, canta no ministério de louvor da igreja aos domingos, e às segundas-feiras entra numa sala de reunião para pedir a um diretor financeiro, com educação e firmeza, o extrato bancário que ele não quer mostrar. Você vai acompanhá-la do primeiro dia ao primeiro relatório assinado pela firma. Vai ver os medos dela, os erros dela e as escolhas que ela faz quando a verdade custa caro.
+
+Uma última palavra: este manual foi escrito em 2026. As normas de auditoria mudam com menos frequência do que as leis tributárias, mas mudam. Sempre que citarmos um número de norma, valor ou prazo, confira a versão vigente no site do Conselho Federal de Contabilidade (cfc.org.br) no ano da sua leitura. Mordomo fiel confere a fonte.
+
+~ Vamos juntos.

@@ -1,0 +1,705 @@
+# Capítulo 13
+
+## Controle interno e riscos de auditoria
+
+@ILUS 13 | Jetro aconselhando Moisés diante da fila do povo — a divisão de tarefas como controle
+
+Moisés julgava o povo sozinho, do amanhecer ao anoitecer. A fila não acabava. Seu sogro Jetro observou e disse: "Não é bom o que fazes. Totalmente desfalecerás" (Êxodo 18.17-18). E propôs um sistema: homens capazes, tementes a Deus, que aborrecessem a avareza, como chefes de mil, de cem, de cinquenta e de dez. As causas simples, eles resolviam. As grandes subiam a Moisés.
+
+Jetro desenhou uma estrutura de controle interno: critérios de escolha das pessoas, divisão de responsabilidades, níveis de alçada e um canal para levar as exceções ao topo. A empresa que não tem isso desfalece, e o auditor que não avalia isso trabalha às cegas.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir controle interno e seus objetivos.
+
+- Identificar os cinco componentes do controle interno (COSO e NBC TA 315).
+
+- Aplicar critérios para avaliar o sistema de controle interno.
+
+- Explicar o modelo de risco de auditoria: risco inerente, risco de controle e risco de detecção.
+
+- Relacionar a avaliação de riscos à natureza, época e extensão dos testes.
+
+### Fundamentação bíblica
+
+**Êxodo 18.21**
+
+> *Procura dentre o povo homens capazes, tementes a Deus, homens de verdade, que aborreçam a avareza.*
+
+O primeiro controle de Jetro não era um formulário. Era o caráter das pessoas. O ambiente de controle começa na escolha de quem vai administrar.
+
+**Provérbios 27.23**
+
+> *Procura conhecer o estado das tuas ovelhas e cuida bem dos teus rebanhos.*
+
+Controle interno é conhecer o estado do rebanho todos os dias, e não apenas no fim do ano.
+
+### O que é controle interno
+
+Controle interno é o processo planejado, implementado e mantido pelos responsáveis pela governança, pela administração e por outros funcionários, para fornecer segurança razoável quanto à realização dos objetivos da entidade no que se refere à confiabilidade dos relatórios financeiros, à efetividade e eficiência das operações e ao cumprimento de leis e regulamentos.
+
+### Os cinco componentes
+
+O modelo COSO, adotado na NBC TA 315, organiza o controle interno em cinco componentes:
+
+**1. Ambiente de controle.** A cultura, o "tom do topo": integridade e valores éticos, compromisso com competência, atuação do conselho, estrutura organizacional, políticas de pessoal. É a base de todos os outros.
+
+**2. Processo de avaliação de riscos da entidade.** Como a administração identifica, analisa e responde aos riscos do negócio.
+
+**3. Sistema de informação e comunicação.** Como as transações são iniciadas, registradas, processadas e relatadas, e como as responsabilidades são comunicadas.
+
+**4. Atividades de controle.** As ações concretas: autorizações e aprovações, conciliações, revisões de desempenho, controles físicos sobre ativos, segregação de funções, controles gerais e de aplicação de tecnologia da informação.
+
+**5. Monitoramento.** A avaliação contínua ou periódica de se os controles estão funcionando, incluindo a auditoria interna.
+
+### Critérios para avaliar o sistema de controle interno
+
+Ao avaliar os controles, o auditor observa:
+
+- **Segregação de funções:** ninguém deve controlar, sozinho, todas as fases de uma transação — autorizar, executar, registrar e custodiar.
+
+- **Sistema de autorização e aprovação:** alçadas claras e documentadas.
+
+- **Determinação de responsabilidades:** cada um sabe o que lhe cabe.
+
+- **Rodízio de funções e férias obrigatórias:** reduzem o risco de fraudes ocultas.
+
+- **Controles físicos:** acesso restrito a caixa, estoques, sistemas.
+
+- **Conciliações periódicas:** bancos, clientes, fornecedores, estoques.
+
+- **Pessoal qualificado e treinado.**
+
+- **Documentação formal de procedimentos.**
+
+O auditor faz isso em duas etapas: primeiro **entende e documenta** o desenho do controle (por narrativas, fluxogramas ou questionários) e verifica se foi implementado (por exemplo, com um teste de "walkthrough", acompanhando uma transação do início ao fim). Depois, se pretende confiar no controle, executa **testes de controle** para verificar se ele funcionou de forma efetiva durante todo o período.
+
+### O modelo de risco de auditoria
+
+Risco de auditoria é o risco de o auditor expressar uma opinião inadequada quando as demonstrações contêm distorção relevante. É composto por:
+
+- **Risco inerente (RI):** a suscetibilidade de uma afirmação a uma distorção relevante, antes de considerar qualquer controle. Exemplos: estimativas complexas, transações em dinheiro vivo, estoques de alto valor e fácil subtração.
+
+- **Risco de controle (RC):** o risco de que uma distorção relevante não seja prevenida ou detectada e corrigida pelo controle interno da entidade.
+
+- **Risco de detecção (RD):** o risco de que os procedimentos do auditor não detectem uma distorção relevante existente.
+
+A NBC TA 315 trata RI e RC em conjunto como **risco de distorção relevante (RDR)**, que é da entidade e o auditor apenas avalia. O risco de detecção é o único que o auditor controla, pela natureza, época e extensão dos seus procedimentos.
+
+A relação costuma ser expressa assim:
+
+^ **Risco de auditoria = RI × RC × RD**
+
+Como o auditor quer manter o risco de auditoria em um nível aceitavelmente baixo, quanto **maior** o risco de distorção relevante, **menor** precisa ser o risco de detecção — e, portanto, **mais** e **melhores** testes substantivos ele faz.
+
+### Riscos significativos
+
+Alguns riscos são classificados como **significativos** e exigem consideração especial: risco de fraude, transações significativas com partes relacionadas, transações fora do curso normal, estimativas com alto grau de incerteza. Para eles, o auditor precisa de procedimentos substantivos específicos, e não apenas analíticos.
+
+### Em uma frase
+
+> *Controle interno é o sistema de Jetro: pessoas íntegras, funções divididas e alçadas claras. O auditor avalia o risco inerente e de controle e ajusta seus testes para manter o risco de detecção baixo.*
+
+### Débora e o walkthrough do estoque
+
+Débora acompanhou uma venda do início ao fim: pedido no sistema, liberação de crédito, separação na câmara fria, emissão de nota, carregamento, baixa do estoque, recebimento. Descobriu que, na filial 2, o mesmo funcionário separava o produto, emitia a nota e fazia o ajuste de estoque quando havia "quebra". Não havia segregação de funções.
+
+Ela anotou: risco de controle alto para estoques da filial 2. Rafael leu e decidiu: "Então não vamos confiar no controle ali. Vamos aumentar a contagem física e testar os ajustes de quebra um por um". Débora entendeu, na prática, a fórmula: controle fraco, mais teste substantivo.
+
+### Ferramentas práticas
+
+**Matriz de risco por área (preencha para cada conta relevante)**
+
+- Afirmação em risco (existência, integridade, avaliação, corte...).
+
+- Risco inerente: alto, médio ou baixo — e por quê.
+
+- Principais controles existentes.
+
+- Risco de controle: alto, médio ou baixo — e se haverá teste de controle.
+
+- Risco significativo? Sim ou não.
+
+- Resposta: natureza, época e extensão dos testes substantivos.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você é como Moisés antes de Jetro, centralizando tudo? O que isso revela sobre o seu controle interno pessoal?
+
+**2.** Por que o ambiente de controle é a base de todos os outros componentes?
+
+**3.** Que processo da sua empresa depende de uma única pessoa?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Êxodo 18. Ore pedindo humildade para delegar e sabedoria para controlar.
+
+**Esta semana**
+
+- Faça um walkthrough de um processo da sua empresa ou de um cliente e desenhe o fluxograma.
+
+**Este mês**
+
+- Preencha a matriz de risco para três contas relevantes.
+
+**Próximos 90 dias**
+
+- Implemente ou recomende uma melhoria de segregação de funções e avalie se funcionou.
+
+# Capítulo 14
+
+## Testes substantivos e evidências de auditoria
+
+@ILUS 14 | Tomé diante das marcas nas mãos de Jesus — a evidência que convence
+
+Tomé não estava com os outros discípulos quando Jesus apareceu ressuscitado. Quando lhe contaram, respondeu: "Se eu não vir nas suas mãos o sinal dos cravos, e ali não puser o dedo, e não puser a mão no seu lado, de modo algum acreditarei" (João 20.25). Oito dias depois, Jesus voltou e ofereceu a Tomé exatamente a evidência que ele pedira. E Tomé confessou: "Senhor meu e Deus meu!".
+
+Jesus não desprezou o pedido de evidência. Atendeu. E acrescentou: "Bem-aventurados os que não viram e creram". Na fé, há bem-aventurança em crer sem ver. Na auditoria, não: o auditor precisa ver, tocar, confirmar. A opinião dele precisa de evidência.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir evidência de auditoria e seus atributos: suficiência e adequação (relevância e confiabilidade).
+
+- Classificar a evidência quanto à fonte, à natureza e à forma, e hierarquizar sua confiabilidade.
+
+- Conhecer as afirmações da administração que a evidência deve suportar.
+
+- Distinguir testes de controle e testes substantivos, e os tipos de testes substantivos.
+
+- Aplicar os principais procedimentos: inspeção, observação, confirmação externa, recálculo, reexecução, procedimentos analíticos e indagação.
+
+- Conhecer os métodos de seleção de itens para teste.
+
+### Fundamentação bíblica
+
+**João 20.27**
+
+> *Põe aqui o teu dedo e vê as minhas mãos; chega também a tua mão e põe-na no meu lado.*
+
+Jesus ofereceu evidência física, direta, obtida pelo próprio Tomé. É, até hoje, o tipo de evidência mais forte numa auditoria.
+
+**1 Tessalonicenses 5.21**
+
+> *Julgai todas as coisas, retende o que é bom.*
+
+Examinar antes de aceitar. Esse é o espírito do auditor.
+
+### O que é evidência de auditoria
+
+Segundo a NBC TA 500, evidência de auditoria são as informações utilizadas pelo auditor para chegar às conclusões em que se fundamenta a sua opinião. Inclui as informações dos registros contábeis e de outras fontes.
+
+### Atributos da evidência
+
+**Suficiência:** é a medida da **quantidade** da evidência. Depende do risco (quanto maior o risco, mais evidência) e da qualidade (evidência melhor pode exigir menos quantidade). Mas atenção: muita evidência ruim não substitui pouca evidência boa.
+
+**Adequação (apropriação):** é a medida da **qualidade** da evidência, composta por:
+
+- **Relevância:** a ligação lógica entre a evidência e o objetivo do teste. Para testar a existência de estoques, a contagem física é relevante; para testar a integridade dos passivos, examinar pagamentos posteriores é relevante.
+
+- **Confiabilidade:** quanto a evidência merece crédito.
+
+### Hierarquia de confiabilidade
+
+A NBC TA 500 traz generalizações úteis (sempre com exceções):
+
+- Evidência de **fonte externa independente** é mais confiável que a de fonte interna.
+
+- Evidência gerada internamente é mais confiável quando os **controles** relacionados são efetivos.
+
+- Evidência obtida **diretamente pelo auditor** (recálculo, observação) é mais confiável que a obtida indiretamente ou por inferência.
+
+- Evidência **documental**, em papel ou eletrônica, é mais confiável que a obtida verbalmente.
+
+- Documentos **originais** são mais confiáveis que cópias, fotocópias ou digitalizações.
+
+### Classificação da evidência
+
+- **Quanto à fonte:** externa (bancos, clientes, advogados), interna (registros da entidade), mista (documentos internos que circularam por terceiros, como uma nota fiscal de venda assinada pelo cliente).
+
+- **Quanto à natureza:** física (contagem, inspeção de bens), documental (contratos, notas, extratos), testemunhal (respostas a indagações), analítica (comparações e relações entre dados).
+
+- **Quanto à forma de obtenção:** direta ou indireta.
+
+### As afirmações da administração
+
+Quando a administração apresenta um balanço, ela afirma, implícita ou explicitamente, várias coisas sobre cada saldo. As principais afirmações:
+
+- **Existência / ocorrência:** o ativo existe; a transação aconteceu.
+
+- **Integridade:** tudo o que deveria estar registrado está.
+
+- **Direitos e obrigações:** a entidade tem o direito sobre o ativo e a obrigação sobre o passivo.
+
+- **Avaliação, alocação e exatidão:** os valores estão corretamente mensurados.
+
+- **Corte:** as transações foram registradas no período correto.
+
+- **Classificação e apresentação:** contas certas e divulgação adequada.
+
+Cada procedimento de auditoria tem que mirar uma afirmação. Exemplo clássico: examinar uma nota fiscal registrada (do registro para o documento) testa **ocorrência**; partir do documento de entrega e verificar se foi registrado (do documento para o registro) testa **integridade**.
+
+### Testes de controle e testes substantivos
+
+- **Testes de controle:** avaliam a efetividade operacional dos controles. Exemplo: verificar, numa amostra de pagamentos, se todos têm aprovação de quem tem alçada.
+
+- **Testes substantivos:** detectam distorções relevantes no nível das afirmações. Dividem-se em:
+
+- **Testes de detalhes:** examinam transações e saldos individuais — conferir documentos, circularizar, recalcular.
+
+- **Procedimentos analíticos substantivos:** avaliam informações por meio de relações plausíveis entre dados (NBC TA 520). Exemplo: a despesa de juros esperada é igual ao saldo médio de empréstimos vezes a taxa média; se a diferença for relevante, investiga-se.
+
+Independentemente do risco avaliado, o auditor deve executar procedimentos substantivos para cada classe relevante de transações, saldo e divulgação. Nenhum controle, por melhor que seja, elimina a necessidade de algum teste substantivo nas áreas relevantes.
+
+### Os procedimentos de auditoria
+
+- **Inspeção:** exame de registros, documentos ou ativos físicos.
+
+- **Observação:** acompanhar um processo sendo executado por outros, como a contagem de estoques.
+
+- **Confirmação externa (circularização):** resposta escrita direta de terceiro ao auditor (NBC TA 505). Pode ser **positiva** (o terceiro responde sempre, concordando ou não) ou **negativa** (só responde se discordar). A positiva é mais confiável. A circularização deve ser controlada pelo auditor do envio ao recebimento.
+
+- **Recálculo:** conferir a exatidão matemática de documentos e registros.
+
+- **Reexecução:** executar de forma independente um controle ou procedimento da entidade.
+
+- **Procedimentos analíticos:** comparações, índices, tendências.
+
+- **Indagação:** buscar informações com pessoas, dentro ou fora da entidade. Sozinha, quase nunca é suficiente.
+
+### Selecionando os itens para teste
+
+A NBC TA 500 apresenta três formas de selecionar itens:
+
+- **Seleção de todos os itens (100%):** quando a população é pequena e de alto valor, ou quando o risco é significativo, ou quando é eficiente fazê-lo com ferramentas eletrônicas.
+
+- **Seleção de itens específicos:** itens de alto valor, itens incomuns ou suspeitos, itens acima de determinado valor. Não permite projetar o resultado para o restante da população.
+
+- **Amostragem de auditoria:** examinar menos de 100% de forma que todos os itens tenham chance de seleção e se possa tirar conclusão sobre o todo (capítulo 15).
+
+### Em uma frase
+
+> *Evidência precisa ser suficiente (quantidade) e adequada (relevante e confiável). Externa, direta, documental e original valem mais. Todo teste mira uma afirmação.*
+
+### Débora e a circularização que voltou diferente
+
+Débora enviou cartas de confirmação positiva aos vinte maiores clientes do laticínio. Dezoito confirmaram os saldos. Um não respondeu. E um supermercado respondeu informando saldo de R$ 180 mil, enquanto a contabilidade registrava R$ 420 mil.
+
+Para o cliente que não respondeu, ela aplicou procedimentos alternativos: examinou os recebimentos de janeiro e as notas fiscais com canhoto de entrega. Para o supermercado, investigou a diferença: R$ 240 mil eram notas de venda emitidas em 30 de dezembro, cujas mercadorias só saíram da fábrica em 5 de janeiro. Um problema de **corte**. A receita tinha sido antecipada. Lembrou da variação de 22% na receita que tinha encontrado no planejamento. Começava a fazer sentido.
+
+### Ferramentas práticas
+
+**Ligue o procedimento à afirmação (exemplos para estudo)**
+
+- Contagem física de estoque: existência.
+
+- Exame de pagamentos após a data do balanço: integridade de passivos.
+
+- Notas e documentos de entrega próximos da data do balanço: corte.
+
+- Escritura e matrícula de imóvel: direitos.
+
+- Recálculo de depreciação: avaliação.
+
+- Circularização de clientes: existência e direitos.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você aceita com facilidade informações verbais sem pedir documento? Por quê?
+
+**2.** Qual a diferença entre a fé que crê sem ver e o ceticismo profissional que exige ver? Como as duas convivem em você?
+
+**3.** Em um trabalho recente, você testou existência mas esqueceu integridade, ou o contrário?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia João 20.19-31 e agradeça a Deus pela fé que vai além da evidência.
+
+**Esta semana**
+
+- Pegue cinco procedimentos de auditoria e escreva ao lado de cada um a afirmação que ele testa.
+
+**Este mês**
+
+- Monte um modelo de carta de circularização positiva para clientes, conforme a NBC TA 505.
+
+**Próximos 90 dias**
+
+- Execute (ou acompanhe) um ciclo completo de circularização e procedimentos alternativos.
+
+# Capítulo 15
+
+## Amostragem: examinar a parte para conhecer o todo
+
+@ILUS 15 | Os espias com o cacho de uvas — a amostra que revela a terra
+
+Os espias de Canaã não trouxeram a terra inteira. Trouxeram um cacho de uvas, romãs e figos (Números 13.23). Uma amostra. E, por ela, todo o povo pôde conhecer a fertilidade da terra. O auditor também não examina todas as transações de uma empresa. Examina uma parte, escolhida com método, para concluir sobre o todo.
+
+Mas atenção: uma amostra mal escolhida engana. Se os espias tivessem escolhido apenas a pior árvore, a conclusão seria falsa. Por isso, a amostragem tem regras.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir amostragem de auditoria segundo a NBC TA 530.
+
+- Distinguir amostragem estatística e não estatística.
+
+- Conhecer os principais métodos de seleção da amostra.
+
+- Explicar risco de amostragem e risco não resultante de amostragem.
+
+- Aplicar os conceitos de erro tolerável e erro (ou desvio) esperado.
+
+- Entender os fatores que afetam o tamanho da amostra e calcular uma amostra simples.
+
+### Fundamentação bíblica
+
+**Lucas 16.10**
+
+> *Quem é fiel no pouco também é fiel no muito.*
+
+A amostragem parte de uma ideia que a Bíblia já ensinava: o pequeno revela o grande. Se a parte, escolhida com justiça, é fiel, há razão para confiar no todo.
+
+**Provérbios 20.10**
+
+> *Dois pesos e duas medidas, uns e outras são abomináveis ao Senhor.*
+
+A seleção da amostra precisa ser imparcial. Escolher só os itens "bonitos" é usar dois pesos.
+
+### O que é amostragem de auditoria
+
+A NBC TA 530 define amostragem como a aplicação de procedimentos de auditoria em **menos de 100%** dos itens de uma população relevante, de forma que **todas as unidades de amostragem tenham a mesma chance de serem selecionadas**, para proporcionar uma base razoável para conclusões sobre toda a população.
+
+Repare: escolher apenas os vinte maiores clientes não é amostragem; é seleção de itens específicos. Útil, mas não permite projetar para o restante.
+
+### Estatística ou não estatística
+
+**Amostragem estatística** tem duas características: seleção aleatória dos itens **e** uso da teoria da probabilidade para avaliar os resultados, inclusive medindo o risco de amostragem.
+
+**Amostragem não estatística** é a que não tem essas duas características. O auditor usa julgamento para definir tamanho e avaliar resultados. É válida e muito usada, desde que a seleção seja representativa e sem viés.
+
+As duas são aceitas pelas normas. A diferença está na possibilidade de medir matematicamente o risco.
+
+### Métodos de seleção
+
+- **Seleção aleatória:** por números aleatórios gerados por software ou tabela. Todos os itens têm a mesma chance.
+
+- **Seleção sistemática:** divide-se a população pelo tamanho da amostra para obter um intervalo, escolhe-se um ponto de partida aleatório e seleciona-se cada item no intervalo. Exemplo: população de 2.000 notas, amostra de 40, intervalo de 50; começando no item 17, seleciona-se 17, 67, 117...
+
+- **Amostragem por unidade monetária (MUS):** cada real da população é uma unidade de amostragem; itens de valor maior têm mais chance de seleção. Muito útil para testar superavaliação.
+
+- **Seleção ao acaso (haphazard):** o auditor escolhe sem seguir técnica estruturada, mas evitando conscientemente qualquer viés. Não é adequada para amostragem estatística.
+
+- **Seleção em bloco:** escolhe itens contíguos (todas as notas de março, por exemplo). Raramente é apropriada como amostragem, porque a maioria das populações tem estrutura que torna o bloco não representativo.
+
+### Risco de amostragem e risco não resultante de amostragem
+
+**Risco de amostragem** é o risco de a conclusão tirada da amostra ser diferente da que seria tirada se toda a população fosse examinada. Tem dois lados:
+
+- Em **testes de controle:** o risco de concluir que o controle é mais efetivo do que realmente é (afeta a **eficácia** da auditoria — é o mais perigoso, pode levar a opinião errada); e o risco de concluir que é menos efetivo do que é (afeta a **eficiência** — gera trabalho a mais).
+
+- Em **testes de detalhes:** o risco de concluir que não há distorção relevante quando há (risco de **aceitação incorreta**, afeta a eficácia); e o risco de concluir que há quando não há (risco de **rejeição incorreta**, afeta a eficiência).
+
+**Risco não resultante da amostragem** é o risco de conclusão errada por qualquer outro motivo: procedimento inadequado, interpretação equivocada da evidência, falha em reconhecer uma distorção. Não se reduz aumentando a amostra; reduz-se com planejamento, supervisão e competência.
+
+### Erro tolerável e erro esperado
+
+- **Distorção tolerável (erro tolerável):** o valor monetário que o auditor procura obter segurança de que não é excedido pela distorção real da população. Normalmente está ligado à materialidade para execução.
+
+- **Taxa tolerável de desvio:** nos testes de controle, a taxa máxima de falhas do controle que o auditor aceita para continuar confiando nele.
+
+- **Erro (distorção ou desvio) esperado:** o erro que o auditor espera encontrar na população, com base em anos anteriores ou em testes preliminares.
+
+Quanto mais o erro esperado se aproxima do tolerável, maior precisa ser a amostra. Se o erro esperado for maior que o tolerável, não faz sentido amostrar: é melhor examinar mais itens ou adotar outra abordagem.
+
+### O que aumenta o tamanho da amostra
+
+- **Aumenta a amostra:** maior risco de distorção relevante; maior segurança desejada; menor erro tolerável; maior erro esperado; menor confiança nos controles; menos evidência de outros procedimentos sobre a mesma afirmação.
+
+- **Diminui a amostra:** o contrário de cada item acima, e a estratificação da população (dividir em grupos homogêneos).
+
+O tamanho da população afeta pouco o tamanho da amostra quando a população é grande.
+
+### Um cálculo simples por unidade monetária
+
+Na amostragem por unidade monetária, uma fórmula simplificada é:
+
+^ **Tamanho da amostra = (Valor da população × Fator de confiança) ÷ Distorção tolerável**
+
+O fator de confiança vem de tabela estatística. Para 95% de confiança e expectativa de zero erros, é aproximadamente 3,0.
+
+Exemplo: contas a receber de R$ 12.000.000, distorção tolerável de R$ 420.000 (a materialidade para execução do laticínio), confiança de 95%:
+
+^ (12.000.000 × 3,0) ÷ 420.000 ≈ 86 itens
+
+O intervalo de seleção é R$ 12.000.000 ÷ 86 ≈ R$ 139.535. Escolhe-se um ponto de partida aleatório e seleciona-se o item que contém cada unidade monetária no intervalo. Todo item maior que o intervalo é selecionado com certeza.
+
+### Avaliando o resultado
+
+Encontradas distorções na amostra, o auditor:
+
+- investiga a natureza e a causa de cada uma (erro ou fraude? isolado ou sistemático?);
+
+- **projeta** as distorções para a população;
+
+- compara a distorção projetada mais o risco de amostragem com a distorção tolerável;
+
+- se o resultado não fornecer base razoável, amplia a amostra, aplica procedimentos alternativos ou pede ajustes à administração.
+
+Uma distorção considerada **anomalia** — comprovadamente isolada e não representativa — pode ser excluída da projeção, mas isso exige alto grau de certeza e documentação.
+
+### Em uma frase
+
+> *Amostrar é examinar a parte para concluir sobre o todo, com seleção imparcial. Quanto maior o risco e o erro esperado e menor o erro tolerável, maior a amostra.*
+
+### Débora e as 86 duplicatas
+
+Débora aplicou a amostragem por unidade monetária nas contas a receber e selecionou 86 itens. Encontrou duas distorções, ambas de corte, como a do supermercado. Projetadas para a população, somavam R$ 510 mil, acima da materialidade para execução.
+
+Rafael não hesitou: a equipe ampliou o teste de corte para 100% das notas emitidas entre 20 de dezembro e 10 de janeiro. O total de vendas antecipadas chegou a R$ 1,1 milhão. Era mais que a materialidade global. Teria de ser ajustado, ou haveria ressalva.
+
+### Ferramentas práticas
+
+**Roteiro de amostragem em seis passos**
+
+- Defina o objetivo do teste e a afirmação.
+
+- Defina a população e confirme que ela está completa.
+
+- Defina erro tolerável e erro esperado.
+
+- Calcule o tamanho da amostra e escolha o método de seleção.
+
+- Execute os procedimentos em cada item selecionado.
+
+- Avalie: natureza, projeção, comparação com o tolerável e conclusão.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você já tirou uma conclusão sobre uma pessoa ou situação a partir de uma "amostra" viciada?
+
+**2.** Por que o risco não resultante de amostragem não se resolve com mais itens?
+
+**3.** O que, na sua vida, a "parte" está revelando sobre o "todo"?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça, com suas mãos, o cálculo da amostra do exemplo deste capítulo.
+
+**Esta semana**
+
+- Pegue uma lista real (notas, pagamentos) e selecione uma amostra sistemática com ponto de partida aleatório.
+
+**Este mês**
+
+- Leia a NBC TA 530 e seus apêndices sobre fatores que influenciam o tamanho da amostra.
+
+**Próximos 90 dias**
+
+- Execute um teste completo com amostragem e documente a avaliação dos resultados.
+
+# Capítulo 16
+
+## Revisão e exercícios de fixação
+
+@ILUS 16 | Um caderno aberto com anotações e uma lâmpada acesa — a hora de fixar o aprendizado
+
+Esdras "tinha preparado o seu coração para buscar a lei do Senhor, e para a cumprir, e para ensinar em Israel os seus estatutos" (Esdras 7.10). Repare na ordem: buscar, cumprir, ensinar. Primeiro se estuda, depois se pratica, e só então se ensina. Este capítulo é uma parada para fixar o que vimos sobre responsabilidade do auditor, materialidade, evidência e amostragem, antes de seguirmos para o relatório.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Revisar os conceitos centrais dos capítulos 10 a 15.
+
+- Resolver questões de fixação no estilo de provas e concursos.
+
+- Identificar seus pontos fracos e voltar ao capítulo correspondente.
+
+### Fundamentação bíblica
+
+**Deuteronômio 6.6-7**
+
+> *Estas palavras que hoje te ordeno estarão no teu coração; tu as inculcarás a teus filhos.*
+
+Inculcar é repetir até fixar. A repetição não é perda de tempo: é o caminho da memória duradoura.
+
+### Revisão em tópicos
+
+- **Responsabilidade:** prevenir e detectar fraude é responsabilidade primária da administração e da governança; o auditor busca segurança razoável, com ceticismo profissional (NBC TA 240).
+
+- **Fraude x erro:** a diferença é a intenção.
+
+- **Materialidade:** global, para execução e limite trivial (NBC TA 320).
+
+- **Risco de auditoria:** RI × RC × RD; o auditor só controla o RD.
+
+- **Evidência:** suficiente (quantidade) e adequada (relevância e confiabilidade) (NBC TA 500).
+
+- **Confiabilidade:** externa > interna; direta > indireta; documental > verbal; original > cópia.
+
+- **Amostragem:** menos de 100%, todos com chance de seleção (NBC TA 530); estatística exige seleção aleatória e avaliação probabilística.
+
+- **Riscos de amostragem:** aceitação incorreta e confiar demais afetam a eficácia; rejeição incorreta e confiar de menos afetam a eficiência.
+
+### Exercícios de fixação
+
+**1.** A responsabilidade primária pela prevenção e detecção de fraudes é:
+
+a) do auditor independente.
+b) dos responsáveis pela governança e da administração.
+c) do conselho fiscal, exclusivamente.
+d) do contador responsável pela escrituração.
+
+**2.** Um assistente digitou R$ 15.800 em vez de R$ 18.500 ao lançar uma nota fiscal, sem qualquer intenção. Trata-se de:
+
+a) fraude por apropriação indébita.
+b) informação contábil fraudulenta.
+c) erro.
+d) burla de controles.
+
+**3.** Assinale a evidência, em regra, mais confiável:
+
+a) resposta verbal do gerente financeiro.
+b) cópia digitalizada de contrato fornecida pelo cliente.
+c) confirmação de saldo enviada pelo banco diretamente ao auditor.
+d) relatório interno gerado por sistema com controles fracos.
+
+**4.** Se o risco de distorção relevante avaliado aumenta, o auditor deve:
+
+a) aumentar o risco de detecção aceitável.
+b) reduzir o risco de detecção aceitável, ampliando os testes substantivos.
+c) manter os mesmos testes.
+d) emitir opinião adversa.
+
+**5.** O risco de o auditor concluir que não há distorção relevante quando ela existe chama-se:
+
+a) risco de rejeição incorreta.
+b) risco de aceitação incorreta.
+c) risco inerente.
+d) risco não resultante de amostragem.
+
+**6.** Sobre amostragem estatística, é correto afirmar:
+
+a) basta que o tamanho da amostra seja grande.
+b) exige seleção aleatória e uso de teoria da probabilidade na avaliação.
+c) é proibida pelas normas brasileiras.
+d) dispensa julgamento profissional.
+
+**7.** Qual fator **reduz** o tamanho da amostra?
+
+a) aumento do erro esperado.
+b) redução do erro tolerável.
+c) maior confiança nos controles internos testados.
+d) aumento do risco de distorção relevante.
+
+**8.** A contagem física de estoques acompanhada pelo auditor fornece evidência principalmente sobre:
+
+a) integridade dos passivos.
+b) existência.
+c) direitos e obrigações.
+d) classificação.
+
+**9.** Uma empresa tem lucro antes do IR de R$ 4.000.000. Usando 5% como referência, a materialidade global e uma materialidade para execução de 75% seriam, respectivamente:
+
+a) R$ 200.000 e R$ 150.000.
+b) R$ 400.000 e R$ 300.000.
+c) R$ 200.000 e R$ 266.667.
+d) R$ 40.000 e R$ 30.000.
+
+**10.** Na circularização negativa, o terceiro:
+
+a) responde sempre, concordando ou discordando.
+b) responde somente se discordar do saldo informado.
+c) envia o saldo sem que ele seja informado na carta.
+d) não precisa ser identificado.
+
+### Gabarito comentado
+
+**1 — b.** NBC TA 240: a responsabilidade primária é da governança e da administração.
+
+**2 — c.** Sem intenção, é erro.
+
+**3 — c.** Fonte externa, independente, obtida diretamente pelo auditor.
+
+**4 — b.** Maior risco de distorção exige menor risco de detecção, ou seja, mais e melhores testes.
+
+**5 — b.** Aceitação incorreta afeta a eficácia da auditoria.
+
+**6 — b.** As duas características definem a amostragem estatística.
+
+**7 — c.** Confiar mais nos controles permite menos teste substantivo.
+
+**8 — b.** Contagem física testa existência.
+
+**9 — a.** 5% de 4.000.000 = 200.000; 75% de 200.000 = 150.000.
+
+**10 — b.** Na negativa, o silêncio é tomado como concordância; por isso é menos confiável.
+
+### Em uma frase
+
+> *Buscar, cumprir e ensinar. Quem acerta as dez questões está pronto para o relatório; quem errou alguma volta ao capítulo sem vergonha.*
+
+### Débora estuda para a prova interna
+
+A Prates & Lima aplicava uma prova interna aos assistentes no fim do primeiro semestre. Débora montou um grupo de estudos com Lucas e mais dois colegas, toda quinta-feira depois do expediente. Começavam com uma oração curta e terminavam com cada um explicando um conceito para os outros. Na prova, Débora acertou nove de dez. Errou a de risco de amostragem. Voltou ao capítulo e escreveu num cartão: "Aceitação incorreta é o perigo; rejeição incorreta é o custo".
+
+### Ferramentas práticas
+
+**Método de estudo em três tempos**
+
+- Buscar: leia o capítulo e resuma em dez linhas.
+
+- Cumprir: resolva os exercícios sem consultar.
+
+- Ensinar: explique o conteúdo para alguém em cinco minutos.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Quais questões você errou? Que conceito está por trás delas?
+
+**2.** Para quem você poderia ensinar o que aprendeu até aqui?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Resolva os dez exercícios sem consultar e confira o gabarito.
+
+**Esta semana**
+
+- Volte aos capítulos das questões que errou e refaça os resumos.
+
+**Este mês**
+
+- Monte ou entre em um grupo de estudos de auditoria.
+
+**Próximos 90 dias**
+
+- Resolva pelo menos cinquenta questões de provas anteriores (Exame de Suficiência, CNAI, concursos) sobre os temas dos capítulos 10 a 15.

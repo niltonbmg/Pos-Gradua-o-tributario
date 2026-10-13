@@ -1,0 +1,697 @@
+# Capítulo 5
+
+## Auditoria como técnica contábil: interna e externa
+
+@ILUS 05 | O vigia sobre o muro e o mensageiro que vem de fora — dois olhares sobre a mesma cidade
+
+Quando Neemias reconstruiu os muros de Jerusalém, organizou dois tipos de proteção. Dentro da cidade, colocou guardas "cada um diante da sua casa" (Neemias 7.3), gente da própria comunidade, que conhecia cada rua e vigiava todos os dias. E, de tempos em tempos, vinham notícias e avaliações de fora — inclusive de quem não tinha nenhum interesse em agradar Neemias.
+
+A empresa moderna funciona do mesmo jeito. Ela tem o vigia de dentro, a auditoria interna, e o examinador de fora, a auditoria externa ou independente. Os dois olham para a mesma cidade, mas com olhos, propósitos e lealdades diferentes.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Compreender a auditoria como técnica contábil e sua relação com a contabilidade.
+
+- Diferenciar auditoria interna e auditoria externa quanto a vínculo, objetivo, alcance, periodicidade e destinatários.
+
+- Reconhecer como as duas se complementam e como o auditor externo pode usar o trabalho da interna.
+
+### Fundamentação bíblica
+
+**Provérbios 27.17**
+
+> *Como o ferro com o ferro se afia, assim o homem ao seu amigo.*
+
+Os dois olhares não competem: um afia o outro. A auditoria interna conhece a casa; a externa traz independência. Juntas, tornam a empresa mais confiável do que qualquer uma sozinha.
+
+### Auditoria como técnica contábil
+
+A contabilidade tem suas técnicas: a escrituração (registrar os fatos), as demonstrações (apresentar os resultados), a análise de balanços (interpretar os números) e a auditoria (verificar se os registros e as demonstrações correspondem à realidade). A auditoria é, portanto, a técnica contábil que confirma as outras. Ela parte dos registros e vai até os fatos — ou parte dos fatos e confere se foram registrados.
+
+Por isso o auditor precisa ser, antes de tudo, um bom contador. Ninguém verifica bem aquilo que não sabe fazer.
+
+### Auditoria interna
+
+A auditoria interna é uma atividade independente e objetiva de avaliação e consultoria, criada para agregar valor e melhorar as operações da organização. Ela avalia a eficácia dos processos de gerenciamento de riscos, controle e governança. No Brasil, é tratada na NBC TI 01 e, internacionalmente, nas normas globais do Instituto dos Auditores Internos (IIA).
+
+Características principais:
+
+- **Vínculo:** normalmente é empregada da própria entidade (ou terceirizada, mas a serviço dela).
+
+- **Independência:** relativa. Para ser efetiva, deve reportar-se ao conselho de administração ou ao comitê de auditoria, e não ao diretor cujas áreas ela examina.
+
+- **Objetivo:** avaliar controles, riscos, processos, cumprimento de políticas, eficiência operacional.
+
+- **Alcance:** amplo — financeiro, operacional, tecnológico, de conformidade.
+
+- **Periodicidade:** contínua, ao longo do ano.
+
+- **Destinatários:** administração e conselho.
+
+- **Produto:** relatórios com recomendações.
+
+### Auditoria externa (independente)
+
+- **Vínculo:** profissional ou firma sem vínculo de emprego com a entidade, registrado no CRC e, no caso de companhias abertas, na CVM.
+
+- **Independência:** total, exigida por norma e por lei. O auditor não pode ter interesses financeiros no cliente, parentesco próximo com administradores, nem prestar serviços que comprometam a independência.
+
+- **Objetivo:** emitir opinião sobre as demonstrações contábeis.
+
+- **Alcance:** demonstrações contábeis e os controles relevantes para elas.
+
+- **Periodicidade:** normalmente anual (com revisões trimestrais em companhias abertas).
+
+- **Destinatários:** sócios, acionistas, mercado, bancos, governo, sociedade.
+
+- **Produto:** relatório do auditor independente, com opinião. Também pode emitir uma carta de recomendações sobre controles.
+
+### Como uma usa o trabalho da outra
+
+A NBC TA 610 permite que o auditor externo utilize o trabalho da auditoria interna, desde que avalie a objetividade, a competência e a abordagem sistemática dela. Mas a responsabilidade pela opinião continua sendo exclusiva do auditor externo. Ele pode aproveitar o trabalho, não terceirizar o julgamento.
+
+### Em uma frase
+
+> *A auditoria interna é o vigia de dentro, contínuo e voltado à melhoria; a externa é o examinador de fora, independente e voltado à opinião. Uma afia a outra.*
+
+### Débora conhece a auditoria interna
+
+O Laticínios Vale Verde não tinha auditoria interna, mas tinha Joana, uma controladora que, por conta própria, fazia conferências mensais de estoque nas filiais. Débora pediu para ver as planilhas. Estavam bem feitas, com assinaturas e datas.
+
+Rafael explicou que aquilo não substituía o inventário que a equipe faria em 31 de dezembro, mas ajudava a entender o risco. "Ela é o vigia de Neemias. A gente é quem vem de fora. Se o vigia é bom, a gente dorme um pouco mais tranquilo. Mas não deixa de olhar."
+
+### Ferramentas práticas
+
+**Quadro comparativo para estudo (copie no caderno)**
+
+- Vínculo: interna — empregada; externa — independente.
+
+- Objetivo: interna — melhoria e controle; externa — opinião sobre demonstrações.
+
+- Periodicidade: interna — contínua; externa — anual.
+
+- Destinatário: interna — administração e conselho; externa — sócios e terceiros.
+
+- Norma: interna — NBC TI 01 e normas do IIA; externa — NBC TA.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua vida, quem é o "vigia de dentro" e quem é o "examinador de fora"?
+
+**2.** Por que a auditoria interna perde força quando se reporta ao mesmo diretor que ela examina?
+
+**3.** Que tipo de auditor você se sente chamado a ser: interno ou externo?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Agradeça a Deus pelas pessoas que te corrigem. Ore por elas pelo nome.
+
+**Esta semana**
+
+- Descubra se a empresa onde você trabalha tem auditoria interna e a quem ela se reporta.
+
+**Este mês**
+
+- Leia o relatório do auditor independente de uma empresa que você admira e veja se há menção à auditoria interna ou ao comitê de auditoria.
+
+**Próximos 90 dias**
+
+- Proponha, na sua empresa ou num cliente, uma rotina simples de auditoria interna mensal em uma área de risco.
+
+# Capítulo 6
+
+## Auditoria e perícia contábil: primas, não gêmeas
+
+@ILUS 06 | O rei Salomão diante das duas mulheres — a perícia que esclarece o juiz
+
+Duas mulheres chegaram diante de Salomão disputando um bebê. Não havia testemunhas, não havia documentos. Salomão pediu uma espada e mandou dividir a criança. A verdadeira mãe, tomada de compaixão, abriu mão do filho para salvá-lo. E o rei soube quem era a mãe (1 Reis 3.16-28).
+
+Salomão não fez uma auditoria. Ele não estava emitindo uma opinião periódica sobre a gestão de uma família. Estava esclarecendo um fato controverso para tomar uma decisão judicial. Essa é, em essência, a diferença entre auditoria e perícia. As duas são técnicas contábeis, as duas examinam documentos e as duas buscam a verdade. Mas não são gêmeas. São primas.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir perícia contábil e identificar suas modalidades.
+
+- Apontar as semelhanças entre auditoria e perícia.
+
+- Apontar as diferenças quanto a objetivo, iniciativa, periodicidade, destinatário, escopo e produto.
+
+- Conhecer as normas que regem a perícia contábil no Brasil.
+
+### Fundamentação bíblica
+
+**Deuteronômio 19.15**
+
+> *Pelo depoimento de duas ou três testemunhas se estabelecerá o fato.*
+
+A Lei de Moisés não aceitava condenação por palavra solitária. Exigia prova. A perícia nasce desse mesmo princípio: o juiz não decide sobre números com base em impressão; decide com base em prova técnica.
+
+**Provérbios 25.2**
+
+> *A glória de Deus é encobrir as coisas; mas a glória dos reis é esquadrinhá-las.*
+
+Esquadrinhar é investigar com método. Auditor e perito participam dessa "glória dos reis" quando colocam a verdade à luz.
+
+### O que é perícia contábil
+
+Perícia contábil é o conjunto de procedimentos técnicos e científicos destinados a levar à instância decisória elementos de prova necessários para subsidiar a justa solução de um litígio, mediante laudo pericial contábil ou parecer técnico-contábil. É regida pela NBC TP 01 (técnica) e pela NBC PP 01 (profissional), e, no processo judicial, pelos artigos 156 a 158 e 464 a 480 do Código de Processo Civil.
+
+Modalidades:
+
+- **Judicial:** determinada pelo juiz dentro de um processo.
+
+- **Extrajudicial:** contratada pelas partes fora do processo, por exemplo para resolver uma disputa societária.
+
+- **Arbitral:** no âmbito de um procedimento de arbitragem.
+
+- **Assistente técnico:** contador contratado por uma das partes para acompanhar a perícia e emitir parecer técnico.
+
+Perícia contábil é prerrogativa exclusiva do contador com registro ativo no CRC.
+
+### Semelhanças
+
+- Ambas são técnicas contábeis exercidas por contador registrado.
+
+- Ambas exigem independência, objetividade e sigilo.
+
+- Ambas usam procedimentos parecidos: exame documental, indagação, confirmação com terceiros, cálculos, vistoria.
+
+- Ambas resultam em documento escrito e assinado, sujeito a responsabilização.
+
+### Diferenças
+
+**Objetivo.** A auditoria emite opinião sobre demonstrações contábeis. A perícia esclarece fatos controvertidos para subsidiar uma decisão.
+
+**Iniciativa.** A auditoria é contratada pela entidade (ou exigida por lei). A perícia é determinada pelo juiz, pelo árbitro, ou contratada pelas partes em disputa.
+
+**Periodicidade.** A auditoria é normalmente periódica e recorrente. A perícia é eventual, nasce de um litígio.
+
+**Escopo.** A auditoria examina as demonstrações como um todo, por amostragem. A perícia responde a quesitos específicos, muitas vezes examinando 100% dos documentos daquela questão.
+
+**Destinatário.** Na auditoria, sócios e usuários externos. Na perícia, o juiz, o árbitro ou as partes.
+
+**Produto.** Na auditoria, o relatório do auditor com opinião. Na perícia, o laudo pericial (do perito) ou o parecer técnico (do assistente).
+
+**Sigilo e publicidade.** O relatório de auditoria de companhia aberta é público. O laudo pericial segue as regras do processo.
+
+### Em uma frase
+
+> *A auditoria opina periodicamente sobre o todo; a perícia esclarece eventualmente um fato em disputa. Primas na técnica, diferentes no propósito.*
+
+### Débora e o processo trabalhista
+
+Durante o trabalho de campo, Débora encontrou nas notas explicativas um processo trabalhista de valor alto contra o laticínio. O advogado tinha pedido perícia contábil para calcular horas extras. Ela perguntou a Rafael se a firma deveria refazer os cálculos do perito.
+
+"Não", respondeu ele. "O perito responde ao juiz, a gente responde aos usuários das demonstrações. O nosso papel é avaliar se a provisão e a divulgação estão adequadas, considerando o laudo, a opinião dos advogados e a probabilidade de perda. Cada um no seu quadrado."
+
+### Ferramentas práticas
+
+**Teste rápido: auditoria ou perícia?**
+
+- Há um litígio ou uma controvérsia específica? Tende a ser perícia.
+
+- Há quesitos formulados por juiz ou partes? Perícia.
+
+- Busca-se opinião sobre demonstrações completas de um período? Auditoria.
+
+- O trabalho é recorrente, todo ano? Auditoria.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Salomão pediu sabedoria antes de julgar. Você ora pedindo sabedoria antes de assinar um trabalho técnico?
+
+**2.** Por que o assistente técnico de uma das partes continua obrigado à verdade, mesmo sendo contratado por um lado?
+
+**3.** Qual das duas carreiras, auditoria ou perícia, combina mais com seus dons?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia 1 Reis 3 inteiro e ore pedindo um coração que discerne.
+
+**Esta semana**
+
+- Leia a NBC TP 01 no site do CFC e anote três diferenças de procedimento em relação à auditoria.
+
+**Este mês**
+
+- Peça para ler um laudo pericial real (sem dados sigilosos) com um colega perito.
+
+**Próximos 90 dias**
+
+- Monte uma tabela pessoal comparando auditoria e perícia e use-a para ensinar alguém.
+
+# Capítulo 7
+
+## Papéis de trabalho: a memória escrita da verdade
+
+@ILUS 07 | O escriba com rolos e pergaminhos organizados — a documentação que preserva a verdade
+
+Quando o rei Assuero não conseguia dormir, mandou trazer "o livro das memórias, as crônicas" (Ester 6.1). E ali, numa anotação esquecida, estava registrado que Mordecai havia salvado a vida do rei, denunciando uma conspiração. Ninguém lembrava. Mas estava escrito. E aquele registro mudou o destino de um povo inteiro.
+
+O auditor também tem o seu livro das memórias: os papéis de trabalho. São eles que provam o que foi feito, como foi feito, o que foi encontrado e por que se chegou àquela opinião. Se não está documentado, para efeito de auditoria, não foi feito.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir papéis de trabalho (documentação de auditoria) e sua finalidade segundo a NBC TA 230.
+
+- Descrever as características e os requisitos de um bom papel de trabalho.
+
+- Distinguir os tipos de papéis de trabalho quanto à origem e quanto ao uso (permanentes e correntes).
+
+- Aplicar sistemas de codificação, referência cruzada e símbolos (tiques).
+
+- Conhecer as regras de propriedade, destinação, guarda e prazo de retenção.
+
+### Fundamentação bíblica
+
+**Habacuque 2.2**
+
+> *Escreve a visão, grava-a sobre tábuas, para que a possa ler até quem passa correndo.*
+
+Deus mandou escrever com clareza, de modo que até quem lê com pressa entenda. É o padrão de um bom papel de trabalho: um auditor experiente que não participou do trabalho precisa conseguir entender tudo.
+
+**Lucas 1.3**
+
+> *Igualmente a mim me pareceu bem, depois de acurada investigação de tudo desde sua origem, dar-te por escrito, excelentíssimo Teófilo, uma exposição em ordem.*
+
+Lucas foi um investigador cuidadoso: pesquisou, conferiu fontes e escreveu "em ordem". É exatamente isso que se espera da documentação de auditoria.
+
+### O que são papéis de trabalho
+
+Segundo a NBC TA 230, documentação de auditoria é o registro dos procedimentos executados, da evidência obtida e das conclusões alcançadas pelo auditor. Também são chamados de papéis de trabalho, mesmo que hoje sejam quase todos digitais.
+
+Finalidades:
+
+- fornecer evidência de que o trabalho foi planejado e executado de acordo com as normas;
+
+- servir de base para a opinião do auditor;
+
+- permitir a supervisão e a revisão do trabalho;
+
+- permitir que a equipe preste contas;
+
+- manter registro de assuntos relevantes para auditorias futuras;
+
+- permitir revisões de controle de qualidade e inspeções externas (CFC, CVM).
+
+### Características e requisitos
+
+O teste de ouro da NBC TA 230 é este: a documentação deve ser suficiente para permitir que um **auditor experiente, sem nenhum envolvimento anterior com o trabalho**, entenda a natureza, a época e a extensão dos procedimentos, os resultados e a evidência obtida, e os assuntos significativos com as conclusões alcançadas.
+
+Um bom papel de trabalho é:
+
+- **Completo:** contém tudo o que é necessário, sem depender de explicação verbal.
+
+- **Claro e objetivo:** sem ambiguidade.
+
+- **Conciso:** sem excesso de cópias inúteis.
+
+- **Lógico e organizado:** segue uma sequência compreensível.
+
+- **Identificado:** nome do cliente, data-base, área, objetivo do teste, fonte das informações, quem preparou e quando, quem revisou e quando.
+
+- **Referenciado:** com códigos e referências cruzadas.
+
+- **Conclusivo:** termina com uma conclusão sobre o objetivo do teste.
+
+### Tipos de papéis de trabalho
+
+**Quanto à origem (forma de preparação):**
+
+- Preparados pelo auditor (planilhas de testes, memorandos, programas de auditoria).
+
+- Preparados pelo cliente e conferidos pelo auditor — no jargão, PBC, do inglês *prepared by client* (razões, conciliações, relação de estoques).
+
+- Obtidos de terceiros (respostas de circularização de bancos, advogados, clientes e fornecedores).
+
+**Quanto ao uso:**
+
+- **Permanentes:** informações úteis por vários anos — contrato social, organograma, atas relevantes, contratos de longo prazo, descrição dos sistemas, histórico de ajustes.
+
+- **Correntes:** informações do exercício auditado — balancetes, testes, conciliações, cartas de representação, programas do ano.
+
+**Quanto à função:**
+
+- Programas de auditoria (o "roteiro" de procedimentos de cada área).
+
+- Folhas-mestras ou sumárias (resumem a área, com saldos e conclusões).
+
+- Folhas de detalhe ou analíticas (os testes propriamente ditos).
+
+- Memorandos (descrição de assuntos relevantes e julgamentos).
+
+### Codificação e referências
+
+Para que centenas de papéis conversem entre si, usa-se codificação. Um sistema comum:
+
+- Letras para grandes áreas: A — Disponível; B — Clientes; C — Estoques; D — Imobilizado; AA — Fornecedores; BB — Obrigações fiscais; e assim por diante. Ou números por grupo de contas.
+
+- Números para as folhas dentro de cada área: C — folha-mestra de estoques; C-1 — inventário físico; C-2 — teste de custo; C-2/1 — detalhe do teste.
+
+- **Referência cruzada:** quando um valor aparece em dois papéis, cada um indica o código do outro. O saldo de estoques na folha-mestra C remete ao balancete, e vice-versa.
+
+- **Tiques ou símbolos:** marcas padronizadas que indicam o procedimento feito: "conferido com documento", "somado", "confirmado com terceiro", "conferido com razão". Toda folha deve trazer a legenda dos tiques usados.
+
+### Propriedade, destinação e guarda
+
+Os papéis de trabalho são **propriedade do auditor**. O cliente não tem direito de exigi-los, e o auditor só os entrega a terceiros nos casos previstos em lei, em norma ou com autorização do cliente — por exemplo, nas inspeções do CFC ou da CVM, ou por ordem judicial. O sigilo é dever ético.
+
+A NBC TA 230 manda montar o arquivo final de auditoria tempestivamente após a data do relatório; a norma de gestão de qualidade indica, como referência, prazo de até 60 dias. Depois de montado, não se apaga nem se descarta documentação antes do fim do prazo de retenção. Se for necessário acrescentar algo, documenta-se o motivo, quem fez e quando.
+
+O prazo de retenção, pelas normas do CFC, é de no mínimo **cinco anos** a contar da data do relatório do auditor. Atenção: leis específicas ou reguladores podem exigir prazos maiores, e, em matéria tributária, convém considerar os prazos de decadência e prescrição.
+
+### Em uma frase
+
+> *Papel de trabalho é a memória escrita da verdade: deve ser entendido por um auditor experiente que nunca viu o trabalho. Se não está documentado, não foi feito.*
+
+### Débora e o queijo que não estava no papel
+
+No dia 31 de dezembro, Débora contou estoques na câmara fria da matriz por seis horas. Voltou para casa com as mãos geladas e uma sensação de dever cumprido. Na semana seguinte, Rafael revisou o papel C-1 e devolveu com uma nota a lápis: "Onde está o que você contou? Qual foi o critério de seleção? Quem acompanhou? Qual a conclusão?".
+
+Ela tinha feito o trabalho, mas não tinha escrito. Refez o papel em uma tarde: objetivo, fonte, amostra, tiques, diferenças encontradas, conclusão. No rodapé, a sigla dela e a data. Quando terminou, lembrou de Ester. Mordecai foi lembrado porque alguém escreveu. Trabalho não registrado é como serviço que ninguém pode provar.
+
+### Ferramentas práticas
+
+**Cabeçalho-padrão de papel de trabalho**
+
+- Cliente / data-base / área / código do papel.
+
+- Objetivo do teste.
+
+- Fonte das informações.
+
+- Procedimento executado.
+
+- Legenda de tiques.
+
+- Resultado e exceções encontradas.
+
+- Conclusão.
+
+- Preparado por (sigla e data) / revisado por (sigla e data).
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Se outro profissional abrisse hoje os seus arquivos de trabalho, entenderia o que você fez?
+
+**2.** Por que a documentação é também uma forma de humildade, de se colocar à disposição da revisão?
+
+**3.** Quais documentos da sua vida pessoal e da sua empresa deveriam estar organizados e não estão?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Escolha um trabalho recente e reescreva a documentação dele usando o cabeçalho-padrão.
+
+**Esta semana**
+
+- Crie sua legenda pessoal de tiques e use-a sempre.
+
+**Este mês**
+
+- Organize um arquivo permanente para cada cliente ou área sob sua responsabilidade.
+
+**Próximos 90 dias**
+
+- Peça a alguém mais experiente para revisar três dos seus papéis de trabalho e aplique as correções.
+
+# Capítulo 8
+
+## A classificação dos tipos de auditoria
+
+@ILUS 08 | Um mapa com caminhos que se bifurcam — as muitas formas de auditar
+
+Quando Jesus enviou os discípulos, não mandou todos para o mesmo lugar nem com a mesma tarefa. Os doze foram às ovelhas perdidas de Israel (Mateus 10). Depois, setenta foram enviados de dois em dois a cada cidade aonde Ele havia de ir (Lucas 10). Missões diferentes, para lugares diferentes, com instruções diferentes — mas o mesmo Senhor e o mesmo propósito.
+
+Auditoria também tem muitas formas. E quem não entende a classificação se perde: acha que todo auditor faz a mesma coisa, ou que auditoria é sinônimo de fiscalização. Vamos organizar o mapa.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Classificar a auditoria quanto ao executor, ao objeto, à forma de execução, à extensão e à periodicidade.
+
+- Distinguir auditoria contábil, operacional, de conformidade, de sistemas, ambiental e tributária.
+
+- Situar a auditoria fiscal (do Fisco) e a auditoria tributária (preventiva) nesse mapa.
+
+### Fundamentação bíblica
+
+**1 Coríntios 12.4-6**
+
+> *Ora, os dons são diversos, mas o Espírito é o mesmo. E também há diversidade nos serviços, mas o Senhor é o mesmo.*
+
+A diversidade de formas de auditar não é bagunça. É especialização a serviço de um mesmo propósito: proteger a verdade.
+
+### Quanto ao executor (vínculo)
+
+- **Auditoria interna:** executada por profissionais da própria entidade.
+
+- **Auditoria externa ou independente:** executada por profissional ou firma sem vínculo.
+
+- **Auditoria governamental:** executada por órgãos públicos de controle (capítulo 9).
+
+- **Auditoria fiscal:** executada pelos auditores-fiscais da administração tributária (Receita Federal, Secretarias da Fazenda estaduais e municipais) para verificar o cumprimento das obrigações tributárias. É fiscalização com poder de lançar tributo e multa.
+
+### Quanto ao objeto
+
+- **Contábil ou de demonstrações:** opina sobre as demonstrações.
+
+- **Operacional (de desempenho, de gestão):** avalia eficiência, eficácia e economicidade das operações.
+
+- **De conformidade (compliance):** verifica se a entidade cumpre leis, regulamentos, contratos e políticas.
+
+- **De sistemas (tecnologia da informação):** avalia controles e confiabilidade dos sistemas.
+
+- **Tributária:** examina apuração, recolhimento, créditos e obrigações acessórias, normalmente de forma preventiva, contratada pela própria empresa para corrigir erros antes que o Fisco os encontre e para recuperar tributos pagos a maior.
+
+- **Ambiental, de qualidade, de sustentabilidade:** voltadas a aspectos específicos.
+
+### Quanto à forma e à extensão
+
+- **Permanente (contínua):** executada ao longo de todo o período, em visitas regulares.
+
+- **Eventual (especial):** executada para um fim específico — por exemplo, uma investigação de fraude ou uma diligência para compra de empresa (*due diligence*).
+
+- **Geral:** abrange a entidade como um todo.
+
+- **Parcial ou específica:** limita-se a uma área, conta ou unidade.
+
+### Quanto ao momento
+
+- **Preventiva ou prévia:** antes do fato consumado (por exemplo, revisão de contratos antes da assinatura).
+
+- **Concomitante:** durante a realização das operações.
+
+- **Subsequente (a posteriori):** depois dos fatos, que é o caso típico da auditoria das demonstrações.
+
+### Auditoria tributária: mordomia preventiva
+
+Para o empresário cristão, a auditoria tributária preventiva é das mais úteis. Ela pergunta: "Se o Fisco chegasse hoje, o que encontraria?". E também: "Estamos pagando mais do que a lei manda?". Corrige erros com denúncia espontânea, que afasta a multa de mora no âmbito federal (CTN, art. 138), e identifica créditos a recuperar dentro do prazo de cinco anos. É o "presta contas da tua administração" antes que alguém o exija.
+
+Com a Reforma Tributária (EC 132/2023 e LC 214/2025), a transição entre 2026 e 2033 vai multiplicar os pontos de atenção: CBS e IBS convivendo com PIS, COFINS, ICMS e ISS, novas obrigações acessórias, novas regras de crédito. A auditoria tributária ganha ainda mais importância nessa década.
+
+### Em uma frase
+
+> *Auditoria se classifica por quem faz, pelo que examina, por como e quando examina. A auditoria fiscal é a do Fisco; a tributária preventiva é a que o empresário sábio contrata antes do Fisco chegar.*
+
+### Débora e o mapa na parede
+
+Para estudar, Débora desenhou o mapa deste capítulo numa cartolina e colou na parede do quarto. Sua mãe, ao ver, perguntou se ela ia trabalhar na Receita. Débora riu: "Não, mãe. Eu sou auditora independente. O auditor-fiscal da Receita cobra imposto. Eu opino sobre o balanço. Mas o cliente que se prepara com a gente dorme melhor quando o fiscal chega".
+
+### Ferramentas práticas
+
+**Ficha de classificação (aplique a qualquer trabalho)**
+
+- Quem executa? Interno, externo, governamental ou fiscal?
+
+- O que examina? Demonstrações, operações, conformidade, sistemas, tributos?
+
+- Qual extensão? Geral ou parcial?
+
+- Qual periodicidade? Permanente ou eventual?
+
+- Em que momento? Prévia, concomitante ou subsequente?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Se o Fisco chegasse hoje à sua empresa ou ao seu cliente, o que encontraria?
+
+**2.** Qual tipo de auditoria mais combina com seus dons?
+
+**3.** Por que a auditoria preventiva é uma expressão de mordomia?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Desenhe o mapa da classificação no seu caderno, à mão.
+
+**Esta semana**
+
+- Aplique a ficha de classificação a três trabalhos que você conhece.
+
+**Este mês**
+
+- Faça uma mini auditoria tributária preventiva em uma obrigação da sua empresa ou de um cliente.
+
+**Próximos 90 dias**
+
+- Escolha um tipo de auditoria para se especializar e trace um plano de estudo.
+
+# Capítulo 9
+
+## Auditoria governamental: o dinheiro de todos
+
+@ILUS 09 | Joás e a arca do Templo com a abertura na tampa — o dinheiro do povo bem guardado
+
+No tempo do rei Joás, o dinheiro das ofertas para consertar o Templo sumia nas mãos dos sacerdotes, e as rachaduras continuavam lá. O rei mudou o sistema. Mandou fazer uma arca com uma abertura na tampa, ao lado do altar. Quando enchia, "vinha o escrivão do rei e o sumo sacerdote, contavam o dinheiro" e o entregavam diretamente aos que faziam a obra (2 Reis 12.9-11). Dois agentes diferentes, contagem conjunta, destinação direta. Controle de recursos públicos, oitocentos anos antes de Cristo.
+
+A auditoria governamental existe porque o dinheiro público é o dinheiro de todos. Cada real desviado é tirado da escola, do posto de saúde, da estrada, da aposentadoria de alguém.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir auditoria governamental e identificar seus objetivos.
+
+- Distinguir controle externo e controle interno na administração pública.
+
+- Conhecer os principais órgãos de controle no Brasil: TCU, tribunais de contas estaduais e municipais, CGU e controladorias.
+
+- Distinguir auditoria de conformidade, financeira e operacional no setor público.
+
+- Conhecer as normas aplicáveis: NBASP e NBC T SP.
+
+### Fundamentação bíblica
+
+**2 Reis 12.15**
+
+> *Não se pedia conta aos homens em cujas mãos entregavam aquele dinheiro, para o dar aos que faziam a obra, porque procediam com fidelidade.*
+
+Depois de criado o sistema de controle, a Bíblia registra que os responsáveis "procediam com fidelidade". Controle bem feito e pessoas fiéis caminham juntos. O controle não substitui a integridade, mas protege os íntegros e expõe os infiéis.
+
+**Romanos 13.6**
+
+> *Por esse motivo também pagais tributos, porque são ministros de Deus, atendendo constantemente a este serviço.*
+
+Se o cidadão deve pagar o tributo, a autoridade deve aplicá-lo bem. A auditoria governamental é o elo que fecha esse ciclo de responsabilidade.
+
+### O que é auditoria governamental
+
+É o exame objetivo, independente e sistemático da gestão dos recursos públicos, para verificar a legalidade, a legitimidade, a economicidade, a eficiência e a eficácia dos atos de gestão, e a fidedignidade das demonstrações das entidades públicas.
+
+A Constituição Federal, nos artigos 70 a 75, organiza a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União, que é exercida pelo Congresso Nacional, mediante **controle externo**, e pelo sistema de **controle interno** de cada Poder. O artigo 70, parágrafo único, diz que presta contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos.
+
+### Controle externo e controle interno
+
+**Controle externo.** Exercido pelo Poder Legislativo com o auxílio dos tribunais de contas:
+
+- **TCU (Tribunal de Contas da União):** recursos federais.
+
+- **Tribunais de Contas dos Estados:** recursos estaduais e, na maioria dos estados, municipais.
+
+- **Tribunais de Contas dos Municípios** ou do Município, onde existem.
+
+Os tribunais julgam contas, aplicam multas, determinam ressarcimentos e emitem parecer prévio sobre as contas dos chefes do Executivo.
+
+**Controle interno.** Exercido dentro de cada Poder. No Executivo federal, pela **CGU (Controladoria-Geral da União)**, que realiza auditorias, fiscalizações e atua na prevenção da corrupção. Estados e municípios têm suas controladorias.
+
+### Tipos de auditoria no setor público
+
+As Normas Brasileiras de Auditoria do Setor Público (NBASP), alinhadas às normas internacionais da INTOSAI (ISSAI), reconhecem três tipos principais:
+
+- **Auditoria financeira:** opina sobre as demonstrações contábeis da entidade pública, elaboradas segundo as NBC T SP.
+
+- **Auditoria de conformidade:** verifica se a gestão observou leis, regulamentos, contratos e normas — por exemplo, a Lei de Licitações (Lei 14.133/2021) e a Lei de Responsabilidade Fiscal (LC 101/2000).
+
+- **Auditoria operacional:** avalia economicidade, eficiência, eficácia e efetividade de programas e políticas públicas. Pergunta: "O dinheiro gasto produziu o resultado esperado para a população?".
+
+### Princípios que regem a gestão pública
+
+O artigo 37 da Constituição traz os princípios que o auditor governamental usa como régua: **legalidade, impessoalidade, moralidade, publicidade e eficiência**. Somam-se a eles, no controle, a legitimidade e a economicidade (art. 70).
+
+### Por que isso interessa ao empresário cristão
+
+Toda empresa que vende para o governo, recebe subsídio, executa convênio ou administra recursos públicos está sujeita a prestar contas aos órgãos de controle. Entidades do terceiro setor, inclusive igrejas e organizações sociais que recebem verbas públicas, também. Conhecer a lógica da auditoria governamental evita surpresas e, mais do que isso, ajuda a honrar o dinheiro de todos.
+
+### Em uma frase
+
+> *Auditoria governamental é o cuidado com o dinheiro de todos: controle externo pelos tribunais de contas, controle interno pelas controladorias, e auditorias financeira, de conformidade e operacional.*
+
+### Débora e o hospital filantrópico
+
+Em março, Débora foi deslocada por duas semanas para outro cliente da firma: um hospital filantrópico que recebia recursos do SUS e de convênios com o estado. Além da auditoria independente, o hospital prestava contas ao Tribunal de Contas do Estado. Débora viu, na sala de reuniões, uma pilha de relatórios de auditoria do tribunal e da controladoria estadual.
+
+A diretora financeira, irmã Lúcia, de uma igreja presbiteriana da cidade, contou que a primeira auditoria do tribunal tinha sido um susto. "Achei que estavam desconfiando de nós. Depois entendi: cada real daqui é remédio de alguém. Hoje eu agradeço quando eles vêm. É dinheiro do povo, e o povo merece saber."
+
+### Ferramentas práticas
+
+**Checklist para quem recebe recursos públicos**
+
+- Os recursos públicos estão em conta bancária específica?
+
+- Cada despesa tem documento fiscal, contrato e comprovação da entrega?
+
+- A licitação ou a cotação foi feita conforme a lei ou o convênio?
+
+- Os relatórios de prestação de contas são entregues no prazo?
+
+- Há metas físicas e resultados mensurados, e não apenas gastos?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você enxerga o dinheiro público como "dinheiro de ninguém" ou como "dinheiro de todos"?
+
+**2.** O que o sistema de Joás ensina sobre segregação de funções?
+
+**3.** Se sua empresa ou igreja recebe recursos públicos, está pronta para uma auditoria do tribunal de contas amanhã?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Ore pelos governantes e pelos auditores públicos da sua cidade (1 Timóteo 2.1-2).
+
+**Esta semana**
+
+- Leia os artigos 37 e 70 a 75 da Constituição Federal.
+
+**Este mês**
+
+- Acesse o site do TCU ou do tribunal de contas do seu estado e leia o resumo de uma auditoria operacional.
+
+**Próximos 90 dias**
+
+- Se você trabalha com recursos públicos, aplique o checklist e corrija as falhas encontradas.

@@ -1,0 +1,533 @@
+# Capítulo 1
+
+## Princípios da governança: a casa sobre a rocha
+
+@ILUS 01 | Duas casas, uma sobre a rocha e outra sobre a areia — a governança como fundamento
+
+Jesus terminou o Sermão do Monte com uma história de construção civil. Dois homens levantaram casas parecidas. Por fora, ninguém via diferença: mesmas paredes, mesmo telhado, talvez até a mesma cor de pintura. A diferença estava embaixo, onde ninguém olha. Um cavou fundo e firmou a casa na rocha. O outro economizou tempo e construiu sobre a areia. Veio a chuva, vieram os rios, sopraram os ventos. Uma casa ficou de pé. A outra caiu, "e foi grande a sua queda" (Mateus 7.27).
+
+Empresas também têm fundação. E a fundação de uma empresa não aparece na fachada, nem no site, nem no anúncio. Aparece quando vem a tempestade: uma crise de caixa, uma fraude descoberta, uma fiscalização, a morte do fundador. Essa fundação tem nome técnico: governança corporativa. E é por ela que começa qualquer estudo sério de auditoria, porque o auditor existe para servir à governança.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Explicar o que é governança corporativa e por que ela nasceu.
+
+- Identificar os cinco princípios da governança segundo o IBGC.
+
+- Compreender o papel do auditor independente, da auditoria interna e do conselho fiscal dentro do sistema de governança.
+
+- Reconhecer os fundamentos bíblicos da prestação de contas.
+
+- Conhecer a personagem-guia deste volume, Débora, e o início da sua jornada.
+
+### Fundamentação bíblica
+
+**Lucas 16.2**
+
+> *Que é isto que ouço a teu respeito? Presta contas da tua administração, porque já não poderás ser meu administrador.*
+
+Na parábola do administrador infiel, o dono descobre que seu gerente vinha desperdiçando os bens. A primeira providência não é um castigo. É uma auditoria: "presta contas". Quem administra o que é de outro deve contas. Esse é o coração de toda governança: separar quem é dono de quem administra, e criar mecanismos para que o administrador preste contas ao dono.
+
+**2 Coríntios 8.20-21**
+
+> *Evitando que alguém nos acuse em face desta generosa dádiva administrada por nós; pois o que nos preocupa é procedermos honestamente, não só perante o Senhor, como também diante dos homens.*
+
+Paulo estava levando uma oferta das igrejas para os irmãos pobres de Jerusalém. Ele poderia ter dito: "Confiem em mim, sou apóstolo". Não disse. Organizou uma comissão, com irmãos escolhidos pelas igrejas, para acompanhar o dinheiro. Paulo praticava governança. Ele sabia que não basta ser honesto diante de Deus; é preciso também ser verificável diante dos homens.
+
+Note a frase "não só perante o Senhor, como também diante dos homens". Integridade sem transparência gera desconfiança. Transparência sem integridade é teatro. A governança cristã quer as duas coisas juntas.
+
+### O que é governança corporativa
+
+Governança corporativa é o sistema pelo qual uma empresa é dirigida, monitorada e incentivada. Envolve o relacionamento entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e as demais partes interessadas — funcionários, clientes, fornecedores, bancos, governo e sociedade.
+
+Ela nasceu de um problema muito humano, que os economistas chamam de conflito de agência. O dono (o "principal") contrata alguém para administrar (o "agente"). Só que o agente tem interesses próprios. Pode querer um salário maior, um bônus inflado, um carro da empresa, ou simplesmente esconder um resultado ruim para não perder o emprego. E o agente sabe muito mais sobre a empresa do que o dono. Essa diferença de informação — a assimetria — abre espaço para o abuso.
+
+A Bíblia descreve esse conflito com perfeição na parábola do administrador infiel. A governança é a resposta organizada a ele: regras claras, órgãos independentes, prestação de contas periódica e verificação por terceiros. O auditor é uma das peças mais importantes dessa resposta.
+
+### Os cinco princípios da governança
+
+O Instituto Brasileiro de Governança Corporativa (IBGC), em seu Código das Melhores Práticas, organiza a governança em cinco princípios. Vamos a eles, em linguagem de gente.
+
+**Integridade.** Praticar e promover a ética em todas as relações. Agir com coerência entre o que se diz e o que se faz. É o princípio-raiz: sem ele, os outros viram fachada.
+
+**Transparência.** Disponibilizar às partes interessadas as informações relevantes, e não apenas aquelas exigidas por lei. Transparência não é despejar dados; é comunicar o que importa, inclusive o que é desconfortável.
+
+**Equidade.** Tratar todos os sócios e demais partes interessadas de forma justa, considerando seus direitos, deveres e expectativas. O sócio minoritário não pode ser tratado como figurante.
+
+**Responsabilização (accountability).** Os agentes de governança prestam contas de sua atuação de forma clara, tempestiva e assumindo as consequências dos seus atos e omissões. É o "presta contas da tua administração" de Lucas 16.
+
+**Sustentabilidade.** Zelar pela viabilidade econômica e financeira da organização no longo prazo, considerando os impactos sociais e ambientais. É a mordomia aplicada ao tempo: administrar hoje pensando em quem vem depois.
+
+### Onde o auditor entra nessa casa
+
+Imagine a governança como uma casa. Os sócios são os donos. O conselho de administração define a direção. A diretoria executa. E existem três "vigias" que olham para tudo isso:
+
+- A **auditoria independente** (externa), que examina as demonstrações contábeis e emite opinião sobre se elas representam adequadamente a realidade.
+
+- A **auditoria interna**, que avalia continuamente os controles, os riscos e os processos, a serviço da administração e do conselho.
+
+- O **conselho fiscal** e o **comitê de auditoria**, órgãos que fiscalizam os administradores em nome dos sócios.
+
+Em algumas empresas a auditoria independente é obrigatória: companhias abertas (Lei 6.404/1976, art. 177, § 3º), instituições financeiras, seguradoras, e as chamadas sociedades de grande porte (Lei 11.638/2007, art. 3º), com ativo total superior a R$ 240 milhões ou receita bruta anual superior a R$ 300 milhões. Nas demais, ela é opcional — e cada vez mais exigida por bancos, investidores e grandes clientes.
+
+### Em uma frase
+
+> *Governança é a fundação da empresa: separa quem é dono de quem administra e garante que o administrador preste contas. O auditor é o fiscal dessa prestação de contas.*
+
+### Débora começa sua história
+
+Débora chegou cedo no primeiro dia. Cedo demais: o porteiro do prédio ainda estava abrindo o portão. Vinte e seis anos, recém-aprovada no Exame de Suficiência, contratada como assistente na Prates & Lima Auditores Independentes, uma firma de médio porte com quarenta profissionais e uma carteira de clientes que ia de laticínios a hospitais filantrópicos.
+
+Quem a recebeu foi Elias Prates, sócio fundador, cinquenta e oito anos, cabelos brancos e um hábito curioso: deixava uma Bíblia aberta sobre a mesa ao lado do código de ética do contador. Ele a chamou para um café e disse uma frase que ela anotou no caderno naquela mesma manhã:
+
+"Débora, aqui você vai aprender muitas normas. Mas guarde isto: o nosso produto não é o relatório. O nosso produto é a confiança. Quando a gente assina um relatório, um banco empresta, um investidor compra, um funcionário decide ficar. Se a gente assina mentira, todos eles foram enganados com o nosso nome. Por isso, nesta casa, a gente prefere perder um cliente a perder a verdade."
+
+Na mesma tarde ela recebeu sua primeira pasta: Laticínios Vale Verde Ltda., uma indústria familiar de queijos e iogurtes do interior, com faturamento de R$ 180 milhões, controlada pelo senhor Ezequiel e seus dois filhos. O banco que financiava a nova fábrica tinha exigido demonstrações auditadas. Era a primeira auditoria da história da empresa. E seria a primeira auditoria da história de Débora.
+
+### Ferramentas práticas
+
+**Diagnóstico rápido de governança (aplique na sua empresa ou num cliente)**
+
+- Existe separação clara entre o dinheiro dos sócios e o dinheiro da empresa?
+
+- Os administradores prestam contas por escrito, periodicamente, a alguém acima deles?
+
+- Há alguém independente da diretoria que verifica os números?
+
+- O sócio minoritário recebe as mesmas informações que o majoritário?
+
+- Existe um código de conduta escrito, conhecido e aplicado?
+
+- A empresa sobreviveria à ausência repentina do fundador?
+
+Cada "não" é uma rachadura na fundação. Anote, priorize, e comece pela mais grave.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua vida profissional, a quem você presta contas? Essa prestação de contas é real ou apenas formal?
+
+**2.** Paulo quis ser honesto "diante dos homens", e não apenas diante de Deus. Existe alguma área da sua vida financeira que é honesta, mas não é verificável?
+
+**3.** Qual dos cinco princípios da governança está mais fraco na empresa onde você trabalha?
+
+**4.** O que significa, para você, a frase "o nosso produto é a confiança"?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Ore, agora mesmo: "Senhor, tudo o que administro é Teu. Ensina-me a prestar contas com alegria, e não com medo".
+
+- Escreva num papel os cinco princípios: integridade, transparência, equidade, responsabilização, sustentabilidade. Cole perto da sua mesa.
+
+**Esta semana**
+
+- Leia Lucas 16.1-13 e 2 Coríntios 8.16-24. Anote o que Deus falou.
+
+- Aplique o diagnóstico rápido de governança na empresa onde você trabalha ou no seu próprio negócio.
+
+**Este mês**
+
+- Leia o sumário do Código das Melhores Práticas de Governança Corporativa do IBGC (disponível no site ibgc.org.br).
+
+- Escolha uma rachadura identificada no diagnóstico e proponha uma correção concreta.
+
+**Próximos 90 dias**
+
+- Termine este manual aplicando um capítulo por vez.
+
+- Ao fim dos 90 dias, escreva uma carta a você mesmo dizendo o que mudou na sua forma de prestar contas. Guarde e releia no ano seguinte.
+
+# Capítulo 2
+
+## Objetivos, equipe, objeto e escopo da auditoria
+
+@ILUS 02 | Os doze espias diante de Canaã — uma equipe enviada com objetivo e escopo definidos
+
+Antes de entrar em Canaã, Moisés montou uma equipe de auditoria. Não chamou assim, claro. Mas escolheu doze homens, um de cada tribo, todos líderes reconhecidos. Definiu o objeto: a terra de Canaã. Definiu o escopo, com perguntas precisas: "Vede a terra, que tal é; e o povo que nela habita, se é forte ou fraco, se poucos ou muitos; e qual é a terra em que habita, se boa ou má; e quais são as cidades, se em arraiais ou em fortalezas; também qual é a terra, se fértil ou estéril, se nela há árvores ou não" (Números 13.18-20). E pediu evidência física: "Trazei do fruto da terra".
+
+Os doze voltaram com a mesma evidência — um cacho de uvas tão grande que dois homens carregavam numa vara. Mas emitiram opiniões diferentes. Dez disseram que era impossível. Dois, Josué e Calebe, disseram que era possível com Deus. A evidência era a mesma. O que mudou foi o julgamento de quem a interpretou. Guarde essa história: ela resume este capítulo inteiro.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Enunciar o objetivo geral da auditoria das demonstrações contábeis segundo a NBC TA 200.
+
+- Distinguir objeto, objetivo e escopo de um trabalho de auditoria.
+
+- Descrever a composição típica de uma equipe de auditoria e o papel de cada membro.
+
+- Compreender o conceito de segurança razoável e por que a auditoria não dá garantia absoluta.
+
+### Fundamentação bíblica
+
+**Números 13.17-20**
+
+> *Subi ao Neguebe e penetrai nas montanhas. Vede a terra, que tal é... e trazei do fruto da terra.*
+
+Moisés não mandou os espias "dar uma olhada". Mandou com roteiro. Toda investigação sem objetivo definido termina em opinião vaga. Deus é Deus de ordem, e ordem começa com perguntas claras.
+
+**Provérbios 18.17**
+
+> *O que começa o pleito parece justo, até que vem o outro e o examina.*
+
+A primeira versão de qualquer história parece verdadeira. Por isso existe o exame. O balanço apresentado pela administração é a primeira versão. O auditor é "o outro que vem e examina". Não por desconfiança pessoal, mas porque é assim que a verdade se firma.
+
+### O objetivo da auditoria
+
+A NBC TA 200 diz que o objetivo da auditoria é aumentar o grau de confiança dos usuários nas demonstrações contábeis. Isso se alcança quando o auditor expressa uma opinião sobre se as demonstrações foram elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável — no Brasil, normalmente as práticas contábeis adotadas no Brasil (CPCs) ou as normas internacionais (IFRS).
+
+Para chegar a essa opinião, o auditor precisa obter **segurança razoável** de que as demonstrações, como um todo, estão livres de distorção relevante, seja causada por fraude ou por erro.
+
+Três expressões merecem atenção:
+
+**Segurança razoável.** É um nível alto de segurança, mas não absoluto. O auditor não examina 100% das transações, trabalha com julgamento, e as evidências costumam ser persuasivas, não conclusivas. Além disso, fraudes bem montadas podem envolver conluio e falsificação. Por isso, auditoria não é garantia. Quem promete garantia absoluta mente.
+
+**Distorção relevante.** Distorção é a diferença entre o que foi apresentado e o que deveria ter sido. Ela é relevante (material) quando, sozinha ou somada a outras, pode influenciar a decisão de quem usa as demonstrações. Um erro de R$ 500 numa empresa de R$ 180 milhões não muda a decisão de ninguém. Um erro de R$ 5 milhões, sim.
+
+**Em todos os aspectos relevantes.** O auditor não diz "está tudo certo até o último centavo". Diz "não há nada que mude a decisão de um usuário razoável".
+
+### Objeto, objetivo e escopo
+
+São três palavras que os alunos costumam misturar. Vamos separar:
+
+- **Objeto** é aquilo que se examina. Na auditoria contábil, o objeto são as demonstrações contábeis e os registros, documentos e controles que as sustentam: balanço patrimonial, demonstração do resultado, fluxos de caixa, mutações do patrimônio líquido e notas explicativas.
+
+- **Objetivo** é para que se examina. No caso da auditoria independente das demonstrações, é emitir opinião sobre a adequação delas.
+
+- **Escopo** é a extensão e os limites do trabalho: quais demonstrações, qual período, quais unidades, quais normas, quais áreas, que profundidade. O escopo é definido no planejamento e formalizado na carta de contratação.
+
+Uma limitação de escopo acontece quando o auditor é impedido de examinar algo que precisava examinar — porque a empresa não entregou documentos, porque o estoque não foi contado, porque o sistema foi perdido. Veremos no capítulo 17 que isso pode levar a uma opinião modificada.
+
+### A equipe de auditoria
+
+Uma equipe típica de auditoria independente tem uma hierarquia clara:
+
+- **Sócio do trabalho.** Responsável pelo trabalho e pelo relatório. É quem assina. Responde perante o CFC, a CVM (no caso de companhias abertas) e a Justiça.
+
+- **Gerente.** Coordena o planejamento, distribui tarefas, revisa os papéis de trabalho, conversa com a alta administração do cliente.
+
+- **Sênior (encarregado).** Lidera a equipe no campo, executa as áreas mais complexas, revisa o trabalho dos assistentes.
+
+- **Assistentes (trainees e semiseniores).** Executam os procedimentos: conferências, circularizações, inventários, testes de documentos.
+
+- **Especialistas.** Quando necessário: atuários, avaliadores de imóveis, especialistas em tecnologia da informação, tributaristas.
+
+A NBC TA 220 exige que o sócio assuma a responsabilidade pela qualidade do trabalho, garanta que a equipe tenha competência e tempo adequados, e que o trabalho dos membros menos experientes seja supervisionado e revisado. Ninguém aprende auditoria sozinho. É um ofício de mestre e aprendiz.
+
+### Em uma frase
+
+> *A auditoria busca segurança razoável, e não absoluta, de que as demonstrações estão livres de distorção relevante. Objeto é o que se examina, objetivo é para que se examina, escopo é até onde se examina.*
+
+### Débora e a primeira reunião de equipe
+
+A equipe do Laticínios Vale Verde foi montada numa segunda-feira: Elias como sócio, Marta como gerente, Rafael como sênior, e Débora com mais um assistente, Lucas. Marta abriu a reunião desenhando três colunas no quadro: objeto, objetivo, escopo.
+
+"Objeto: as demonstrações de 31 de dezembro. Objetivo: opinar para o banco e para os sócios. Escopo: empresa individual, matriz e as duas filiais, normas brasileiras, e atenção especial a estoque, receita e impostos a recuperar." Ela se virou para Débora. "Você vai ficar com estoques e com o inventário físico de 31 de dezembro."
+
+Débora engoliu seco. Passaria a virada do ano contando queijo numa câmara fria. Lembrou dos doze espias. Ninguém mandou os espias para o hotel. Mandou para a terra.
+
+### Ferramentas práticas
+
+**Ficha de definição do trabalho (preencha antes de qualquer auditoria)**
+
+- Objeto: o que exatamente será examinado?
+
+- Objetivo: qual pergunta o trabalho precisa responder, e para quem?
+
+- Escopo: período, entidades, unidades, áreas prioritárias, normas aplicáveis.
+
+- Equipe: quem é o responsável final? Quem revisa quem?
+
+- Limitações conhecidas: há algo que já sabemos que será difícil examinar?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Os doze espias viram a mesma evidência e chegaram a conclusões opostas. O que determina o julgamento de um auditor: os fatos, o medo ou a fé?
+
+**2.** Por que é mais honesto prometer "segurança razoável" do que "garantia absoluta"?
+
+**3.** Em qual papel da equipe você está hoje? O que você precisa aprender para chegar ao próximo?
+
+**4.** Você já trabalhou num projeto sem escopo definido? Como terminou?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Números 13 e 14 inteiros. Observe a diferença entre evidência e julgamento.
+
+- Escreva com suas palavras a diferença entre objeto, objetivo e escopo.
+
+**Esta semana**
+
+- Leia os itens de objetivo e definições da NBC TA 200 no site do CFC.
+
+- Preencha a ficha de definição do trabalho para uma tarefa real que você vai executar.
+
+**Este mês**
+
+- Converse com um auditor mais experiente sobre como funciona a equipe na firma dele.
+
+- Identifique quem é, hoje, o seu "Elias": alguém que pode revisar seu trabalho e te formar.
+
+**Próximos 90 dias**
+
+- Monte um glossário pessoal com as definições da NBC TA 200 e revise semanalmente.
+
+# Capítulo 3
+
+## Os tipos de trabalho do auditor independente
+
+@ILUS 03 | Ferramentas diferentes sobre a bancada — cada trabalho pede o instrumento certo
+
+Na construção do Tabernáculo, Deus chamou Bezalel e Aoliabe e os encheu "de sabedoria, entendimento e ciência em todo artifício: para elaborar desenhos e trabalhar em ouro, em prata e em bronze, para lapidação de pedras de engaste, para entalho de madeira" (Êxodo 31.3-5). Repare na lista. Ouro não se trabalha como madeira. Pedra não se lapida como bronze. O mesmo artífice usava técnicas diferentes para materiais diferentes.
+
+O auditor independente também. Nem todo trabalho dele é "auditoria". Às vezes ele audita. Às vezes revisa. Às vezes apenas aplica procedimentos combinados. E a diferença entre esses trabalhos não é detalhe: muda o nível de segurança que ele entrega e o tipo de relatório que ele assina.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Distinguir trabalhos de asseguração razoável, de asseguração limitada e serviços correlatos.
+
+- Identificar as normas brasileiras que regem cada tipo de trabalho.
+
+- Reconhecer a forma de conclusão que cada tipo de trabalho permite.
+
+- Escolher, como cliente, o tipo de trabalho adequado à sua necessidade.
+
+### Fundamentação bíblica
+
+**Mateus 5.37**
+
+> *Seja, porém, a tua palavra: Sim, sim; não, não. O que disto passar vem do maligno.*
+
+Jesus pede que a nossa palavra tenha o peso exato da verdade. Nem mais, nem menos. O auditor que, num trabalho de revisão limitada, escreve como se tivesse feito uma auditoria completa está dizendo "sim" onde só poderia dizer "não vi nada contrário". O tipo de trabalho define o tamanho da palavra que o auditor pode dar.
+
+### O mapa dos trabalhos
+
+As normas do CFC organizam os trabalhos do auditor independente em uma estrutura conceitual (NBC TA Estrutura Conceitual). Em linguagem de gente, são três famílias:
+
+**1. Trabalhos de asseguração razoável — a auditoria.** O auditor obtém evidência suficiente para reduzir o risco a um nível aceitavelmente baixo e emite uma opinião positiva: "em nossa opinião, as demonstrações apresentam adequadamente...". É o trabalho mais profundo e caro. Regido pelas NBC TA (Normas Brasileiras de Contabilidade Técnicas de Auditoria).
+
+**2. Trabalhos de asseguração limitada — a revisão.** O auditor aplica principalmente indagações e procedimentos analíticos, sem os testes detalhados de uma auditoria. A conclusão é negativa: "não temos conhecimento de nenhum fato que nos leve a acreditar que as informações não estão adequadas". É o caso da revisão das informações trimestrais (ITR) de companhias abertas, regida pela NBC TR 2410, e das revisões em geral (NBC TR 2400). Outros trabalhos de asseguração que não envolvem demonstrações históricas — por exemplo, relatórios de sustentabilidade — seguem a NBC TO 3000.
+
+**3. Serviços correlatos — sem asseguração.** O auditor não emite opinião nem conclusão de asseguração.
+
+- **Procedimentos previamente acordados (NBC TSC 4400):** o cliente e o auditor combinam exatamente o que será testado, e o auditor relata os fatos encontrados. Exemplo: "conferir se os 50 maiores pagamentos do ano têm nota fiscal". O auditor diz o que achou; quem tira a conclusão é o usuário.
+
+- **Compilação (NBC TSC 4410):** o profissional ajuda a administração a preparar informações contábeis, sem verificá-las.
+
+### Uma tabela para guardar
+
+- Auditoria: segurança razoável, conclusão positiva ("em nossa opinião...").
+
+- Revisão: segurança limitada, conclusão negativa ("nada chegou ao nosso conhecimento...").
+
+- Procedimentos acordados: sem segurança, relatório de constatações.
+
+- Compilação: sem segurança, relatório de compilação.
+
+### Por que isso importa para o empresário cristão
+
+Muitos empresários contratam "uma auditoria" quando precisam de outra coisa. Um sócio que desconfia do caixa de uma filial talvez precise de procedimentos acordados, mais baratos e diretos. Um banco que exige demonstrações confiáveis para um empréstimo grande vai querer auditoria. Saber a diferença é mordomia: você paga pelo que precisa e não é enganado com relatórios que parecem dizer mais do que dizem.
+
+### Em uma frase
+
+> *O tipo de trabalho define o tamanho da palavra do auditor: auditoria dá opinião, revisão dá conclusão negativa, procedimentos acordados dão apenas constatações.*
+
+### Débora e o pedido do banco
+
+Na segunda semana, o gerente do banco ligou para Marta perguntando se, além da auditoria anual, a firma poderia "dar uma auditadinha" no fluxo de caixa projetado da nova fábrica. Marta explicou com paciência: projeção não se audita como balanço. O que se poderia fazer era um trabalho de asseguração sobre informações prospectivas, com conclusão limitada, ou procedimentos acordados sobre as premissas.
+
+Depois, Débora perguntou por que a gerente tinha sido tão cuidadosa com as palavras. Marta respondeu: "Porque um dia alguém vai ler esse relatório num tribunal. E vai querer saber exatamente o que prometemos. A nossa palavra precisa ser sim, sim; não, não".
+
+### Ferramentas práticas
+
+**Guia de escolha do trabalho (para o empresário)**
+
+- Preciso de um selo de confiança para terceiros sobre as demonstrações do ano? Auditoria.
+
+- Preciso de um conforto intermediário, trimestral, mais barato? Revisão.
+
+- Tenho uma dúvida específica e quero saber os fatos? Procedimentos previamente acordados.
+
+- Preciso apenas de ajuda para montar as demonstrações? Compilação.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Em que situação da sua vida você deu uma palavra maior do que o conhecimento que tinha?
+
+**2.** Por que a conclusão negativa da revisão é mais honesta do que uma opinião positiva sem base?
+
+**3.** Se você fosse contratar um trabalho hoje para a sua empresa, qual dos quatro escolheria? Por quê?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Ore pedindo a Deus a disciplina de falar apenas o que você sabe.
+
+- Copie a tabela dos quatro tipos de trabalho para o seu caderno.
+
+**Esta semana**
+
+- Leia um relatório de revisão de ITR de uma companhia aberta (disponível no site da CVM) e compare com um relatório de auditoria anual da mesma empresa.
+
+**Este mês**
+
+- Identifique, na sua empresa ou num cliente, uma necessidade que seria melhor atendida por procedimentos acordados do que por auditoria completa.
+
+**Próximos 90 dias**
+
+- Estude a estrutura conceitual para trabalhos de asseguração no site do CFC e faça um mapa mental das normas.
+
+# Capítulo 4
+
+## Concordância dos termos: a aliança antes da obra
+
+@ILUS 04 | Um aperto de mãos sobre um contrato — a aliança que antecede o trabalho
+
+Quando Jacó quis casar com Raquel, fez um acordo com Labão: sete anos de trabalho. Só que o acordo foi verbal, vago, e Labão era esperto. Na noite do casamento, trocou a noiva. Jacó acordou casado com Lia. Reclamou, e Labão respondeu com uma cláusula que nunca tinha sido dita: "Não se faz assim em nossa terra, dar-se a mais nova antes da primogênita" (Gênesis 29.26). Mais sete anos.
+
+Toda a confusão nasceu de um contrato mal definido. Na auditoria, a NBC TA 210 existe justamente para evitar Labões. Antes de começar o trabalho, auditor e cliente precisam concordar, por escrito, sobre o que será feito, por quem, com que responsabilidades, e com que resultado esperado.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Explicar as precondições para a aceitação de um trabalho de auditoria.
+
+- Listar o conteúdo mínimo da carta de contratação (carta-proposta).
+
+- Reconhecer as responsabilidades que a administração precisa reconhecer por escrito.
+
+- Saber como agir quando o cliente pede mudança nos termos durante o trabalho.
+
+### Fundamentação bíblica
+
+**Lucas 14.28-30**
+
+> *Pois qual de vós, pretendendo construir uma torre, não se assenta primeiro para calcular a despesa e verificar se tem os meios para a concluir?*
+
+Jesus ensinou que não se começa uma obra sem antes medir. O auditor que aceita um trabalho sem verificar se tem condições de concluí-lo — tempo, competência, independência, acesso — vai deixar uma torre pela metade e virar motivo de chacota.
+
+**Eclesiastes 5.5**
+
+> *Melhor é que não votes do que votes e não cumpras.*
+
+Melhor recusar um cliente do que assinar um compromisso que não poderá ser honrado.
+
+### As precondições para aceitar o trabalho
+
+Segundo a NBC TA 210, antes de aceitar uma auditoria o auditor deve verificar duas coisas:
+
+**1. Se a estrutura de relatório financeiro é aceitável.** Ou seja, se as demonstrações serão preparadas segundo um conjunto de normas reconhecido — CPCs, IFRS, ou uma estrutura de propósito especial adequada.
+
+**2. Se a administração reconhece e entende suas responsabilidades.** Ela precisa aceitar, por escrito, que é responsável por:
+
+- elaborar as demonstrações contábeis de acordo com a estrutura aplicável;
+
+- manter os controles internos necessários para que as demonstrações estejam livres de distorção relevante, por fraude ou erro;
+
+- dar ao auditor acesso a todas as informações relevantes, informações adicionais que ele solicitar, e acesso irrestrito às pessoas da entidade.
+
+Repare: a responsabilidade pelas demonstrações é da administração, não do auditor. O auditor examina e opina. Se a administração se recusa a reconhecer isso, ou impõe uma limitação de escopo que impediria a opinião, o auditor não deve aceitar o trabalho.
+
+Além disso, a norma de controle de qualidade (NBC PA 01, e as normas de gestão de qualidade que a sucedem) exige que a firma avalie a integridade do cliente, sua própria independência e a competência da equipe antes de aceitar. Auditor não aceita qualquer cliente.
+
+### O conteúdo da carta de contratação
+
+A carta (ou contrato) deve conter, no mínimo:
+
+- o objetivo e o alcance da auditoria;
+
+- as responsabilidades do auditor;
+
+- as responsabilidades da administração;
+
+- a identificação da estrutura de relatório financeiro aplicável;
+
+- a forma e o conteúdo esperados dos relatórios, com a ressalva de que eles podem ser diferentes do esperado se as circunstâncias exigirem.
+
+Na prática, inclui também cronograma, honorários, equipe, acesso a papéis de trabalho de auditores anteriores e, quando houver, o envolvimento de outros auditores ou especialistas.
+
+### Auditorias recorrentes e mudança de termos
+
+Em auditorias recorrentes, o auditor avalia a cada ano se os termos precisam ser revistos — por exemplo, se mudou a administração, a estrutura societária, ou a norma.
+
+E se o cliente pedir, no meio do trabalho, para transformar a auditoria em uma revisão, ou em procedimentos acordados? A NBC TA 210 diz: o auditor só aceita a mudança se houver justificativa razoável. Mudança de necessidade do usuário pode ser razoável. Mas se o motivo é fugir de uma opinião modificada que está a caminho, a mudança é inaceitável. Nesse caso o auditor pode até ter de se retirar do trabalho e comunicar o fato a quem de direito.
+
+### Em uma frase
+
+> *Antes do trabalho, a aliança: por escrito, a administração assume a responsabilidade pelas demonstrações e o auditor assume a responsabilidade pela opinião.*
+
+### Débora e a cláusula esquecida
+
+Ao revisar a carta de contratação do Laticínios Vale Verde, Débora notou que o texto não mencionava as duas filiais, apenas a matriz. Hesitou. Era só assistente. Mas lembrou de Jacó e Labão e levou o ponto a Rafael. Rafael levou a Marta. Marta ligou para o senhor Ezequiel, que confirmou: o banco queria as demonstrações da empresa inteira. A carta foi corrigida antes de qualquer trabalho de campo.
+
+Elias passou pela mesa dela no fim do dia. "Ouvi falar da filial. Boa. Em auditoria, o problema não é o que a gente vê. É o que a gente esqueceu de combinar."
+
+### Ferramentas práticas
+
+**Checklist de aceitação do trabalho**
+
+- A estrutura de relatório financeiro é aceitável?
+
+- A administração assinou o reconhecimento de suas responsabilidades?
+
+- Somos independentes do cliente e de suas partes relacionadas?
+
+- A equipe tem competência e tempo?
+
+- Há indícios de falta de integridade da administração?
+
+- O escopo inclui todas as entidades e unidades necessárias?
+
+- Os honorários permitem fazer o trabalho com qualidade, sem pressa forçada?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você já viveu um "Labão" profissional, um acordo vago que virou conflito? O que aprendeu?
+
+**2.** Por que é bíblico recusar um trabalho que não poderemos cumprir bem?
+
+**3.** O que você faria se o cliente pedisse para trocar a auditoria por uma revisão logo depois de você encontrar um problema grave?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Releia o último contrato de serviço que você assinou e verifique se ele define claramente as responsabilidades de cada parte.
+
+**Esta semana**
+
+- Leia a NBC TA 210 e o modelo de carta de contratação que ela traz em anexo.
+
+**Este mês**
+
+- Monte o seu próprio modelo de carta de contratação ou de proposta de serviço, com responsabilidades explícitas.
+
+**Próximos 90 dias**
+
+- Adote a regra: nenhum trabalho começa sem termos assinados. Ore antes de aceitar cada novo cliente.

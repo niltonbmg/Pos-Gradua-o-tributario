@@ -1,0 +1,759 @@
+# Capítulo 17
+
+## O relatório do auditor (NBC TA 700 e 705)
+
+@ILUS 17 | Natã diante de Davi, com o dedo apontado — a palavra que precisa ser dita
+
+Davi tinha pecado gravemente e escondido tudo. Ninguém tinha coragem de falar. Até que Deus enviou o profeta Natã. Natã contou uma história sobre um homem rico que roubou a única ovelha de um pobre. Davi se indignou. E Natã disse quatro palavras: "Tu és o homem" (2 Samuel 12.7).
+
+Natã não gritou, não humilhou, não fofocou. Mas também não se calou. Disse a verdade, com clareza, ao rei, no momento certo. O relatório do auditor é o momento de Natã: depois de todo o trabalho, alguém precisa dizer, por escrito e em público, o que encontrou.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Descrever as características e a estrutura do relatório do auditor independente (NBC TA 700).
+
+- Conhecer os principais assuntos de auditoria (NBC TA 701).
+
+- Distinguir as formas de opinião: não modificada e modificada (com ressalva, adversa e abstenção) — NBC TA 705.
+
+- Decidir qual opinião emitir a partir de dois critérios: natureza do problema e disseminação dos efeitos.
+
+### Fundamentação bíblica
+
+**2 Samuel 12.7**
+
+> *Então disse Natã a Davi: Tu és o homem.*
+
+**Provérbios 24.24-25**
+
+> *O que disser ao perverso: Tu és justo, os povos o amaldiçoarão... mas para os que o repreenderem haverá delícias, e sobre eles virá grande bênção.*
+
+O auditor que diz "está tudo certo" quando não está engana o público inteiro. A Bíblia é dura com quem chama de justo o que não é.
+
+### Características do relatório
+
+O relatório do auditor independente é um documento:
+
+- **Escrito**, com título que indica claramente que é de auditor independente.
+
+- **Endereçado** a quem a carta de contratação determina (normalmente sócios, acionistas ou administradores).
+
+- **Padronizado**, seguindo a estrutura da NBC TA 700, para que qualquer usuário saiba onde encontrar cada informação.
+
+- **Datado** com a data em que o auditor obteve evidência suficiente e apropriada para fundamentar a opinião — nunca antes da aprovação das demonstrações pela administração.
+
+- **Assinado** pelo auditor responsável, com nome, número de registro no CRC e, quando aplicável, da firma.
+
+### Estrutura do relatório
+
+A NBC TA 700 estabelece uma ordem clara:
+
+**1. Opinião.** É a primeira seção. Identifica a entidade, as demonstrações auditadas e expressa a opinião. Na opinião não modificada: "Em nossa opinião, as demonstrações contábeis acima referidas apresentam adequadamente, em todos os aspectos relevantes, a posição patrimonial e financeira da Entidade em 31 de dezembro de 20XX, o desempenho de suas operações e os seus fluxos de caixa para o exercício findo nessa data, de acordo com as práticas contábeis adotadas no Brasil".
+
+**2. Base para opinião.** Declara que a auditoria foi conduzida de acordo com as normas brasileiras e internacionais de auditoria, que o auditor é independente e cumpriu as responsabilidades éticas, e que a evidência obtida é suficiente e apropriada.
+
+**3. Incerteza relevante relacionada à continuidade operacional**, quando aplicável (capítulo 21).
+
+**4. Principais assuntos de auditoria (PAA)**, obrigatórios para companhias listadas (NBC TA 701): os assuntos que, segundo o julgamento do auditor, foram os mais significativos na auditoria, com a descrição de como foram tratados.
+
+**5. Outras informações** que acompanham as demonstrações, como o relatório da administração (NBC TA 720).
+
+**6. Responsabilidades da administração e da governança** pelas demonstrações contábeis.
+
+**7. Responsabilidades do auditor** pela auditoria das demonstrações contábeis.
+
+**8. Local, data e assinatura.**
+
+### As formas de opinião
+
+Existem quatro formas de opinião. Uma não modificada e três modificadas.
+
+**Opinião não modificada (sem ressalva, "limpa").** As demonstrações estão adequadas em todos os aspectos relevantes.
+
+As opiniões modificadas (NBC TA 705) dependem da combinação de dois critérios:
+
+- **Natureza do problema:** as demonstrações contêm **distorção relevante** (o auditor obteve evidência e discorda da contabilização ou divulgação) **ou** o auditor **não conseguiu obter evidência** suficiente e apropriada (limitação de escopo).
+
+- **Disseminação (generalização) dos efeitos:** os efeitos são relevantes mas **não generalizados** (afetam elementos específicos), ou são relevantes **e generalizados** (afetam as demonstrações como um todo, ou uma parte substancial, ou são fundamentais para o entendimento).
+
+O quadro fica assim:
+
+- Distorção relevante, não generalizada: **opinião com ressalva**.
+
+- Distorção relevante e generalizada: **opinião adversa**.
+
+- Impossibilidade de obter evidência, efeitos possíveis relevantes mas não generalizados: **opinião com ressalva**.
+
+- Impossibilidade de obter evidência, efeitos possíveis relevantes e generalizados: **abstenção de opinião**.
+
+### As três opiniões modificadas, em linguagem de gente
+
+**Com ressalva:** "Está tudo adequado, **exceto por** este ponto específico". O relatório traz a seção "Opinião com ressalva" e a "Base para opinião com ressalva", explicando o problema e, quando possível, quantificando o efeito.
+
+**Adversa:** "As demonstrações **não** apresentam adequadamente a posição patrimonial e financeira". É a opinião mais grave quando há discordância. Significa que o problema contamina o conjunto.
+
+**Abstenção:** "**Não expressamos** opinião", porque não foi possível obter evidência suficiente para fundamentá-la, e os possíveis efeitos são generalizados. Não é uma opinião negativa; é a ausência de opinião. Mas, para o usuário, é um alerta muito sério.
+
+### Comunicação antes do relatório
+
+O auditor não surpreende o cliente com uma ressalva. Ele comunica as distorções identificadas durante o trabalho, pede que a administração as corrija e, se ela se recusar, comunica aos responsáveis pela governança, explicando a modificação que pretende fazer no relatório.
+
+### Em uma frase
+
+> *O relatório é a palavra pública do auditor. Sem distorção relevante, opinião limpa; com distorção ou limitação pontual, ressalva; distorção generalizada, adversa; limitação generalizada, abstenção.*
+
+### Débora e a conversa com o seu Ezequiel
+
+As vendas antecipadas de R$ 1,1 milhão estavam acima da materialidade global de R$ 600 mil, mas afetavam apenas receita, contas a receber e estoques — não eram generalizadas. Se não fossem ajustadas, a opinião seria com ressalva.
+
+Elias e Marta foram pessoalmente ao laticínio. Débora acompanhou. O filho mais velho do senhor Ezequiel, diretor comercial, resistiu: "Isso vai prejudicar a gente com o banco. As mercadorias saíram cinco dias depois, que diferença faz?". Elias respondeu com calma: "Faz a diferença entre o que aconteceu em um ano e o que aconteceu no outro. Se a gente assinar sem esse ajuste, o banco vai emprestar com base num número que não é verdadeiro. E o nome que vai estar ali é o seu e o meu".
+
+O senhor Ezequiel ouviu em silêncio. Depois disse: "Meu pai dizia que balança enganosa é abominação. Ajusta". As demonstrações foram corrigidas. A opinião saiu limpa. E Débora entendeu que, às vezes, o relatório mais bonito é o que nasceu de uma conversa difícil.
+
+### Ferramentas práticas
+
+**Árvore de decisão da opinião**
+
+- Há distorção relevante não corrigida ou limitação de escopo relevante? Se não: opinião não modificada.
+
+- Se sim, é distorção ou é limitação?
+
+- Os efeitos (reais ou possíveis) são generalizados?
+
+- Distorção + não generalizada = ressalva. Distorção + generalizada = adversa.
+
+- Limitação + não generalizada = ressalva. Limitação + generalizada = abstenção.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Em que situação você foi chamado a ser um Natã e se calou?
+
+**2.** Por que a abstenção de opinião não é o mesmo que opinião adversa?
+
+**3.** Como dizer uma verdade dura com respeito e sem humilhar?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia 2 Samuel 12. Ore pedindo coragem e mansidão para dizer a verdade.
+
+**Esta semana**
+
+- Leia três relatórios de auditoria de companhias abertas no site da CVM e identifique cada seção.
+
+**Este mês**
+
+- Procure um relatório com ressalva e um com principais assuntos de auditoria. Analise como o auditor explicou cada ponto.
+
+**Próximos 90 dias**
+
+- Escreva, como exercício, um relatório completo com ressalva para um caso fictício.
+
+# Capítulo 18
+
+## Parágrafo de ênfase e outros assuntos
+
+@ILUS 18 | Uma lanterna iluminando um ponto específico do mapa — chamar atenção sem mudar a opinião
+
+Quando Paulo escreveu aos coríntios sobre a ressurreição, interrompeu a argumentação para dizer: "Antes de tudo vos entreguei o que também recebi" (1 Coríntios 15.3). Ele não estava mudando o assunto. Estava chamando atenção para o que era de primeira importância, para que ninguém lesse a carta sem perceber aquilo.
+
+O parágrafo de ênfase faz exatamente isso. O auditor não modifica a opinião, mas acende uma lanterna sobre algo que já está nas demonstrações e que é fundamental para entendê-las.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir parágrafo de ênfase e parágrafo de outros assuntos (NBC TA 706).
+
+- Identificar situações que ensejam o parágrafo de ênfase.
+
+- Distinguir ênfase, ressalva, principais assuntos de auditoria e incerteza relevante sobre continuidade.
+
+### Fundamentação bíblica
+
+**1 Coríntios 15.3**
+
+> *Antes de tudo vos entreguei o que também recebi.*
+
+**Hebreus 2.1**
+
+> *Por esta razão, importa que nos apeguemos, com mais firmeza, às verdades ouvidas, para que delas jamais nos desviemos.*
+
+Há verdades que precisam ser sublinhadas. Não por serem novas, mas por serem fundamentais.
+
+### Parágrafo de ênfase
+
+É o parágrafo incluído no relatório que se refere a um assunto **apropriadamente apresentado ou divulgado** nas demonstrações contábeis que, segundo o julgamento do auditor, é de tal importância que é **fundamental para o entendimento** das demonstrações pelos usuários.
+
+Três características essenciais:
+
+- O assunto **já está divulgado corretamente** nas demonstrações. Se não estivesse, seria caso de ressalva.
+
+- O parágrafo **não modifica a opinião**. O relatório deve dizer expressamente que "nossa opinião não está ressalvada em relação a esse assunto".
+
+- O parágrafo **remete à nota explicativa** onde o assunto está divulgado.
+
+### Situações que ensejam ênfase
+
+A NBC TA 706 e outras normas trazem exemplos:
+
+- Incerteza quanto ao desfecho de um litígio excepcional ou de uma ação regulatória relevante.
+
+- Evento subsequente significativo ocorrido entre a data das demonstrações e a do relatório (capítulo 19).
+
+- Aplicação antecipada, quando permitida, de uma nova norma contábil com efeito generalizado.
+
+- Catástrofe relevante que teve ou continua tendo efeito significativo sobre a posição patrimonial e financeira.
+
+- Demonstrações elaboradas segundo uma estrutura de propósito especial (NBC TA 800).
+
+- Reapresentação de demonstrações de períodos anteriores para correção de erros.
+
+- Transações relevantes com partes relacionadas, quando fundamentais para o entendimento.
+
+Atenção: a incerteza relevante relacionada à **continuidade operacional**, quando adequadamente divulgada, tem hoje **seção própria** no relatório, conforme a NBC TA 570 (capítulo 21), e não um parágrafo de ênfase.
+
+### Uso com moderação
+
+O excesso de parágrafos de ênfase diminui a eficácia da comunicação. Se tudo é sublinhado, nada é sublinhado. Por isso o auditor só os utiliza quando o assunto é realmente fundamental. E, quando o assunto já foi tratado como principal assunto de auditoria (NBC TA 701), em regra não se repete como ênfase.
+
+### Parágrafo de outros assuntos
+
+É o parágrafo que se refere a assunto **não apresentado nem divulgado** nas demonstrações, mas que é **relevante para o entendimento da auditoria, das responsabilidades do auditor ou do relatório**. Exemplos:
+
+- As demonstrações do ano anterior foram auditadas por outro auditor.
+
+- As demonstrações comparativas não foram auditadas.
+
+- Restrição de distribuição ou uso do relatório.
+
+- Relatório sobre mais de um conjunto de demonstrações contábeis.
+
+### Quadro comparativo
+
+- **Ressalva:** há problema não corrigido; modifica a opinião.
+
+- **Ênfase:** assunto corretamente divulgado e fundamental; não modifica a opinião; remete às notas.
+
+- **Outros assuntos:** assunto não divulgado nas demonstrações, relevante para entender a auditoria ou o relatório.
+
+- **Principais assuntos de auditoria:** os temas mais significativos da auditoria, obrigatórios para companhias listadas.
+
+- **Incerteza relevante sobre continuidade:** seção própria, quando a dúvida está adequadamente divulgada.
+
+### Em uma frase
+
+> *Ênfase é a lanterna sobre um assunto corretamente divulgado e fundamental; não muda a opinião. Outros assuntos explicam algo da auditoria que não está nas demonstrações.*
+
+### Débora e a enchente
+
+Em fevereiro, antes da emissão do relatório, uma enchente atingiu a filial 1 do laticínio e destruiu parte do estoque e das máquinas. A administração divulgou o fato numa nota explicativa de evento subsequente, com estimativa das perdas.
+
+Débora perguntou se isso exigia ressalva. Marta explicou: "Não. Está corretamente divulgado. Mas é tão importante para quem vai ler que vamos incluir um parágrafo de ênfase, remetendo à nota. A opinião continua limpa. A gente só acende a lanterna".
+
+### Ferramentas práticas
+
+**Teste de três perguntas para ênfase**
+
+- O assunto está apropriadamente divulgado nas demonstrações? Se não, pense em ressalva.
+
+- É fundamental para o entendimento dos usuários? Se não, não use ênfase.
+
+- Já foi tratado como principal assunto de auditoria ou como incerteza sobre continuidade? Se sim, em regra não repita.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua comunicação, você sublinha demais ou de menos?
+
+**2.** Qual é a verdade "de primeira importância" que você precisa sublinhar na sua vida neste momento?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Copie o quadro comparativo no seu caderno.
+
+**Esta semana**
+
+- Encontre um relatório de auditoria com parágrafo de ênfase e leia a nota explicativa a que ele remete.
+
+**Este mês**
+
+- Leia a NBC TA 706 e seus exemplos de redação.
+
+**Próximos 90 dias**
+
+- Escreva um parágrafo de ênfase e um de outros assuntos para casos fictícios e peça a um colega para revisar.
+
+# Capítulo 19
+
+## Eventos subsequentes (NBC TA 560)
+
+@ILUS 19 | Uma linha do tempo com o fechamento do balanço, a data do relatório e a divulgação
+
+Jesus contou a parábola do homem rico que teve uma colheita enorme. Ele fez as contas, decidiu derrubar os celeiros e construir maiores, e disse à própria alma: "Tens em depósito muitos bens para muitos anos; descansa". Mas Deus lhe disse: "Louco, esta noite te pedirão a tua alma" (Lucas 12.19-20). O balanço daquele homem estava fechado. Mas um evento subsequente mudou tudo.
+
+Na auditoria, as demonstrações são fechadas numa data, mas o mundo não para. Entre o fechamento e a divulgação acontecem fatos que podem mudar a leitura dos números. A NBC TA 560 trata desses eventos.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir eventos subsequentes e distinguir os que originam ajuste dos que não originam ajuste (CPC 24).
+
+- Identificar as três janelas de tempo tratadas pela NBC TA 560.
+
+- Conhecer os procedimentos do auditor em cada janela.
+
+- Saber como agir quando um fato é descoberto depois da emissão do relatório.
+
+### Fundamentação bíblica
+
+**Tiago 4.14**
+
+> *Vós não sabeis o que sucederá amanhã.*
+
+**Provérbios 27.1**
+
+> *Não te glories do dia de amanhã, porque não sabes o que trará à luz.*
+
+O auditor não adivinha o futuro, mas tem o dever de olhar para o que aconteceu até a data do seu relatório e de não ignorar o que vier a saber depois.
+
+### Eventos subsequentes: as duas espécies
+
+O CPC 24 define eventos subsequentes como aqueles, favoráveis ou desfavoráveis, que ocorrem entre a data das demonstrações contábeis e a data em que é autorizada a sua emissão. Há dois tipos:
+
+**Eventos que originam ajustes:** evidenciam condições que **já existiam** na data do balanço. Devem ser **ajustados** nos números. Exemplos:
+
+- Sentença judicial depois da data do balanço confirmando uma obrigação que já existia.
+
+- Falência de um cliente, depois do balanço, que confirma que o crédito já era de difícil recebimento.
+
+- Venda de estoques abaixo do custo, indicando que o valor realizável já era menor.
+
+- Descoberta de fraude ou erro que mostra que as demonstrações estavam incorretas.
+
+**Eventos que não originam ajustes:** indicam condições que **surgiram depois** da data do balanço. **Não se ajustam** os números, mas, se relevantes, **divulgam-se** em nota explicativa. Exemplos:
+
+- Incêndio ou enchente que destrói instalações depois do balanço.
+
+- Aquisição relevante de outra empresa.
+
+- Queda anormal no valor de investimentos depois do balanço.
+
+- Anúncio de plano de descontinuidade de operação.
+
+- Dividendos declarados depois do balanço (não se reconhecem como passivo na data do balanço).
+
+### As três janelas de tempo
+
+A NBC TA 560 organiza a responsabilidade do auditor em três períodos:
+
+**Janela 1 — da data das demonstrações até a data do relatório do auditor.** O auditor tem responsabilidade **ativa**: deve executar procedimentos para identificar eventos que exijam ajuste ou divulgação. Exemplos de procedimentos:
+
+- entender os procedimentos da administração para identificar eventos subsequentes;
+
+- indagar a administração sobre eventos ocorridos;
+
+- ler as atas de reuniões de sócios, conselho e diretoria realizadas depois da data do balanço;
+
+- ler as demonstrações intermediárias mais recentes;
+
+- examinar recebimentos e pagamentos posteriores;
+
+- obter confirmação dos advogados sobre litígios;
+
+- obter representação formal da administração (capítulo 20).
+
+Esses procedimentos devem abranger o período até a data do relatório, ou o mais próximo possível dela.
+
+**Janela 2 — depois da data do relatório e antes da divulgação das demonstrações.** O auditor **não tem obrigação de executar procedimentos**. Mas, se tomar conhecimento de um fato que, se conhecido antes, poderia ter levado a modificar o relatório, deve discutir com a administração, verificar se as demonstrações precisam ser alteradas e, se forem, estender os procedimentos e emitir novo relatório (com nova data ou com dupla data para o assunto específico). Se a administração não corrigir, o auditor modifica a opinião ou toma as medidas cabíveis para evitar que se confie no relatório.
+
+**Janela 3 — depois da divulgação das demonstrações.** O auditor também **não tem obrigação de executar procedimentos**. Mas, se tomar conhecimento de um fato que existia na data do relatório e que o teria levado a modificá-lo, deve discutir com a administração e, se for necessário reapresentar as demonstrações, revisar as medidas tomadas para informar todos que receberam as demonstrações originais e emitir novo relatório. Se a administração não agir, o auditor toma as medidas cabíveis para evitar que usuários continuem confiando no relatório antigo, com assessoria jurídica.
+
+### Em uma frase
+
+> *Eventos que confirmam condições existentes no balanço se ajustam; eventos que surgem depois se divulgam. Até a data do relatório, o auditor procura ativamente; depois, age quando toma conhecimento.*
+
+### Débora e as duas notícias de fevereiro
+
+Em fevereiro, duas notícias chegaram juntas ao laticínio. A primeira: a enchente na filial 1 (capítulo 18), ocorrida em fevereiro, que não existia em 31 de dezembro. Evento que não origina ajuste; divulgação em nota.
+
+A segunda: uma rede de supermercados, cliente com saldo de R$ 900 mil em 31 de dezembro, entrou com pedido de recuperação judicial. Débora estudou o caso e descobriu que a rede já atrasava pagamentos desde outubro. A condição já existia na data do balanço. Evento que origina ajuste: a perda estimada com o crédito precisava ser reconhecida em 31 de dezembro.
+
+Ela montou um papel de trabalho com uma linha do tempo, dividindo as duas notícias. Rafael leu e escreveu, a lápis, no canto: "Agora você está pensando como auditora".
+
+### Ferramentas práticas
+
+**Pergunta-chave para classificar o evento**
+
+- A condição que gerou o evento **já existia** em 31 de dezembro? Ajusta.
+
+- A condição **surgiu depois**? Não ajusta; divulga, se relevante.
+
+**Checklist de procedimentos da janela 1**
+
+- Indagação à administração.
+
+- Leitura de atas posteriores.
+
+- Leitura de balancetes posteriores.
+
+- Exame de recebimentos e pagamentos posteriores.
+
+- Carta de advogados atualizada.
+
+- Carta de representação datada na data do relatório.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua vida, quais "eventos subsequentes" mudaram a leitura de decisões que você achava fechadas?
+
+**2.** Por que o auditor continua responsável por agir mesmo depois de emitir o relatório?
+
+**3.** O que a parábola do rico insensato ensina sobre planejar sem considerar o imprevisto?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Lucas 12.13-21. Ore entregando a Deus os seus planos.
+
+**Esta semana**
+
+- Leia o CPC 24 e liste cinco exemplos de cada tipo de evento.
+
+**Este mês**
+
+- Desenhe a linha do tempo das três janelas da NBC TA 560 e cole no seu local de estudo.
+
+**Próximos 90 dias**
+
+- Num trabalho real, aplique o checklist de procedimentos da janela 1 e documente.
+
+# Capítulo 20
+
+## Representações formais da administração (NBC TA 580)
+
+@ILUS 20 | Uma carta assinada sobre a mesa — a palavra da administração por escrito
+
+Quando Josué se despediu do povo, reuniu as tribos em Siquém e fez uma pergunta direta: a quem vocês vão servir? O povo respondeu: "Ao Senhor nosso Deus serviremos, e à sua voz obedeceremos". Josué não se contentou com a resposta verbal. "Fez uma aliança com o povo naquele dia", "escreveu estas palavras no livro da lei de Deus" e levantou uma grande pedra como testemunha (Josué 24.24-27).
+
+A palavra dita foi registrada por escrito e testemunhada. É exatamente isso que o auditor faz no fim do trabalho: pede que a administração confirme, por escrito, as declarações que fez ao longo da auditoria. Essa é a carta de representação.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir representação formal e sua finalidade.
+
+- Identificar quem deve assinar, a forma, a data e o período abrangido.
+
+- Conhecer o conteúdo obrigatório e as representações adicionais.
+
+- Saber o que fazer quando há dúvida sobre a confiabilidade das representações ou quando elas não são fornecidas.
+
+### Fundamentação bíblica
+
+**Josué 24.27**
+
+> *Eis que esta pedra nos será testemunha, pois ouviu todas as palavras que o Senhor nos tem dito.*
+
+**Mateus 5.37**
+
+> *Seja, porém, a tua palavra: Sim, sim; não, não.*
+
+A carta de representação é o "sim, sim" da administração, colocado no papel.
+
+### O que é representação formal
+
+Segundo a NBC TA 580, representação formal é a declaração escrita da administração fornecida ao auditor para confirmar certos assuntos ou suportar outras evidências de auditoria. É evidência de auditoria necessária, mas **não é suficiente por si só**: não substitui os procedimentos que o auditor precisava executar. Ninguém deixa de contar o estoque porque o diretor assinou dizendo que ele existe.
+
+### Quem assina, quando e sobre que período
+
+- **Quem:** os administradores com responsabilidade pelas demonstrações e conhecimento dos assuntos — normalmente o diretor-presidente e o diretor financeiro, ou equivalentes. Às vezes, também os responsáveis pela governança.
+
+- **Forma:** carta endereçada ao auditor.
+
+- **Data:** o mais próximo possível da data do relatório do auditor, **mas não posterior a ela**.
+
+- **Período:** todas as demonstrações e períodos mencionados no relatório.
+
+### Conteúdo obrigatório
+
+A administração deve declarar que:
+
+- **Cumpriu sua responsabilidade pela elaboração** das demonstrações contábeis de acordo com a estrutura de relatório financeiro aplicável, conforme os termos do trabalho.
+
+- **Forneceu ao auditor todas as informações relevantes** e o acesso combinado.
+
+- **Todas as transações foram registradas** e estão refletidas nas demonstrações.
+
+Além disso, outras normas exigem representações específicas, por exemplo:
+
+- sobre fraudes conhecidas ou suspeitas e a responsabilidade pelo controle interno para preveni-las (NBC TA 240);
+
+- sobre descumprimento de leis e regulamentos (NBC TA 250);
+
+- sobre distorções não corrigidas, declarando que são irrelevantes, individualmente e em conjunto (NBC TA 450);
+
+- sobre litígios e reclamações (NBC TA 501);
+
+- sobre estimativas contábeis e premissas (NBC TA 540);
+
+- sobre partes relacionadas (NBC TA 550);
+
+- sobre eventos subsequentes (NBC TA 560);
+
+- sobre continuidade operacional, quando aplicável (NBC TA 570).
+
+O auditor pode pedir **representações adicionais** sobre outros assuntos, quando julgar necessário.
+
+### Quando há dúvida ou recusa
+
+Se o auditor tiver dúvidas sobre a competência, a integridade ou a diligência da administração, ou se as representações forem inconsistentes com outras evidências, ele deve avaliar o efeito sobre a confiabilidade de todas as representações e de toda a evidência.
+
+Se a administração **não fornecer** as representações obrigatórias, ou se o auditor concluir que elas **não são confiáveis**, a NBC TA 580 determina a **abstenção de opinião**. Não há meio-termo: sem a confirmação de que a administração assume suas responsabilidades e entregou tudo, o auditor não tem base para opinar.
+
+### Em uma frase
+
+> *A carta de representação é a palavra da administração por escrito, datada até a data do relatório. É evidência necessária, mas não suficiente; sem ela, ou se ela não for confiável, o auditor se abstém.*
+
+### Débora e a representação que quase não veio
+
+No dia de fechar o trabalho, o diretor comercial do laticínio se recusou a assinar a carta de representação. Disse que "não era contador" e que não ia assinar "papel de auditor". Débora sentiu a tensão na sala.
+
+Marta explicou com calma que a carta não pedia que ele fosse contador. Pedia que confirmasse, por escrito, aquilo que ele mesmo tinha dito: que entregou todas as informações, que não conhecia fraudes não comunicadas, que tinha informado todas as partes relacionadas. "Se o senhor disse isso para nós durante três meses, por que não pode escrever?" O senhor Ezequiel assinou primeiro. O filho assinou em seguida. Débora lembrou de Josué e da pedra em Siquém. Palavra que não pode ser escrita não deveria ter sido dita.
+
+### Ferramentas práticas
+
+**Checklist da carta de representação**
+
+- Endereçada ao auditor?
+
+- Assinada pelos administradores responsáveis?
+
+- Datada até a data do relatório, e o mais próximo possível dela?
+
+- Abrange todos os períodos do relatório?
+
+- Inclui as três declarações obrigatórias?
+
+- Inclui as representações específicas exigidas pelas demais normas?
+
+- O conteúdo é consistente com as demais evidências?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Existe algo que você diz verbalmente e não teria coragem de assinar?
+
+**2.** Por que a representação formal não é suficiente por si só?
+
+**3.** Como você reagiria se um cliente se recusasse a assinar a carta?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Josué 24. Ore renovando a sua própria aliança com Deus.
+
+**Esta semana**
+
+- Leia o modelo de carta de representação do anexo da NBC TA 580.
+
+**Este mês**
+
+- Monte um modelo de carta de representação adaptado ao tipo de cliente que você atende.
+
+**Próximos 90 dias**
+
+- Em um trabalho real, revise a carta de representação com o checklist antes da assinatura.
+
+# Capítulo 21
+
+## Continuidade operacional (NBC TA 570)
+
+@ILUS 21 | José administrando os celeiros do Egito durante os anos de fartura — preparar-se para continuar
+
+Faraó sonhou com sete vacas gordas devoradas por sete vacas magras, e com sete espigas cheias engolidas por sete espigas mirradas. Ninguém sabia interpretar. José explicou: sete anos de fartura, seguidos de sete anos de fome tão grave que a fartura seria esquecida. E propôs um plano: guardar um quinto da colheita durante a fartura, para que a terra "não pereça de fome" (Gênesis 41.36).
+
+José fez uma avaliação de continuidade operacional. Olhou para o futuro previsível, identificou o risco de o Egito não sobreviver e propôs um plano de ação. Faraó acreditou, e o Egito continuou.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir o pressuposto de continuidade operacional.
+
+- Distinguir a responsabilidade da administração e a do auditor.
+
+- Identificar eventos e condições que podem levantar dúvida significativa sobre a continuidade.
+
+- Saber como o relatório do auditor trata a continuidade em cada situação.
+
+### Fundamentação bíblica
+
+**Gênesis 41.35-36**
+
+> *Ajuntem toda a colheita dos bons anos que virão... para que a terra não pereça de fome.*
+
+**Provérbios 22.3**
+
+> *O prudente vê o mal e esconde-se; mas os simples passam adiante e sofrem a pena.*
+
+A prudência enxerga o risco antes de ele chegar. Isso vale para o empresário, que deve planejar a continuidade, e para o auditor, que deve avaliar se esse planejamento é realista.
+
+### O pressuposto de continuidade
+
+As demonstrações contábeis são elaboradas presumindo que a entidade **continuará em operação** no futuro previsível. Por isso os ativos são registrados pelo valor que se espera recuperar no curso normal dos negócios, e os passivos pelo prazo normal de pagamento. Se a empresa vai fechar, esse pressuposto cai: os ativos passam a valer o que se conseguiria numa liquidação, e tudo muda.
+
+### Responsabilidades
+
+**Da administração:** avaliar a capacidade da entidade de continuar operando. O CPC 26 exige essa avaliação para um período de **pelo menos doze meses a partir da data do balanço**, e a divulgação de incertezas relevantes.
+
+**Do auditor:** obter evidência suficiente e apropriada sobre a adequação do uso do pressuposto pela administração e concluir se existe **incerteza relevante** sobre a capacidade de continuidade. Ele avalia o mesmo período usado pela administração e, se esse período for inferior a doze meses a partir da data das demonstrações, pede que ela o amplie.
+
+O auditor não pode prever o futuro. A ausência de menção à continuidade no relatório não é garantia de que a entidade continuará.
+
+### Eventos e condições de alerta
+
+A NBC TA 570 traz exemplos de indicadores:
+
+**Financeiros:**
+
+- passivo a descoberto ou capital circulante líquido negativo;
+
+- empréstimos com vencimento próximo sem perspectiva realista de renovação;
+
+- indicações de retirada de apoio financeiro por credores;
+
+- fluxos de caixa operacionais negativos;
+
+- prejuízos operacionais substanciais;
+
+- atrasos ou suspensão de pagamento de dividendos;
+
+- incapacidade de pagar credores nas datas de vencimento;
+
+- incapacidade de cumprir cláusulas contratuais de empréstimos (*covenants*).
+
+**Operacionais:**
+
+- intenção da administração de liquidar a entidade ou encerrar as operações;
+
+- perda de pessoal-chave da administração sem substituição;
+
+- perda de mercado importante, de cliente-chave, de franquia, de licença ou de fornecedor principal;
+
+- dificuldades com mão de obra;
+
+- falta de suprimentos importantes;
+
+- surgimento de concorrente de grande sucesso.
+
+**Outros:**
+
+- descumprimento de exigências de capital ou de outras exigências legais;
+
+- processos judiciais ou regulatórios contra a entidade que, se perdidos, ela não conseguiria pagar;
+
+- mudanças na legislação ou na política governamental com efeito adverso;
+
+- catástrofes sem seguro ou com seguro insuficiente.
+
+### Quando há dúvida significativa
+
+O auditor executa procedimentos adicionais: avalia os **planos da administração** (venda de ativos, renegociação de dívidas, aporte de capital, redução de custos), verifica se são viáveis e se melhoram a situação, analisa fluxos de caixa projetados e suas premissas, lê contratos, conversa com bancos, obtém representações formais sobre os planos.
+
+### O efeito no relatório
+
+- **Pressuposto adequado, sem incerteza relevante:** opinião não modificada, sem menção específica (embora a seção de responsabilidades mencione a continuidade em termos gerais).
+
+- **Pressuposto adequado, com incerteza relevante adequadamente divulgada:** opinião não modificada, com **seção separada** intitulada "Incerteza relevante relacionada com a continuidade operacional", remetendo à nota explicativa e afirmando que a opinião não está modificada em relação a esse assunto.
+
+- **Pressuposto adequado, incerteza relevante não divulgada adequadamente:** opinião **com ressalva** ou **adversa**, conforme a disseminação.
+
+- **Pressuposto inadequado** (a entidade vai encerrar, mas as demonstrações foram feitas como se fosse continuar): opinião **adversa**.
+
+- **Administração se recusa a fazer ou ampliar a avaliação:** o auditor considera os efeitos no relatório, podendo chegar à ressalva ou à abstenção, por limitação.
+
+- **Múltiplas incertezas com interações complexas:** em casos raros, o auditor pode se abster de opinar.
+
+### Em uma frase
+
+> *Continuidade é o pressuposto de que a empresa seguirá operando pelo menos doze meses. A administração avalia, o auditor conclui; a incerteza relevante divulgada vai para seção própria, sem modificar a opinião.*
+
+### Débora e o fechamento da jornada
+
+Com a enchente e a recuperação judicial do supermercado, o laticínio terminou o ano com capital circulante apertado. Débora fez a análise de continuidade junto com Rafael. Avaliaram o plano do senhor Ezequiel: o seguro cobriria parte das máquinas, o banco já tinha aprovado o financiamento da nova fábrica, e os sócios aportariam capital próprio. Leram as cartas do banco e do corretor de seguros. Concluíram que não havia incerteza relevante. A opinião saiu limpa, com o parágrafo de ênfase sobre a enchente.
+
+No dia em que o relatório foi assinado, Elias chamou Débora à sua sala. Sobre a mesa, a Bíblia aberta em Gênesis 41. "Sabe por que José foi colocado sobre o Egito?", perguntou ele. "Não foi porque interpretava sonhos. Foi porque era fiel no pouco, na casa de Potifar e na prisão. Faraó só confiou nele o muito porque outros já tinham confiado o pouco." Ele estendeu a mão. "Ano que vem você vai como sênior num cliente menor. Parabéns."
+
+Débora saiu da sala, foi ao banheiro, fechou a porta e chorou. Depois orou: "Senhor, obrigada. Me guarda fiel".
+
+### Ferramentas práticas
+
+**Painel de continuidade (aplique na sua empresa ou num cliente)**
+
+- Capital circulante líquido é positivo?
+
+- Fluxo de caixa operacional é positivo nos últimos doze meses?
+
+- Há dívidas vencendo nos próximos doze meses sem fonte de pagamento definida?
+
+- Há cláusulas de empréstimos (*covenants*) em risco?
+
+- Há dependência de um único cliente, fornecedor ou pessoa?
+
+- Há processos judiciais que a empresa não conseguiria pagar se perdesse?
+
+- Existe um plano escrito para os "anos de vacas magras"?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** A sua empresa, ou a empresa onde você trabalha, tem um plano de José para os anos difíceis?
+
+**2.** Por que a ausência de menção à continuidade no relatório não é uma garantia?
+
+**3.** Que área da sua vida está vivendo de "vacas gordas" sem guardar nada para as "magras"?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Gênesis 41. Ore pedindo a prudência que vê o mal antes de ele chegar.
+
+**Esta semana**
+
+- Aplique o painel de continuidade na sua empresa ou num cliente.
+
+**Este mês**
+
+- Leia a NBC TA 570 e um relatório real com seção de incerteza relevante sobre continuidade.
+
+**Próximos 90 dias**
+
+- Se o painel mostrou fragilidades, ajude a construir um plano escrito de continuidade e acompanhe a execução.
