@@ -1,0 +1,905 @@
+# Parte III
+
+## Legislação tributária e contabilização
+
+~ "Dai, pois, a César o que é de César, e a Deus o que é de Deus." (Mateus 22.21)
+
+# Capítulo 10
+
+## O Código Tributário Nacional em linguagem de gente
+
+@ILUS 10 | A moeda com a efígie de César — o que é devido ao Estado e o que é devido a Deus
+
+Os fariseus perguntaram a Jesus se era lícito pagar tributo a César. Jesus pediu uma moeda e perguntou de quem era a imagem. "De César." Então veio a resposta que separou para sempre as duas esferas: "Dai a César o que é de César, e a Deus o que é de Deus" (Mateus 22.21).
+
+Repare que Jesus não disse "dai a César tudo o que ele pedir". Disse "o que é de César". Ou seja: existe uma medida. O tributo devido é aquele que a lei define. Nem mais, nem menos. Para saber o que é de César, o auditor precisa conhecer a lei de César. No Brasil, essa lei começa na Constituição e se organiza no Código Tributário Nacional.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir tributo e identificar suas espécies.
+
+- Conhecer os principais princípios constitucionais tributários.
+
+- Distinguir obrigação principal e acessória, fato gerador e sujeito passivo.
+
+- Compreender as regras de responsabilidade tributária, inclusive dos administradores.
+
+- Conhecer as hipóteses de suspensão, extinção e exclusão do crédito tributário.
+
+### Fundamentação bíblica
+
+**Mateus 22.21**
+
+> *Dai, pois, a César o que é de César.*
+
+**Romanos 13.7**
+
+> *Pagai a todos o que lhes é devido: a quem tributo, tributo; a quem imposto, imposto.*
+
+"O que é devido" pressupõe uma medida justa e conhecida. A legalidade tributária é a forma moderna de dizer que César só pode cobrar o que a lei define.
+
+### O que é tributo
+
+O CTN, art. 3º, define: "Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada".
+
+Cinco ideias: é em dinheiro, é obrigatório, **não é multa**, nasce da **lei** e é cobrado por atividade **vinculada** (o fiscal não escolhe se cobra ou não; se a lei manda, ele cobra).
+
+### As espécies tributárias
+
+O STF adota a classificação em cinco espécies:
+
+- **Impostos:** não dependem de atividade estatal específica em favor do contribuinte (IR, ICMS, ISS, IPI, IPTU, IPVA, ITCMD, ITBI, IOF, ITR, IBS, IS).
+
+- **Taxas:** cobradas pelo exercício do poder de polícia ou pela prestação de serviço público específico e divisível.
+
+- **Contribuições de melhoria:** decorrentes de obra pública que valoriza o imóvel.
+
+- **Empréstimos compulsórios:** em casos de calamidade, guerra ou investimento público urgente e relevante.
+
+- **Contribuições especiais:** sociais (PIS, COFINS, CSLL, INSS, CBS), de intervenção no domínio econômico (CIDE) e de interesse de categorias profissionais.
+
+### Princípios constitucionais
+
+A Constituição, nos artigos 150 a 152, protege o contribuinte com limitações ao poder de tributar:
+
+- **Legalidade:** tributo só se cria ou aumenta por lei.
+
+- **Isonomia:** tratamento igual a contribuintes em situação equivalente.
+
+- **Irretroatividade:** a lei não alcança fatos geradores anteriores à sua vigência.
+
+- **Anterioridade anual:** não se cobra no mesmo exercício em que a lei foi publicada.
+
+- **Anterioridade nonagesimal:** não se cobra antes de 90 dias da publicação.
+
+- **Vedação ao confisco:** o tributo não pode ser tão alto que tome o patrimônio.
+
+- **Imunidades:** entre elas, a dos templos de qualquer culto (art. 150, VI, "b"), que alcança o patrimônio, a renda e os serviços relacionados às finalidades essenciais das igrejas. Atenção: imunidade não dispensa obrigações acessórias, nem alcança contribuições previdenciárias sobre a folha.
+
+### Obrigação tributária
+
+- **Obrigação principal** (art. 113, § 1º): pagar tributo ou multa.
+
+- **Obrigação acessória** (art. 113, § 2º): fazer ou deixar de fazer algo no interesse da arrecadação ou fiscalização — emitir nota, escriturar livros, entregar declarações. O descumprimento converte-se em obrigação principal quanto à multa.
+
+- **Fato gerador** (art. 114): a situação definida em lei como necessária e suficiente para fazer nascer a obrigação. Vender mercadoria é fato gerador do ICMS; auferir renda é fato gerador do IR.
+
+- **Sujeito passivo** (art. 121): o **contribuinte**, que tem relação pessoal e direta com o fato gerador, e o **responsável**, que, sem ser contribuinte, é obrigado por disposição expressa de lei.
+
+### Responsabilidade tributária
+
+- **Por sucessão** (arts. 129 a 133): adquirente de imóvel, espólio, empresa resultante de fusão, incorporação ou cisão, adquirente de fundo de comércio.
+
+- **De terceiros** (art. 134): pais, tutores, administradores de bens de terceiros, sócios de sociedades de pessoas em liquidação, quando não for possível exigir do contribuinte.
+
+- **Pessoal dos administradores** (art. 135): diretores, gerentes e representantes respondem pessoalmente pelos créditos resultantes de atos praticados com **excesso de poderes ou infração de lei, contrato social ou estatutos**. O STJ entende que o simples não pagamento não basta (Súmula 430), mas a **dissolução irregular** da empresa autoriza o redirecionamento (Súmula 435).
+
+- **Por infrações** (art. 136): independe da intenção do agente, salvo disposição em contrário.
+
+- **Denúncia espontânea** (art. 138): a responsabilidade é excluída quando o contribuinte confessa a infração e paga o tributo e os juros **antes** de qualquer procedimento fiscal relacionado. Não vale depois de iniciada a fiscalização.
+
+### Suspensão, extinção e exclusão
+
+**Suspensão da exigibilidade** (art. 151): moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; parcelamento.
+
+**Extinção** (art. 156): entre outras, pagamento, compensação, transação, remissão, prescrição e decadência, conversão de depósito em renda, decisão administrativa ou judicial definitiva e dação em pagamento de imóveis.
+
+**Exclusão** (art. 175): isenção e anistia.
+
+### Em uma frase
+
+> *Tributo é prestação compulsória criada por lei, que não é multa e é cobrada de forma vinculada. O que é de César é exatamente o que a lei define: nem mais, nem menos.*
+
+### Débora lê o CTN numa semana
+
+Débora levou o CTN para casa e leu em sete noites, com um marca-texto amarelo e outro verde. Amarelo para o que protegia o contribuinte; verde para o que protegia o Fisco. No fim, percebeu que o livro estava quase meio a meio. "É uma balança", disse ao marido. "César tem direitos, mas também tem limites."
+
+Ela sublinhou duas vezes o artigo 135. Se a Boa Colheita tivesse omitido receitas, os sócios administradores poderiam responder pessoalmente. E sublinhou três vezes o artigo 138: a denúncia espontânea só valia antes da fiscalização chegar.
+
+### Ferramentas práticas
+
+**Mapa do crédito tributário (copie no caderno)**
+
+- Nasce com o fato gerador (obrigação).
+
+- É constituído pelo lançamento (crédito).
+
+- Pode ter a exigibilidade suspensa (art. 151).
+
+- Pode ser extinto (art. 156).
+
+- Pode ser excluído (art. 175).
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que conhecer a lei é a única forma de saber "o que é de César"?
+
+**2.** A imunidade das igrejas é privilégio ou proteção da liberdade religiosa? Como ela deve ser administrada com integridade?
+
+**3.** Como o artigo 135 muda a forma como um administrador deve encarar o tributo?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Mateus 22.15-22 e Romanos 13.1-7. Ore pedindo uma consciência tributária madura.
+
+**Esta semana**
+
+- Leia os artigos 3º, 113 a 138 do CTN.
+
+**Este mês**
+
+- Leia os artigos 150 a 156 da Constituição Federal.
+
+**Próximos 90 dias**
+
+- Monte um resumo pessoal do CTN, artigo por artigo, das partes mais usadas na auditoria.
+
+# Capítulo 11
+
+## Lançamento, decadência e prescrição
+
+@ILUS 11 | Uma ampulheta com a areia escorrendo — o tempo que extingue direitos
+
+A Lei de Moisés tinha um mecanismo curioso: o ano do jubileu. A cada cinquenta anos, as dívidas eram perdoadas e as terras voltavam às famílias de origem (Levítico 25). O tempo tinha poder de extinguir obrigações. Ninguém ficava preso para sempre.
+
+O Direito Tributário também reconhece o poder do tempo. O Fisco tem prazo para constituir o crédito e prazo para cobrá-lo. Depois disso, o direito se extingue. Para o auditor, saber esses prazos é saber quais anos ainda podem ser fiscalizados e quais riscos já não existem.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir lançamento tributário e suas modalidades.
+
+- Distinguir decadência e prescrição.
+
+- Contar os prazos decadenciais nas regras do art. 150, § 4º, e do art. 173, I, do CTN.
+
+- Contar o prazo prescricional e conhecer suas causas de interrupção.
+
+- Relacionar esses prazos à guarda de documentos.
+
+### Fundamentação bíblica
+
+**Levítico 25.10**
+
+> *Santificareis o ano quinquagésimo e apregoareis liberdade na terra.*
+
+**Eclesiastes 3.6**
+
+> *Tempo de buscar e tempo de perder; tempo de guardar e tempo de deitar fora.*
+
+Há tempo de guardar os documentos e tempo em que eles podem ser descartados. Saber qual é qual é sabedoria.
+
+### O lançamento
+
+O CTN, art. 142, define lançamento como o procedimento administrativo que verifica a ocorrência do fato gerador, determina a matéria tributável, calcula o montante do tributo, identifica o sujeito passivo e, sendo o caso, propõe a penalidade. É **privativo da autoridade administrativa** e **vinculado**.
+
+Modalidades:
+
+- **De ofício** (art. 149): feito pela própria autoridade, sem participação do contribuinte, ou para revisar lançamentos anteriores. É o caso do **auto de infração**. Ex.: IPTU, IPVA, e qualquer tributo quando o contribuinte omite ou erra.
+
+- **Por declaração** (art. 147): o contribuinte presta informações e a autoridade calcula e lança.
+
+- **Por homologação** (art. 150): o contribuinte apura e paga antecipadamente, e a autoridade homologa expressa ou tacitamente. É a modalidade da maioria dos tributos empresariais — IRPJ, CSLL, PIS, COFINS, ICMS, IPI, ISS.
+
+Atenção: a entrega de declaração que confessa o débito (como a DCTF ou a DCTFWeb) **constitui** o crédito, dispensando lançamento (STJ, Súmula 436). Se o contribuinte declara e não paga, a Receita pode inscrever direto em dívida ativa.
+
+### Decadência
+
+Decadência é a perda do direito de **lançar** (constituir o crédito). O prazo é de **cinco anos**, mas a contagem depende da situação:
+
+**Regra do art. 150, § 4º:** nos tributos sujeitos a lançamento por homologação, se houve **pagamento antecipado** e **não houve dolo, fraude ou simulação**, conta-se cinco anos **a partir do fato gerador**. Após esse prazo, considera-se homologado tacitamente.
+
+**Regra do art. 173, I:** se **não houve pagamento** (ou se houve dolo, fraude ou simulação), conta-se cinco anos **a partir do primeiro dia do exercício seguinte** àquele em que o lançamento poderia ter sido efetuado (STJ, Súmula 555, e Tema 163 dos recursos repetitivos).
+
+Exemplo: IRPJ trimestral do 1º trimestre de 2021 (fato gerador em 31/03/2021).
+
+- Com pagamento parcial e sem fraude: decadência em 31/03/2026.
+
+- Sem pagamento, ou com fraude: o lançamento poderia ser feito em 2021; conta-se a partir de 1º/01/2022; decadência em 31/12/2026.
+
+Repare: a fraude estica o prazo. Quem frauda não ganha tempo; perde.
+
+### Prescrição
+
+Prescrição é a perda do direito de **cobrar** judicialmente o crédito já constituído. O prazo é de **cinco anos contados da constituição definitiva** do crédito (art. 174) — por exemplo, da decisão administrativa final no processo de impugnação, ou da entrega da declaração que confessa o débito.
+
+**Interrupção** (art. 174, parágrafo único): despacho do juiz que ordenar a citação na execução fiscal; protesto judicial; qualquer ato judicial que constitua em mora o devedor; qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor (como o pedido de parcelamento).
+
+Durante a discussão administrativa (impugnação e recursos), a exigibilidade está suspensa e não corre prescrição.
+
+A Súmula Vinculante 8 do STF reafirmou que decadência e prescrição de contribuições previdenciárias também seguem o CTN, com prazo de cinco anos.
+
+### Guarda de documentos
+
+O CTN, art. 195, parágrafo único, manda conservar livros e documentos até que ocorra a prescrição dos créditos tributários decorrentes das operações a que se refiram. Na prática, isso significa guardar por **pelo menos cinco anos a partir do primeiro dia do exercício seguinte**, e por mais tempo enquanto houver discussão, prejuízo fiscal a compensar ou bens no ativo cujo custo precise ser comprovado. Documentos de imóveis, de aumentos de capital e de prejuízos fiscais devem ser guardados enquanto produzirem efeitos.
+
+### Em uma frase
+
+> *Decadência é o prazo para lançar; prescrição, para cobrar. Com pagamento e sem fraude, cinco anos do fato gerador; sem pagamento ou com fraude, cinco anos do primeiro dia do exercício seguinte. Quem frauda perde tempo, não ganha.*
+
+### Débora conta os anos
+
+Para medir o risco da Boa Colheita, Débora montou uma tabela com cada tributo e cada período, marcando quais anos ainda estavam abertos à fiscalização. Como havia pagamentos mensais de PIS, COFINS e estimativas de IRPJ, a regra geral seria a do art. 150, § 4º. Mas, se a omissão de receitas fosse confirmada com características de fraude, a regra mudaria para a do art. 173, I, e mais um ano inteiro voltaria a ficar aberto.
+
+"A fraude estica o prazo", explicou a Thiago. "Por isso não existe esperteza que compense. O tempo trabalha a favor de quem é honesto."
+
+### Ferramentas práticas
+
+**Quadro de decadência (preencha para cada cliente)**
+
+- Tributo / período / houve pagamento? / há indício de fraude? / regra aplicável / data de decadência.
+
+**Tabela de guarda mínima recomendada**
+
+- Documentos fiscais e contábeis do ano: até o fim do prazo decadencial e prescricional aplicável.
+
+- Livros e documentos de prejuízo fiscal: enquanto houver saldo a compensar e por mais cinco anos.
+
+- Documentos de imobilizado e imóveis: enquanto o bem estiver no ativo e depois até o fim dos prazos da baixa.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que a fraude estica o prazo de decadência? O que isso ensina sobre a mentira?
+
+**2.** Existe alguma pendência tributária que você espera "prescrever" em vez de resolver?
+
+**3.** Seus documentos estão guardados pelo tempo necessário?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia os artigos 142 a 150 e 173 a 174 do CTN.
+
+**Esta semana**
+
+- Faça o exercício de contagem de decadência para três tributos de um cliente.
+
+**Este mês**
+
+- Monte o quadro de decadência para todos os tributos do cliente.
+
+**Próximos 90 dias**
+
+- Revise a política de guarda de documentos da empresa à luz deste capítulo.
+
+# Capítulo 12
+
+## Tributos sobre vendas: ICMS, IPI, PIS, COFINS e ISS
+
+@ILUS 12 | O mercador pesando a mercadoria na balança da praça — o tributo que nasce na venda
+
+Quando Neemias voltou a Jerusalém, viu comerciantes de Tiro vendendo peixe e mercadorias no sábado, e homens de Judá pisando lagares e carregando jumentos (Neemias 13.15-16). A circulação de mercadorias era intensa, e Neemias precisou regulá-la. Desde sempre, onde há comércio, há regras.
+
+No Brasil de hoje, a cada venda nascem vários tributos ao mesmo tempo. E o auditor precisa saber calcular, contabilizar e conferir cada um. Até 2032, convivem os tributos atuais e os novos da Reforma (capítulo 19). Aqui, estudamos os atuais.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer as características essenciais do ICMS, do IPI, do PIS, da COFINS e do ISS.
+
+- Distinguir tributo "por dentro" e "por fora".
+
+- Distinguir os regimes cumulativo e não cumulativo de PIS e COFINS.
+
+- Contabilizar uma venda com os tributos incidentes e a apuração mensal.
+
+### Fundamentação bíblica
+
+**Deuteronômio 25.15**
+
+> *Peso inteiro e justo terás; medida inteira e justa terás.*
+
+O tributo calculado com exatidão é parte da medida justa.
+
+### ICMS
+
+Imposto estadual sobre circulação de mercadorias e prestação de serviços de transporte interestadual e intermunicipal e de comunicação (CF, art. 155, II; LC 87/1996). Características:
+
+- **Não cumulativo:** compensa-se o imposto devido em cada operação com o cobrado nas anteriores.
+
+- **"Por dentro":** integra sua própria base de cálculo. Uma alíquota nominal de 18% representa cerca de 21,95% sobre o preço sem o imposto.
+
+- **Alíquotas:** internas definidas por cada estado (em regra entre 17% e 23%), e interestaduais de 7% ou 12% (4% para importados).
+
+### IPI
+
+Imposto federal sobre produtos industrializados (CF, art. 153, IV). Características:
+
+- **Não cumulativo e seletivo** (alíquotas maiores para produtos supérfluos).
+
+- **"Por fora":** é acrescentado ao preço e não integra a receita bruta (Decreto-Lei 1.598/1977, art. 12, § 4º).
+
+- Contribuinte: o industrial ou equiparado.
+
+- Com a Reforma, o IPI terá alíquota reduzida a zero a partir de 2027, exceto para produtos que tenham industrialização incentivada na Zona Franca de Manaus.
+
+### PIS e COFINS
+
+Contribuições federais sobre a receita.
+
+- **Regime cumulativo** (Lei 9.718/1998): alíquotas de 0,65% (PIS) e 3% (COFINS), sem créditos. Aplica-se, em regra, a empresas do Lucro Presumido.
+
+- **Regime não cumulativo** (Leis 10.637/2002 e 10.833/2003): alíquotas de 1,65% (PIS) e 7,6% (COFINS), com direito a créditos sobre insumos, energia, aluguéis, depreciação e outros itens previstos. Aplica-se, em regra, ao Lucro Real.
+
+- **Exclusão do ICMS da base:** o STF decidiu que o ICMS destacado na nota não compõe a base de cálculo do PIS e da COFINS (RE 574.706, Tema 69).
+
+- **Conceito de insumo:** o STJ firmou que insumo é tudo o que é essencial ou relevante para a atividade (REsp 1.221.170, Tema 779). É uma das áreas de maior litígio e de maior oportunidade de recuperação.
+
+- Com a Reforma, PIS e COFINS serão extintos a partir de 2027 e substituídos pela CBS.
+
+### ISS
+
+Imposto municipal sobre serviços (CF, art. 156, III; LC 116/2003). Alíquota mínima de 2% e máxima de 5%. Em regra é devido no município do estabelecimento prestador, com exceções em que é devido no local da prestação (LC 116/2003, art. 3º). É cumulativo. Será substituído gradualmente pelo IBS entre 2029 e 2032.
+
+### Contabilização de uma venda
+
+Venda de mercadoria por R$ 10.000 (ICMS de 18% incluído no preço), empresa no Lucro Real, PIS e COFINS não cumulativos sobre a receita sem o ICMS:
+
+- ICMS: 18% de R$ 10.000 = R$ 1.800.
+
+- Base de PIS e COFINS: R$ 10.000 − R$ 1.800 = R$ 8.200.
+
+- PIS: 1,65% de R$ 8.200 = R$ 135,30.
+
+- COFINS: 7,6% de R$ 8.200 = R$ 623,20.
+
+Lançamentos:
+
+- D — Clientes: R$ 10.000 / C — Receita bruta de vendas: R$ 10.000
+
+- D — ICMS sobre vendas (dedução da receita): R$ 1.800 / C — ICMS a recolher: R$ 1.800
+
+- D — PIS sobre vendas (dedução da receita): R$ 135,30 / C — PIS a recolher: R$ 135,30
+
+- D — COFINS sobre vendas (dedução da receita): R$ 623,20 / C — COFINS a recolher: R$ 623,20
+
+### Apuração mensal (não cumulatividade)
+
+No fim do mês, confronta-se o imposto a recolher com o imposto a recuperar das compras (capítulo 4). Se a empresa tem R$ 1.800 de ICMS a recolher e R$ 1.200 de ICMS a recuperar:
+
+- D — ICMS a recolher: R$ 1.200 / C — ICMS a recuperar: R$ 1.200
+
+Saldo a pagar: R$ 600. No pagamento:
+
+- D — ICMS a recolher: R$ 600 / C — Bancos: R$ 600
+
+Se o crédito for maior que o débito, o saldo credor permanece no ativo para os meses seguintes.
+
+### Em uma frase
+
+> *Na venda nascem ICMS (por dentro), IPI (por fora), PIS e COFINS (sem o ICMS na base) e, nos serviços, ISS. Débito na venda, crédito na compra, e a diferença é o que se paga.*
+
+### Débora testa as notas de saída
+
+Débora extraiu todas as notas fiscais eletrônicas de saída da Boa Colheita direto do portal da SEFAZ, com autorização do cliente, e comparou com a receita contabilizada. As notas autorizadas somavam R$ 318 milhões. A contabilidade registrava R$ 317,4 milhões — diferença de R$ 600 mil, explicada por notas canceladas fora do prazo. Até ali, tudo batia.
+
+"Então a receita está certa?", perguntou Priscila. "A receita das notas está certa", respondeu Débora. "O que me preocupa é a receita que não teve nota."
+
+### Ferramentas práticas
+
+**Conferência mensal de tributos sobre vendas**
+
+- Receita contabilizada = notas autorizadas − canceladas − devoluções?
+
+- ICMS debitado na contabilidade = EFD ICMS/IPI = notas?
+
+- PIS e COFINS sobre a receita sem o ICMS = EFD-Contribuições?
+
+- Saldos credores acumulados são explicados?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que conferir a receita apenas pelas notas emitidas não basta para descartar omissão?
+
+**2.** A sua empresa aproveita todos os créditos de PIS e COFINS que a lei permite? Não aproveitar também é falta de mordomia.
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o cálculo e os lançamentos da venda deste capítulo.
+
+**Esta semana**
+
+- Leia o art. 155, II, da Constituição e os primeiros artigos da LC 87/1996.
+
+**Este mês**
+
+- Faça a conferência mensal de tributos sobre vendas de um cliente.
+
+**Próximos 90 dias**
+
+- Revise o conceito de insumo aplicado por um cliente no Lucro Real e identifique créditos não aproveitados.
+
+# Capítulo 13
+
+## Substituição tributária, DIFAL e créditos de ICMS
+
+@ILUS 13 | Um homem pagando a dívida de outro à porta da cidade — o tributo recolhido por terceiro
+
+Boaz, para resgatar a herança de Elimeleque e casar com Rute, precisou tratar primeiro com um parente mais próximo, que tinha o direito de resgate antes dele. Os dois se encontraram à porta da cidade, diante dos anciãos (Rute 4). Um terceiro assumiu a obrigação que, originalmente, não era sua.
+
+Na substituição tributária, acontece algo parecido: uma empresa recolhe o imposto que seria devido por outras, mais adiante na cadeia. O mecanismo facilita a fiscalização, mas complica muito a vida de quem precisa calcular — e de quem precisa auditar.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Explicar a substituição tributária do ICMS para frente.
+
+- Calcular o ICMS-ST com margem de valor agregado (MVA).
+
+- Compreender o diferencial de alíquotas (DIFAL).
+
+- Conhecer regras importantes de créditos de ICMS: imobilizado, uso e consumo e estornos.
+
+### Fundamentação bíblica
+
+**Rute 4.9-10**
+
+> *Vós sois hoje testemunhas de que comprei da mão de Noemi tudo quanto foi de Elimeleque.*
+
+A responsabilidade assumida diante de testemunhas precisa ser cumprida com exatidão. O substituto tributário recolhe, em nome de outros, um tributo que o Estado confiou a ele.
+
+### Substituição tributária para frente
+
+Prevista na Constituição (art. 150, § 7º) e na LC 87/1996 (arts. 6º a 10), permite que a lei atribua a um contribuinte (o **substituto**, normalmente o fabricante ou importador) a responsabilidade pelo ICMS das operações seguintes, até o consumidor final. Os demais da cadeia (os **substituídos**) recebem a mercadoria com o imposto já retido.
+
+Exemplo: o fabricante de bebidas recolhe o ICMS próprio e o ICMS que o distribuidor e o varejista pagariam depois.
+
+### Cálculo com MVA
+
+Venda do fabricante ao distribuidor: R$ 1.000, alíquota interna de 18%, MVA de 40%.
+
+- ICMS próprio: 18% de R$ 1.000 = R$ 180.
+
+- Base da ST: R$ 1.000 × 1,40 = R$ 1.400.
+
+- ICMS total sobre a base da ST: 18% de R$ 1.400 = R$ 252.
+
+- ICMS-ST a reter: R$ 252 − R$ 180 = R$ 72.
+
+O distribuidor paga ao fabricante R$ 1.072. O ICMS-ST não é receita do fabricante: é valor recebido por conta do Estado.
+
+Contabilização no fabricante (substituto):
+
+- D — Clientes: R$ 1.072
+
+- C — Receita bruta: R$ 1.000
+
+- C — ICMS-ST a recolher: R$ 72
+
+Para o distribuidor (substituído), o ICMS-ST pago integra o custo do estoque, porque ele não terá crédito nem débito nas operações seguintes.
+
+O STF decidiu que, se a venda final ocorrer por valor menor que a base presumida, o contribuinte tem direito à restituição da diferença (RE 593.849, Tema 201) — e os estados podem, em contrapartida, exigir complemento quando a venda for maior, conforme suas leis.
+
+### DIFAL
+
+O diferencial de alíquotas existe nas operações interestaduais destinadas a consumidor final:
+
+- **Destinatário contribuinte** (uso, consumo ou ativo): paga a diferença entre a alíquota interna do seu estado e a interestadual.
+
+- **Destinatário não contribuinte** (por exemplo, pessoa física em compra pela internet): desde a EC 87/2015, o DIFAL é recolhido pelo remetente ao estado de destino. A LC 190/2022 regulamentou a cobrança.
+
+Exemplo: empresa de SP vende mercadoria por R$ 1.000 a consumidor final não contribuinte no PR. Alíquota interestadual 12%, interna no PR 19,5%. DIFAL = 7,5% de R$ 1.000 = R$ 75, recolhido pelo remetente ao PR (em cálculo simplificado; vários estados usam a "base dupla").
+
+### Créditos de ICMS: regras que o auditor precisa conhecer
+
+- **Ativo imobilizado:** crédito apropriado em **1/48 por mês**, controlado no CIAP. Se o bem for vendido ou baixado antes de 48 meses, o saldo não aproveitado é cancelado (LC 87/1996, art. 20, § 5º).
+
+- **Uso e consumo:** o direito ao crédito foi sucessivamente adiado e hoje está previsto para **2033** (LC 87/1996, art. 33, I), quando o ICMS já terá sido substituído pelo IBS.
+
+- **Energia elétrica e comunicação:** crédito restrito a situações específicas (industrialização, exportação, entre outras).
+
+- **Estorno:** se a entrada gerou crédito mas a saída for isenta ou não tributada, ou se a mercadoria se perder, deteriorar ou for furtada, o crédito deve ser **estornado** (art. 21).
+
+Repare no último item: as quebras de estoque sem documentação que Débora encontrou (capítulo 4) exigiriam estorno de crédito de ICMS. Perda de estoque não é só problema contábil; é problema tributário.
+
+### Em uma frase
+
+> *Na ST, o substituto recolhe pelo resto da cadeia, com base presumida pela MVA. No DIFAL, o destino recebe a diferença de alíquota. E crédito de ICMS tem regra: imobilizado em 48 meses, uso e consumo só em 2033, e estorno quando a mercadoria se perde.*
+
+### Débora e as quebras que viraram estorno
+
+Débora calculou o ICMS embutido nos R$ 3,4 milhões de diferença de inventário. Se fossem perdas reais, a Boa Colheita deveria ter estornado os créditos — cerca de R$ 410 mil. Se não fossem perdas, mas vendas sem nota, o problema era muito maior: ICMS, PIS, COFINS, IRPJ e CSLL sobre a receita omitida.
+
+Ela escreveu num cartão e prendeu no monitor: "Perda sem documento ou é estorno, ou é omissão. Não existe terceira opção honesta".
+
+### Ferramentas práticas
+
+**Checklist de ICMS**
+
+- A empresa é substituta ou substituída? Em quais produtos?
+
+- A MVA aplicada é a vigente na legislação do estado de destino?
+
+- O ICMS-ST está fora da receita do substituto?
+
+- O DIFAL das vendas a consumidor final de outros estados é recolhido?
+
+- O CIAP está atualizado e conciliado com o imobilizado?
+
+- Há estorno de créditos para perdas, saídas isentas e uso e consumo?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que o substituto tributário tem uma responsabilidade moral especial com o dinheiro que recolhe em nome de outros?
+
+**2.** Por que a frase "perda sem documento ou é estorno, ou é omissão" é verdadeira?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o cálculo do ICMS-ST e do DIFAL deste capítulo.
+
+**Esta semana**
+
+- Leia os artigos 6º a 10, 20 e 21 da LC 87/1996.
+
+**Este mês**
+
+- Aplique o checklist de ICMS num cliente.
+
+**Próximos 90 dias**
+
+- Revise o CIAP de um cliente e concilie com o imobilizado.
+
+# Capítulo 14
+
+## IRPJ e CSLL no Lucro Real: LALUR, adições e exclusões
+
+@ILUS 14 | Dois livros abertos lado a lado — o lucro contábil e o lucro fiscal
+
+O apóstolo Paulo escreveu: "Tudo me é lícito, mas nem tudo convém" (1 Coríntios 6.12). Há coisas permitidas que não edificam. A contabilidade e o Fisco vivem uma tensão parecida: nem toda despesa que a contabilidade reconhece o Fisco aceita, e nem toda receita contábil o Fisco tributa.
+
+O Lucro Real é o regime em que essa diferença é registrada com precisão. Parte-se do lucro contábil e, num livro próprio, o LALUR, ajusta-se para chegar ao lucro tributável. É o coração da tributação das grandes empresas e um dos principais alvos da auditoria fiscal.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer quem é obrigado ao Lucro Real.
+
+- Calcular IRPJ (com adicional) e CSLL.
+
+- Aplicar adições, exclusões e compensação de prejuízos fiscais.
+
+- Conhecer o e-LALUR e o e-LACS (partes A e B).
+
+- Distinguir apuração trimestral e anual com estimativas mensais.
+
+### Fundamentação bíblica
+
+**1 Coríntios 6.12**
+
+> *Todas as coisas me são lícitas, mas nem todas convêm.*
+
+**Provérbios 11.1**
+
+> *Balança enganosa é abominação para o Senhor.*
+
+O LALUR é uma balança: de um lado o lucro contábil, do outro os ajustes que a lei manda fazer. Se a balança é manipulada, o resultado é abominação.
+
+### Quem é obrigado
+
+O Lucro Real é obrigatório (Lei 9.718/1998, art. 14) para empresas com receita total acima de **R$ 78 milhões** no ano anterior, instituições financeiras, empresas com lucros ou rendimentos do exterior, empresas com benefícios fiscais de isenção ou redução do IR, empresas que pagaram por estimativa mensal, factorings e securitizadoras, entre outras. As demais podem optar.
+
+### Alíquotas
+
+- **IRPJ:** 15% sobre o lucro real, mais **adicional de 10%** sobre a parcela que exceder R$ 20.000 por mês (R$ 60.000 por trimestre, R$ 240.000 por ano).
+
+- **CSLL:** 9% para a maioria das empresas (alíquotas maiores para instituições financeiras).
+
+### O caminho do lucro tributável
+
+^ **Lucro contábil antes do IR/CSLL + Adições − Exclusões = Lucro real antes da compensação − Compensação de prejuízo (até 30%) = Lucro real**
+
+**Adições** (despesas contabilizadas que a lei não aceita, ou receitas não contabilizadas que a lei manda tributar). Exemplos:
+
+- Provisões não dedutíveis: perdas estimadas de clientes, contingências, perdas de estoque estimadas.
+
+- Multas por infrações fiscais de natureza punitiva (as compensatórias, como a de mora, são dedutíveis).
+
+- Brindes; doações não incentivadas; despesas não necessárias à atividade (RIR/2018, art. 311).
+
+- Resultado negativo de equivalência patrimonial.
+
+- A própria CSLL, que não é dedutível do IRPJ.
+
+- Distribuição disfarçada de lucros.
+
+**Exclusões** (receitas contabilizadas que a lei não tributa, ou despesas não contabilizadas que a lei permite deduzir). Exemplos:
+
+- Dividendos recebidos de outras empresas brasileiras.
+
+- Resultado positivo de equivalência patrimonial.
+
+- Reversão de provisões que foram adicionadas anteriormente.
+
+- Juros sobre capital próprio, quando não contabilizados como despesa (capítulo 18).
+
+- Depreciação acelerada incentivada.
+
+**Compensação de prejuízos fiscais:** o prejuízo fiscal de anos anteriores pode ser compensado sem prazo, mas limitado a **30% do lucro real** do período antes da compensação (Lei 9.065/1995, art. 15). A mesma trava vale para a base negativa da CSLL.
+
+### Exemplo
+
+- Lucro contábil antes do IR/CSLL: R$ 2.000.000.
+
+- Adições: provisão para contingências R$ 300.000; multa punitiva R$ 50.000; brindes R$ 20.000. Total R$ 370.000.
+
+- Exclusões: dividendos recebidos R$ 120.000; reversão de provisão adicionada no ano anterior R$ 50.000. Total R$ 170.000.
+
+- Lucro antes da compensação: 2.000.000 + 370.000 − 170.000 = R$ 2.200.000.
+
+- Prejuízo fiscal acumulado: R$ 1.000.000. Limite de 30%: R$ 660.000. Compensa R$ 660.000.
+
+- Lucro real: R$ 1.540.000.
+
+- IRPJ: 15% de 1.540.000 = R$ 231.000; adicional: 10% de (1.540.000 − 240.000) = R$ 130.000. Total R$ 361.000.
+
+- CSLL (supondo os mesmos ajustes e base negativa equivalente): 9% de R$ 1.540.000 = R$ 138.600.
+
+### e-LALUR e e-LACS
+
+Desde 2014, o LALUR e o LACS são escriturados dentro da **ECF** (Escrituração Contábil Fiscal). Têm duas partes:
+
+- **Parte A:** registra os ajustes do período (adições, exclusões, compensações).
+
+- **Parte B:** controla os valores que afetarão períodos futuros — saldos de prejuízo fiscal, provisões adicionadas que serão excluídas quando revertidas, depreciação acelerada que será adicionada depois.
+
+Na fiscalização, a Parte B é examinada com muito cuidado: um saldo de prejuízo fiscal sem documentação pode ser glosado.
+
+### Trimestral ou anual
+
+- **Trimestral:** apuração definitiva a cada trimestre (31/03, 30/06, 30/09, 31/12). Prejuízo de um trimestre só compensa 30% do lucro do trimestre seguinte.
+
+- **Anual:** apuração definitiva em 31/12, com pagamentos mensais por **estimativa** (sobre a receita, com percentuais de presunção, ou com base em **balancete de suspensão ou redução**, que permite pagar menos se o lucro real acumulado for menor).
+
+A falta de pagamento das estimativas gera multa isolada de 50% sobre o valor não pago (Lei 9.430/1996, art. 44, II, "b").
+
+### Em uma frase
+
+> *No Lucro Real, parte-se do lucro contábil, soma-se o que a lei não aceita, subtrai-se o que a lei não tributa e compensa-se prejuízo até 30%. IRPJ de 15% mais 10% de adicional e CSLL de 9%.*
+
+### Débora e a parte B esquecida
+
+Ao revisar a ECF da Boa Colheita, Débora encontrou na Parte B um saldo de prejuízo fiscal de R$ 8 milhões, formado entre 2015 e 2017. A empresa vinha compensando 30% ao ano. Ela pediu os documentos que comprovavam a formação daquele prejuízo. O contador disse que "estavam no arquivo morto", mas nunca os encontrou.
+
+Débora explicou que, sem prova, a Receita poderia glosar a compensação dos últimos cinco anos, com multa e juros. Recomendou que a empresa reconstituísse a documentação imediatamente.
+
+### Ferramentas práticas
+
+**Revisão do LALUR (checklist)**
+
+- Cada adição e exclusão tem fundamento legal e documento?
+
+- As provisões adicionadas estão controladas na Parte B?
+
+- A compensação de prejuízo respeita o limite de 30%?
+
+- O saldo de prejuízo fiscal tem documentação de origem?
+
+- As estimativas mensais foram pagas ou suportadas por balancete de suspensão?
+
+- O adicional de 10% foi calculado corretamente no período (mensal, trimestral ou anual)?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** "Tudo é lícito, mas nem tudo convém": que despesas da sua empresa são permitidas, mas não convêm?
+
+**2.** Por que a documentação da Parte B é tão importante quanto a da Parte A?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o exemplo numérico deste capítulo.
+
+**Esta semana**
+
+- Leia os artigos do RIR/2018 sobre adições, exclusões e compensação (arts. 260 a 261 e 579 a 586).
+
+**Este mês**
+
+- Aplique o checklist de revisão do LALUR num cliente.
+
+**Próximos 90 dias**
+
+- Monte um dossiê de documentação de todos os saldos da Parte B de um cliente.
+
+# Capítulo 15
+
+## Lucro Presumido, Lucro Arbitrado e Simples Nacional
+
+@ILUS 15 | Três caminhos que saem da mesma porteira — os regimes de apuração
+
+Quando Abraão e Ló se separaram, Abraão deu a Ló a escolha: "Se escolheres a esquerda, irei para a direita; se a direita, irei para a esquerda" (Gênesis 13.9). Ló escolheu a planície do Jordão, bem regada, sem perceber que estava perto de Sodoma. Escolher bem um caminho exige olhar além da aparência.
+
+Na tributação brasileira, a empresa também escolhe caminhos: Lucro Real, Presumido ou Simples. E existe um quarto caminho, que ninguém escolhe e todos querem evitar: o Lucro Arbitrado. O auditor precisa conhecer os quatro.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Calcular IRPJ e CSLL no Lucro Presumido.
+
+- Conhecer as hipóteses e a forma de cálculo do Lucro Arbitrado.
+
+- Conhecer os fundamentos do Simples Nacional e suas hipóteses de exclusão.
+
+- Avaliar riscos de enquadramento indevido em cada regime.
+
+### Fundamentação bíblica
+
+**Gênesis 13.10-11**
+
+> *Levantou Ló os olhos e viu toda a campina do Jordão, que era toda bem regada... Então Ló escolheu para si toda a campina.*
+
+**Provérbios 14.15**
+
+> *O simples dá crédito a toda palavra, mas o prudente atenta para os seus passos.*
+
+Escolher regime tributário sem cálculo é escolher pela aparência, como Ló.
+
+### Lucro Presumido
+
+Pode optar a empresa com receita total de até **R$ 78 milhões** no ano anterior e que não esteja obrigada ao Lucro Real. A apuração é **trimestral**. O lucro é presumido aplicando um percentual sobre a receita bruta:
+
+**Percentuais de presunção do IRPJ** (Lei 9.249/1995, art. 15), entre outros:
+
+- 8%: comércio, indústria, transporte de cargas, atividade imobiliária.
+
+- 16%: transporte de passageiros e revenda de combustíveis (1,6%).
+
+- 32%: prestação de serviços em geral, intermediação, administração e locação de bens.
+
+**Percentuais da CSLL** (Lei 9.249/1995, art. 20): 12% para comércio, indústria e transporte; 32% para serviços em geral.
+
+Ao lucro presumido somam-se as **demais receitas** (financeiras, ganhos de capital, aluguéis eventuais) integralmente.
+
+Atenção: a LC 224/2025, ao reduzir benefícios fiscais, determinou acréscimo de 10% nos percentuais de presunção sobre a parcela da receita bruta que exceder R$ 5 milhões por ano, a partir de 2026. Confira a regulamentação vigente antes de calcular.
+
+Exemplo (sem considerar o acréscimo da LC 224/2025): comércio com receita bruta trimestral de R$ 3.000.000 e receitas financeiras de R$ 20.000.
+
+- Base do IRPJ: 8% × 3.000.000 + 20.000 = R$ 260.000.
+
+- IRPJ: 15% × 260.000 = R$ 39.000; adicional: 10% × (260.000 − 60.000) = R$ 20.000. Total R$ 59.000.
+
+- Base da CSLL: 12% × 3.000.000 + 20.000 = R$ 380.000.
+
+- CSLL: 9% × 380.000 = R$ 34.200.
+
+No Presumido, PIS e COFINS são, em regra, cumulativos (0,65% e 3%).
+
+### Lucro Arbitrado
+
+É a forma de apuração aplicada quando não é possível apurar o lucro real ou presumido de forma confiável. Hipóteses principais (Lei 8.981/1995, art. 47; RIR/2018, art. 603):
+
+- o contribuinte obrigado ao Lucro Real não mantém escrituração na forma da lei comercial e fiscal, ou deixa de elaborar as demonstrações;
+
+- a escrituração revela evidentes indícios de fraude ou contém vícios, erros ou deficiências que a tornam **imprestável** para identificar a efetiva movimentação financeira, inclusive bancária, ou para determinar o lucro real;
+
+- o contribuinte deixa de apresentar os livros e documentos à fiscalização;
+
+- o contribuinte opta indevidamente pelo Lucro Presumido;
+
+- o comissário ou representante de pessoa estrangeira deixa de escriturar separadamente.
+
+**Forma de cálculo:** quando a receita bruta é conhecida, aplicam-se os percentuais do Presumido **acrescidos de 20%** (por exemplo, 9,6% para comércio, 38,4% para serviços). Quando a receita **não é conhecida**, a autoridade arbitra o lucro por critérios previstos em lei, baseados em valores como o lucro real do último período, o ativo, o capital, as compras, a folha de salários ou o aluguel (Lei 8.981/1995, art. 51).
+
+O próprio contribuinte pode optar pelo arbitramento quando conhece a receita e não tem condições de apurar o lucro real. Mas, em geral, é o caminho mais caro.
+
+### Simples Nacional
+
+Regime unificado criado pela LC 123/2006 para microempresas e empresas de pequeno porte com receita bruta anual de até **R$ 4,8 milhões**. Recolhe, numa única guia (DAS), IRPJ, CSLL, PIS, COFINS, IPI, ICMS, ISS e a contribuição patronal previdenciária (salvo exceções), com alíquotas progressivas por anexo.
+
+Pontos de atenção do auditor:
+
+- **Sublimite de R$ 3,6 milhões:** acima dele, ICMS e ISS passam a ser recolhidos fora do DAS.
+
+- **Exclusão de ofício** (LC 123/2006, art. 29): entre outras hipóteses, por embaraço à fiscalização, constituição por interpostas pessoas, prática reiterada de infração, **omissão de receitas** em percentual relevante, comercialização de mercadorias objeto de contrabando ou descaminho e falta de escrituração do livro caixa. A exclusão pode retroagir e gerar a cobrança dos tributos pelas regras gerais.
+
+- **Fracionamento artificial:** abrir várias empresas no Simples para dividir um único negócio e ficar abaixo do limite pode configurar simulação, com desconsideração das empresas e cobrança como se fossem uma só.
+
+- A partir de 2027, com a Reforma, a empresa do Simples poderá optar por recolher CBS e IBS fora do DAS, para permitir crédito integral aos seus clientes (capítulo 19).
+
+### Em uma frase
+
+> *No Presumido, o lucro é um percentual da receita; no Arbitrado, é o Presumido acrescido de 20% ou critério da autoridade, quando a escrituração não merece confiança; no Simples, tudo vai num só DAS, com exclusão para quem omite receita.*
+
+### Débora e o risco de arbitramento
+
+Ao juntar os achados — estoque sem sistema de custo integrado, inventário com diferença de R$ 3,4 milhões, fornecedores fictícios no passivo, caixa sem origem —, Débora percebeu que a escrituração da Boa Colheita podia ser considerada imprestável. Se isso acontecesse, o Fisco poderia arbitrar o lucro.
+
+Ela fez a simulação: com receita conhecida de R$ 318 milhões, o lucro arbitrado de comércio (9,6%) seria R$ 30,5 milhões, contra um lucro real declarado de R$ 3 milhões. O imposto seria quase dez vezes maior. Levou o número a Elias. Ele ficou em silêncio e depois disse: "Precisamos falar com os sócios esta semana. Antes que o Fisco fale".
+
+### Ferramentas práticas
+
+**Comparativo de regimes (para planejamento anual)**
+
+- Calcule IRPJ, CSLL, PIS e COFINS pelo Lucro Real com a projeção do ano.
+
+- Calcule pelo Lucro Presumido, se a empresa puder optar.
+
+- Calcule pelo Simples, se a empresa puder optar.
+
+- Considere obrigações acessórias, créditos dos clientes e os efeitos da Reforma.
+
+- Escolha pela soma total e pelo risco, não apenas pela alíquota.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que o arbitramento é a consequência natural de uma escrituração desonesta?
+
+**2.** Você já escolheu um caminho pela aparência, como Ló? O que aprendeu?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o exemplo do Lucro Presumido deste capítulo.
+
+**Esta semana**
+
+- Leia os artigos 47 a 51 da Lei 8.981/1995 e o artigo 29 da LC 123/2006.
+
+**Este mês**
+
+- Faça o comparativo de regimes para um cliente.
+
+**Próximos 90 dias**
+
+- Avalie, num cliente do Lucro Real, se a escrituração resistiria a uma alegação de imprestabilidade.

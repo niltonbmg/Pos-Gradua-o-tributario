@@ -1,0 +1,731 @@
+# Parte I
+
+## A linguagem dos números
+
+~ "Procura conhecer o estado das tuas ovelhas e cuida bem dos teus rebanhos." (Provérbios 27.23)
+
+# Capítulo 1
+
+## A contabilidade como linguagem: patrimônio, usuários e equação
+
+@ILUS 01 | O pastor contando as ovelhas ao entardecer — conhecer o estado do rebanho
+
+Jacó trabalhou vinte anos para Labão cuidando de rebanhos. Quando decidiu ir embora, fez uma prestação de contas que é, talvez, o primeiro relatório de gestão patrimonial da Bíblia: "Estes vinte anos eu estive contigo; as tuas ovelhas e as tuas cabras nunca perderam as crias... o que era arrebatado pelas feras eu o pagava; da minha mão o requerias" (Gênesis 31.38-39). Jacó sabia exatamente quanto recebeu, quanto nasceu, quanto se perdeu e quem pagou cada perda.
+
+Isso é contabilidade: saber o estado do rebanho. E auditor que não entende contabilidade é como fiscal de rebanho que não sabe contar ovelhas. Por isso este volume começa por aqui.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir contabilidade, seu objeto, seu objetivo e seu campo de aplicação.
+
+- Identificar os usuários internos e externos da informação contábil.
+
+- Compreender o patrimônio e seus elementos: bens, direitos e obrigações.
+
+- Aplicar a equação fundamental do patrimônio e reconhecer as situações patrimoniais.
+
+### Fundamentação bíblica
+
+**Provérbios 27.23-24**
+
+> *Procura conhecer o estado das tuas ovelhas e cuida bem dos teus rebanhos, porque as riquezas não duram para sempre.*
+
+Salomão manda o administrador conhecer o estado do patrimônio, porque riqueza sem controle evapora. A contabilidade é a ferramenta que torna esse conhecimento possível.
+
+**Lucas 16.2**
+
+> *Presta contas da tua administração.*
+
+Toda contabilidade é, no fundo, uma prestação de contas. O auditor confere se ela é verdadeira.
+
+### O que é contabilidade
+
+Contabilidade é a ciência social que estuda, registra, controla e interpreta os fenômenos que afetam o patrimônio de uma entidade. Seu **objeto** é o patrimônio. Seu **objetivo** é fornecer informações úteis sobre o patrimônio e suas variações para a tomada de decisões. Seu **campo de aplicação** são as entidades — empresas, governos, organizações sem fins lucrativos, inclusive igrejas.
+
+A contabilidade cumpre duas funções: a **administrativa**, de controle do patrimônio, e a **econômica**, de apuração do resultado (lucro ou prejuízo).
+
+### Os usuários
+
+- **Internos:** sócios administradores, diretores, gerentes, conselho.
+
+- **Externos:** investidores, bancos, fornecedores, clientes, empregados, sindicatos, governo e, de forma muito especial, o **Fisco**.
+
+Repare que o Fisco é usuário da contabilidade. A Receita Federal recebe a escrituração contábil digital (ECD) e a escrituração contábil fiscal (ECF) de milhares de empresas todos os anos. Quando a contabilidade mente, ela mente também ao Estado.
+
+### O patrimônio
+
+Patrimônio é o conjunto de **bens, direitos e obrigações** de uma entidade, avaliados em moeda.
+
+- **Bens:** coisas que satisfazem necessidades — dinheiro, mercadorias, veículos, máquinas, imóveis, marcas, softwares.
+
+- **Direitos:** valores a receber de terceiros — duplicatas a receber, aplicações financeiras, impostos a recuperar.
+
+- **Obrigações:** valores a pagar a terceiros — fornecedores, salários, impostos, empréstimos.
+
+Bens e direitos formam o **Ativo** (parte positiva). Obrigações com terceiros formam o **Passivo exigível** (parte negativa). A diferença é o **Patrimônio Líquido** (PL), que representa o que pertence aos sócios.
+
+### A equação fundamental
+
+^ **Ativo = Passivo + Patrimônio Líquido**
+
+Ou, de outro jeito: **PL = Ativo − Passivo**.
+
+Dessa equação nascem as situações patrimoniais:
+
+- **Ativo maior que passivo:** PL positivo. Situação favorável (superávit).
+
+- **Ativo igual ao passivo:** PL nulo. Tudo o que a empresa tem pertence a terceiros.
+
+- **Ativo menor que passivo:** PL negativo, o chamado **passivo a descoberto**. A empresa deve mais do que tem.
+
+- **Ativo e PL iguais, sem passivo:** situação rara, em que tudo pertence aos sócios.
+
+### Origens e aplicações
+
+Outra forma de ler o balanço: o lado do **Passivo e PL** mostra as **origens** dos recursos (de onde veio o dinheiro: de terceiros ou dos sócios); o lado do **Ativo** mostra as **aplicações** (onde o dinheiro foi colocado). Toda origem tem uma aplicação de igual valor. Por isso o balanço sempre fecha.
+
+### Por que o auditor fiscal precisa disso
+
+Quase todas as presunções de omissão de receita que veremos na Parte IV nascem da equação patrimonial. Se o ativo cresce sem que haja origem declarada — sem receita, sem empréstimo, sem aporte dos sócios —, de onde veio o dinheiro? Quem entende a equação enxerga o que não fecha.
+
+### Em uma frase
+
+> *Contabilidade é conhecer o estado do rebanho: bens e direitos no ativo, obrigações no passivo, e a diferença pertence aos sócios. O balanço sempre fecha; quando não fecha, alguém precisa explicar.*
+
+### Débora assume a primeira equipe
+
+Débora recebeu a pasta da Comercial Boa Colheita Ltda. numa segunda-feira de setembro. Pela primeira vez seria a sênior, responsável por dois assistentes: Thiago, recém-formado, e Priscila, que estava no terceiro ano de faculdade. Marta continuava como gerente e Elias como sócio.
+
+Antes de qualquer teste, Débora fez o que Elias tinha ensinado: montou a equação patrimonial dos últimos três anos numa folha só. Ativo de R$ 140 milhões, passivo de R$ 95 milhões, PL de R$ 45 milhões. E percebeu algo curioso: o caixa e as aplicações tinham crescido R$ 18 milhões em dois anos, enquanto o lucro somado do período era de apenas R$ 6 milhões, sem empréstimos novos e sem aporte dos sócios. A equação fechava no papel. Mas a origem do dinheiro não estava clara. Ela anotou a pergunta na primeira página do papel de trabalho: "De onde vieram os R$ 12 milhões?".
+
+### Ferramentas práticas
+
+**Exercício de equação patrimonial**
+
+Uma empresa tem: caixa R$ 20.000; estoques R$ 50.000; veículos R$ 80.000; duplicatas a receber R$ 30.000; fornecedores R$ 40.000; empréstimos R$ 60.000; salários a pagar R$ 10.000.
+
+- Ativo = 20.000 + 50.000 + 80.000 + 30.000 = R$ 180.000.
+
+- Passivo = 40.000 + 60.000 + 10.000 = R$ 110.000.
+
+- PL = 180.000 − 110.000 = R$ 70.000. Situação favorável.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você conhece o "estado das suas ovelhas" — o patrimônio da sua casa e da sua empresa?
+
+**2.** Por que o Fisco é um usuário legítimo da contabilidade?
+
+**3.** Qual seria a sua prestação de contas, se fosse feita hoje, como a de Jacó a Labão?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Ore: "Senhor, ensina-me a conhecer o estado do rebanho que me confiaste".
+
+- Monte a equação patrimonial da sua família numa folha de papel.
+
+**Esta semana**
+
+- Faça o mesmo com a empresa onde você trabalha ou com um cliente, usando o último balanço.
+
+**Este mês**
+
+- Compare a variação do PL com o lucro do período. Se não baterem, descubra por quê.
+
+**Próximos 90 dias**
+
+- Revise todos os capítulos da Parte I antes de avançar para as demonstrações.
+
+# Capítulo 2
+
+## Débito, crédito e escrituração: o idioma das partidas dobradas
+
+@ILUS 02 | Uma balança de dois pratos perfeitamente equilibrada — o débito e o crédito
+
+"Balança justa, peso justo, efa justa e him justo tereis" (Levítico 19.36). A Lei de Moisés exigia equilíbrio entre os dois pratos. Quinhentos anos antes de Cristo, o mercador sabia que, se um prato descia, o outro precisava subir na mesma medida, ou alguém estava sendo roubado.
+
+O método das partidas dobradas, sistematizado pelo frei Luca Pacioli em 1494, é essa balança aplicada aos registros. Para cada débito, um crédito de igual valor. Não existe lançamento com um prato só.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Aplicar o método das partidas dobradas.
+
+- Identificar a natureza devedora e credora das contas.
+
+- Distinguir contas patrimoniais e de resultado.
+
+- Conhecer o plano de contas, o Livro Diário, o Livro Razão e o balancete de verificação.
+
+- Reconhecer as formalidades da escrituração e sua importância como prova.
+
+### Fundamentação bíblica
+
+**Levítico 19.35-36**
+
+> *Não cometereis injustiça no juízo, nem na vara, nem no peso, nem na medida. Balança justa, peso justo... tereis.*
+
+**Provérbios 16.11**
+
+> *O peso e a balança justos pertencem ao Senhor; obra sua são todos os pesos da bolsa.*
+
+O equilíbrio dos registros não é invenção humana: é reflexo de um Deus que ama a justiça.
+
+### O método das partidas dobradas
+
+Todo fato contábil afeta, no mínimo, duas contas. A soma dos débitos é sempre igual à soma dos créditos.
+
+**Débito e crédito não significam "bom" ou "ruim".** São apenas os lados de uma conta:
+
+- **Contas do Ativo:** aumentam a débito e diminuem a crédito (natureza devedora).
+
+- **Contas do Passivo e do PL:** aumentam a crédito e diminuem a débito (natureza credora).
+
+- **Despesas e custos:** são debitados (reduzem o PL).
+
+- **Receitas:** são creditadas (aumentam o PL).
+
+Um truque de memória: **D**ebita-se o **D**estino do recurso; **C**redita-se a **C**ausa ou origem.
+
+### Exemplos de lançamentos
+
+Compra de mercadorias a prazo, R$ 10.000:
+
+- D — Estoque de mercadorias: R$ 10.000
+
+- C — Fornecedores: R$ 10.000
+
+Venda à vista de serviços, R$ 3.000:
+
+- D — Caixa: R$ 3.000
+
+- C — Receita de serviços: R$ 3.000
+
+Pagamento de aluguel, R$ 1.500:
+
+- D — Despesa de aluguel: R$ 1.500
+
+- C — Bancos: R$ 1.500
+
+### Contas patrimoniais e de resultado
+
+- **Patrimoniais:** Ativo, Passivo e PL. Seus saldos passam de um ano para o outro.
+
+- **De resultado:** receitas, custos e despesas. São encerradas no fim do exercício, transferindo o saldo para a apuração do resultado, que vai para o PL (lucros ou prejuízos acumulados).
+
+### Plano de contas
+
+É o roteiro de todas as contas que a empresa usa, organizado em grupos e códigos. Para a escrituração digital, a Receita Federal exige que a empresa relacione cada conta do seu plano com o **plano de contas referencial**, para permitir os cruzamentos. Uma conta mal classificada no plano referencial pode gerar inconsistência na ECF e chamar a atenção da fiscalização.
+
+### Os livros
+
+- **Livro Diário:** registra todas as operações em ordem cronológica, dia a dia. É obrigatório (Código Civil, art. 1.180) e, no meio digital, é transmitido na ECD, assinado com certificado digital pelo contador e pelo representante da empresa.
+
+- **Livro Razão:** organiza os lançamentos por conta, mostrando a movimentação e o saldo de cada uma. É obrigatório para empresas do Lucro Real (Lei 8.218/1991, art. 14).
+
+- **Balancete de verificação:** relação das contas com seus saldos devedores e credores. Se a soma dos saldos devedores for igual à dos credores, a escrituração está matematicamente equilibrada — o que não significa que esteja correta.
+
+### Formalidades e valor de prova
+
+A escrituração deve ser feita em idioma e moeda nacionais, em forma contábil, por ordem cronológica, sem intervalos em branco, entrelinhas, borrões, rasuras ou emendas (Código Civil, art. 1.183). Erros são corrigidos por **estorno**, **transferência** ou **complementação**, nunca apagando.
+
+A escrituração regular faz prova a favor da empresa (Decreto-Lei 1.598/1977, art. 9º, § 1º), desde que os fatos estejam comprovados por documentos hábeis. Escrituração imprestável, ao contrário, pode levar ao **arbitramento do lucro** (capítulo 15).
+
+### Em uma frase
+
+> *Para cada débito, um crédito de igual valor: é a balança justa dos registros. Diário em ordem cronológica, Razão por conta, balancete para conferir o equilíbrio.*
+
+### Débora e o balancete que fechava demais
+
+Thiago trouxe o balancete da Boa Colheita orgulhoso: "Fechou certinho, Débora. Débito igual a crédito". Débora sorriu e mostrou a conta "Adiantamentos diversos", com saldo devedor de R$ 4,2 milhões, sem movimentação há dois anos.
+
+"Balancete fechado só prova que a soma está certa", explicou. "Não prova que o lançamento está certo. Uma balança pode estar equilibrada com dois pesos falsos." Pediu a composição da conta. Ninguém na empresa sabia explicar.
+
+### Ferramentas práticas
+
+**Tabela de natureza das contas (para estudo)**
+
+- Ativo: natureza devedora. Aumenta a débito.
+
+- Passivo: natureza credora. Aumenta a crédito.
+
+- PL: natureza credora. Aumenta a crédito.
+
+- Receitas: natureza credora.
+
+- Custos e despesas: natureza devedora.
+
+- Contas redutoras do ativo (depreciação acumulada, perdas estimadas): natureza credora.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que um balancete equilibrado pode esconder registros errados?
+
+**2.** O que a regra "nada se apaga, tudo se estorna" ensina sobre arrependimento e verdade?
+
+**3.** Existe, na sua contabilidade, uma conta que ninguém sabe explicar?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Faça dez lançamentos simples de partidas dobradas no caderno.
+
+**Esta semana**
+
+- Peça o balancete de uma empresa e identifique as contas sem movimentação há mais de um ano.
+
+**Este mês**
+
+- Estude o plano de contas referencial da Receita Federal e compare com o plano de contas de um cliente.
+
+**Próximos 90 dias**
+
+- Faça a composição de saldo de todas as contas "diversas" ou "transitórias" de um cliente.
+
+# Capítulo 3
+
+## Estrutura conceitual e regime de competência
+
+@ILUS 03 | O semeador e o ceifeiro em estações diferentes — cada fruto no seu tempo
+
+"Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu: há tempo de plantar e tempo de arrancar o que se plantou" (Eclesiastes 3.1-2). Salomão sabia que cada coisa pertence a uma estação. Colher fora do tempo é perder o fruto.
+
+A contabilidade também tem estações. Uma receita pertence ao período em que foi ganha, não ao dia em que o dinheiro entrou. Uma despesa pertence ao período em que foi incorrida, não ao dia em que foi paga. Esse é o regime de competência, e é aqui que mora a maior parte dos problemas de corte que o auditor encontra.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer a Estrutura Conceitual (CPC 00) e o objetivo da informação contábil.
+
+- Identificar as características qualitativas fundamentais e de melhoria.
+
+- Distinguir regime de competência e regime de caixa.
+
+- Reconhecer a importância da competência para a apuração dos tributos.
+
+### Fundamentação bíblica
+
+**Eclesiastes 3.1**
+
+> *Tudo tem o seu tempo determinado.*
+
+**Gálatas 6.7**
+
+> *Aquilo que o homem semear, isso também ceifará.*
+
+O fruto pertence a quem plantou, na estação em que amadureceu. A competência contábil é o reconhecimento honesto de quando o fruto amadureceu.
+
+### A Estrutura Conceitual
+
+O CPC 00 (R2) é a base de todas as normas contábeis brasileiras. Ele diz que o objetivo do relatório financeiro é fornecer informações úteis a investidores, credores e outros para tomar decisões sobre fornecer recursos à entidade.
+
+**Características qualitativas fundamentais:**
+
+- **Relevância:** a informação é capaz de fazer diferença nas decisões. Inclui valor preditivo, valor confirmatório e materialidade.
+
+- **Representação fidedigna:** a informação representa o fenômeno de forma completa, neutra e livre de erro.
+
+**Características qualitativas de melhoria:**
+
+- **Comparabilidade:** permite comparar com outros períodos e outras entidades.
+
+- **Verificabilidade:** observadores independentes chegariam a consenso — é a característica que torna a auditoria possível.
+
+- **Tempestividade:** a informação chega a tempo de influenciar a decisão.
+
+- **Compreensibilidade:** é apresentada de forma clara.
+
+A estrutura conceitual também trata da **primazia da essência sobre a forma**: as transações são contabilizadas segundo sua realidade econômica, e não apenas segundo o formato jurídico. Esse conceito será decisivo no capítulo de planejamento tributário.
+
+### Os elementos das demonstrações
+
+- **Ativo:** recurso econômico presente controlado pela entidade como resultado de eventos passados.
+
+- **Passivo:** obrigação presente de transferir um recurso econômico como resultado de eventos passados.
+
+- **Patrimônio líquido:** participação residual nos ativos após deduzir os passivos.
+
+- **Receitas:** aumentos nos ativos ou reduções nos passivos que aumentam o PL, exceto aportes dos sócios.
+
+- **Despesas:** reduções nos ativos ou aumentos nos passivos que reduzem o PL, exceto distribuições aos sócios.
+
+### Competência e caixa
+
+**Regime de competência:** receitas e despesas são reconhecidas quando ocorrem, independentemente de recebimento ou pagamento. É o regime exigido pela contabilidade societária (Lei 6.404/1976, art. 177) e pelo Lucro Real.
+
+**Regime de caixa:** receitas e despesas são reconhecidas quando recebidas ou pagas. É permitido, para fins tributários, em situações específicas — por exemplo, no Lucro Presumido, para a tributação das receitas (IN RFB 1.700/2017, art. 223), e no Simples Nacional, por opção. Mesmo nesses casos, a contabilidade societária continua obrigada à competência.
+
+Exemplo: a empresa vende R$ 100.000 em dezembro de 2026, para receber em fevereiro de 2027.
+
+- Pela competência: a receita é de dezembro de 2026.
+
+- Pelo caixa: a receita é de fevereiro de 2027.
+
+### Competência e tributos
+
+Na competência, o tributo nasce com o fato gerador, não com o recebimento. Uma receita registrada no ano errado pode significar IRPJ, CSLL, PIS e COFINS pagos no período errado. Antecipar receita gera pagamento antecipado de tributo; postergar receita gera **postergação do pagamento**, que, em caso de fiscalização, pode ser exigida com juros e multa (Parecer Normativo COSIT 2/1996 trata dos efeitos da inexatidão quanto ao período de apuração).
+
+### Em uma frase
+
+> *A estrutura conceitual exige informação relevante e fidedigna, com a essência acima da forma. Pela competência, cada receita e despesa pertence ao período em que amadureceu, não ao dia em que o dinheiro se moveu.*
+
+### Débora e as despesas de dezembro
+
+Ao testar o corte de despesas, Priscila encontrou notas de frete de dezembro, num total de R$ 1,8 milhão, contabilizadas em janeiro do ano seguinte. "Foi quando chegou o boleto", explicou o contador da Boa Colheita.
+
+Débora mostrou que, pela competência, a despesa pertencia a dezembro. A mudança reduziria o lucro do ano auditado e, consequentemente, o IRPJ e a CSLL daquele ano — mas aumentaria o do ano seguinte. "Não é sobre pagar mais ou menos", explicou ela ao contador. "É sobre pagar no tempo certo. Cada coisa na sua estação."
+
+### Ferramentas práticas
+
+**Teste rápido de competência**
+
+- Quando o serviço foi prestado ou a mercadoria entregue? Essa é a data da receita.
+
+- Quando o bem ou serviço foi consumido pela empresa? Essa é a data da despesa.
+
+- A data do pagamento ou recebimento só importa para o caixa.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua vida, você tenta colher antes do tempo?
+
+**2.** Por que a verificabilidade é a característica que torna a auditoria possível?
+
+**3.** Como a primazia da essência sobre a forma se relaciona com a honestidade cristã?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Eclesiastes 3.1-15 e ore entregando os seus tempos a Deus.
+
+**Esta semana**
+
+- Leia o CPC 00 (R2), capítulos 2 e 4.
+
+**Este mês**
+
+- Faça um teste de corte de receitas e despesas nos últimos e primeiros dez dias do exercício de um cliente.
+
+**Próximos 90 dias**
+
+- Monte um mapa dos regimes (competência ou caixa) usados por cada tributo da empresa que você atende.
+
+# Capítulo 4
+
+## Estoques, custo das vendas e impostos recuperáveis
+
+@ILUS 04 | José armazenando o trigo nos celeiros do Egito — o estoque bem administrado
+
+José administrou o maior estoque da história antiga. Durante sete anos, ajuntou trigo "como a areia do mar, até perder a conta, porque ia além das medidas" (Gênesis 41.49). Depois, nos anos de fome, vendeu o trigo ao Egito e às nações vizinhas. Ele sabia quanto entrou, quanto saiu e por quanto vendeu.
+
+Estoque é, quase sempre, a área de maior risco numa empresa comercial ou industrial. É onde o dinheiro se transforma em mercadoria e a mercadoria pode desaparecer, ser superavaliada ou subavaliada. E é onde se calcula um dos números mais importantes do resultado: o custo das mercadorias vendidas.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer os critérios de mensuração de estoques (CPC 16).
+
+- Apurar o custo das mercadorias vendidas (CMV).
+
+- Distinguir inventário periódico e permanente, e os métodos PEPS e custo médio.
+
+- Contabilizar compras e vendas com impostos recuperáveis (ICMS, IPI, PIS e COFINS).
+
+### Fundamentação bíblica
+
+**Gênesis 41.49**
+
+> *Assim ajuntou José muitíssimo trigo, como a areia do mar.*
+
+**Lucas 12.42**
+
+> *Quem é, pois, o administrador fiel e prudente, a quem o senhor confiará os seus conservos para dar-lhes o sustento a seu tempo?*
+
+O bom administrador de estoques é o que tem o necessário, no tempo certo, e sabe exatamente o que tem.
+
+### Mensuração dos estoques
+
+O CPC 16 manda mensurar os estoques pelo **menor valor entre o custo e o valor realizável líquido**.
+
+- **Custo:** inclui o preço de compra, impostos não recuperáveis, fretes, seguros e outros custos para colocar o estoque em condição de venda. Exclui os impostos **recuperáveis** e os descontos comerciais.
+
+- **Valor realizável líquido:** preço estimado de venda menos os custos para concluir e vender.
+
+Se o valor realizável for menor que o custo, reconhece-se uma perda estimada. Para fins fiscais, essa perda estimada não é dedutível até sua realização (é adicionada no LALUR, capítulo 14).
+
+### Apuração do CMV
+
+^ **CMV = Estoque inicial + Compras líquidas − Estoque final**
+
+Exemplo: estoque inicial R$ 200.000; compras líquidas R$ 800.000; estoque final R$ 250.000. CMV = 200.000 + 800.000 − 250.000 = R$ 750.000.
+
+Repare na consequência: se o estoque final for **subavaliado**, o CMV aumenta, o lucro diminui e o imposto cai. É por isso que o estoque é alvo frequente de fiscalização.
+
+### Inventário periódico e permanente
+
+- **Periódico:** o estoque é apurado por contagem física no fim do período, e o CMV é calculado pela fórmula.
+
+- **Permanente:** cada entrada e saída é registrada continuamente, e o CMV é conhecido a cada venda. Para fins fiscais, a empresa no Lucro Real que não mantém sistema de custo integrado e coordenado com a escrituração deve avaliar os estoques por critérios de arbitramento previstos na legislação (RIR/2018, art. 308), o que normalmente é desvantajoso.
+
+### PEPS e custo médio
+
+- **PEPS (primeiro que entra, primeiro que sai):** as saídas são valoradas pelos custos mais antigos. Em período de inflação, gera estoque final maior e CMV menor.
+
+- **Custo médio ponderado:** a cada entrada, recalcula-se o custo médio.
+
+- **UEPS (último que entra, primeiro que sai):** **não é aceito** pelo CPC 16 nem pela legislação do imposto de renda.
+
+### Impostos recuperáveis
+
+Quando a empresa tem direito a crédito de um imposto pago na compra, esse imposto **não** compõe o custo do estoque. Ele vai para uma conta de ativo, "impostos a recuperar".
+
+Exemplo: compra de mercadoria para revenda por R$ 10.000, com ICMS de 18% destacado (R$ 1.800), empresa no Lucro Real com crédito de PIS (1,65%) e COFINS (7,6%) sobre o valor:
+
+- PIS a recuperar: 1,65% de R$ 10.000 = R$ 165 (base simplificada para fins didáticos).
+
+- COFINS a recuperar: 7,6% de R$ 10.000 = R$ 760.
+
+- Estoque: 10.000 − 1.800 − 165 − 760 = R$ 7.275.
+
+Lançamento:
+
+- D — Estoque de mercadorias: R$ 7.275
+
+- D — ICMS a recuperar: R$ 1.800
+
+- D — PIS a recuperar: R$ 165
+
+- D — COFINS a recuperar: R$ 760
+
+- C — Fornecedores: R$ 10.000
+
+Observação: desde o julgamento do Tema 69 pelo STF, e da Lei 14.592/2023, o ICMS é excluído da base de cálculo dos créditos de PIS e COFINS na compra. Por isso, na prática atual, a base do crédito seria R$ 8.200 (10.000 − 1.800). Use o exemplo acima apenas para fixar o mecanismo e confira sempre a regra vigente.
+
+Com a Reforma Tributária, o mesmo raciocínio se aplicará à CBS e ao IBS: tributos com crédito amplo, registrados como recuperáveis, fora do custo (capítulo 19).
+
+### Em uma frase
+
+> *Estoque se mede pelo menor entre custo e valor realizável; CMV = estoque inicial + compras − estoque final; imposto recuperável não é custo, é direito.*
+
+### Débora e o inventário da madrugada
+
+A Boa Colheita fazia inventário apenas uma vez por ano, e o sistema de custos não conversava com a contabilidade. Débora acompanhou a contagem no maior centro de distribuição, de madrugada, entre pilhas de arroz e óleo. A contagem deu R$ 3,4 milhões a menos do que o sistema.
+
+O gerente explicou: "É quebra. Saco rasgado, lata amassada". Débora pediu os relatórios de quebra, os laudos e as notas de baixa. Não havia nenhum. Anotou no papel de trabalho: diferença de inventário sem documentação. Ela lembrou da pergunta da primeira semana: os R$ 12 milhões no caixa sem origem. Será que as duas coisas se conversavam?
+
+### Ferramentas práticas
+
+**Checklist de auditoria de estoques**
+
+- Acompanhar a contagem física e testar contagens.
+
+- Testar o corte de entradas e saídas nos dias próximos à data do balanço.
+
+- Testar o custo unitário de uma amostra de itens contra notas de compra.
+
+- Verificar se os impostos recuperáveis foram excluídos do custo.
+
+- Comparar custo com preço de venda posterior (valor realizável).
+
+- Exigir documentação de perdas, quebras e baixas.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que subavaliar o estoque final reduz o imposto? Isso é planejamento ou fraude?
+
+**2.** O que significa ser "administrador fiel e prudente" do estoque de uma empresa?
+
+**3.** A sua empresa documenta as perdas de estoque ou apenas as "assume"?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o cálculo do CMV e do lançamento de compra com impostos recuperáveis.
+
+**Esta semana**
+
+- Leia o CPC 16 e os artigos do RIR/2018 sobre avaliação de estoques (arts. 304 a 310).
+
+**Este mês**
+
+- Acompanhe uma contagem física de estoque, mesmo que parcial.
+
+**Próximos 90 dias**
+
+- Implante ou recomende um procedimento formal de registro de perdas com laudo e aprovação.
+
+# Capítulo 5
+
+## Imobilizado, depreciação, perdas e provisões
+
+@ILUS 05 | O desgaste natural de uma ferramenta usada no trabalho — o tempo que consome o bem
+
+Quando Eliseu e os discípulos dos profetas cortavam madeira para construir uma casa junto ao Jordão, o ferro do machado de um deles caiu na água. O homem gritou: "Ai, meu senhor! Era emprestado!" (2 Reis 6.5). A ferramenta era um bem de uso, não de revenda. E, como todo bem de uso, se desgastava e podia se perder.
+
+O imobilizado é o machado da empresa: máquinas, veículos, prédios, computadores. Não está ali para ser vendido, mas para ser usado. E, ao ser usado, perde valor. A contabilidade reconhece essa perda pela depreciação. A empresa também precisa reconhecer outras perdas prováveis e obrigações incertas. É disso que trata este capítulo.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Reconhecer e mensurar o ativo imobilizado (CPC 27).
+
+- Calcular e contabilizar a depreciação.
+
+- Distinguir a depreciação contábil da depreciação fiscal.
+
+- Contabilizar perdas estimadas com créditos de liquidação duvidosa.
+
+- Distinguir provisões, passivos contingentes e ativos contingentes (CPC 25).
+
+### Fundamentação bíblica
+
+**2 Reis 6.5-7**
+
+> *Ai, meu senhor! Era emprestado!*
+
+O discípulo sabia que o bem usado no trabalho tinha valor e que sua perda gerava uma obrigação. A boa contabilidade reconhece desgaste e perdas com a mesma honestidade.
+
+**Provérbios 22.3**
+
+> *O prudente vê o mal e esconde-se.*
+
+A provisão é a prudência registrada: reconhecer agora a obrigação provável que se materializará depois.
+
+### Imobilizado
+
+O CPC 27 define imobilizado como o item tangível mantido para uso na produção, no fornecimento de bens ou serviços, para aluguel ou para fins administrativos, e que se espera usar por mais de um período.
+
+Para fins fiscais, bens de pequeno valor podem ser deduzidos diretamente como despesa, sem ativação, quando o custo unitário não ultrapassar R$ 1.200 ou o prazo de vida útil não ultrapassar um ano (Lei 12.973/2014, art. 2º; RIR/2018, art. 313).
+
+O custo do imobilizado inclui preço de compra, impostos não recuperáveis, custos de instalação e de colocação em funcionamento. Desde a Lei 12.973/2014, há crédito de PIS e COFINS não cumulativos sobre a depreciação de máquinas e equipamentos usados na produção, ou, para alguns bens, crédito imediato.
+
+### Depreciação
+
+Depreciação é a alocação sistemática do valor depreciável de um ativo ao longo de sua vida útil.
+
+^ **Valor depreciável = Custo − Valor residual**
+
+Exemplo pelo método linear: caminhão de R$ 400.000, valor residual R$ 80.000, vida útil de 8 anos.
+
+- Depreciação anual = (400.000 − 80.000) ÷ 8 = R$ 40.000.
+
+Lançamento anual:
+
+- D — Despesa (ou custo) de depreciação: R$ 40.000
+
+- C — Depreciação acumulada (redutora do ativo): R$ 40.000
+
+### Depreciação contábil e fiscal
+
+A depreciação contábil segue a vida útil econômica estimada pela empresa. A depreciação fiscal segue, em regra, as taxas da Receita Federal (IN RFB 1.700/2017, Anexo III) — por exemplo, 10% ao ano para máquinas, 20% para veículos, 4% para edificações. Quando as duas diferem, os ajustes são feitos no LALUR e no LACS, e surgem **diferenças temporárias** que podem gerar tributos diferidos (capítulo 17). Existem também regimes de **depreciação acelerada** incentivada, controlados apenas no LALUR.
+
+### Perdas estimadas com créditos de liquidação duvidosa
+
+A contabilidade reconhece a perda esperada com clientes que não vão pagar:
+
+- D — Despesa com perdas estimadas: R$ 50.000
+
+- C — Perdas estimadas em créditos de liquidação duvidosa (redutora de clientes): R$ 50.000
+
+Atenção fiscal: essa despesa estimada **não é dedutível** do IRPJ e da CSLL. Só são dedutíveis as perdas efetivas que atendem aos critérios da Lei 9.430/1996, arts. 9º a 14 (por exemplo, valor do crédito, tempo de vencimento, procedimentos de cobrança, falência ou recuperação judicial do devedor). A diferença é adicionada no LALUR.
+
+### Provisões e contingências (CPC 25)
+
+- **Provisão:** passivo de prazo ou valor incerto, quando há obrigação presente, a saída de recursos é **provável** e o valor pode ser estimado com confiabilidade. É **reconhecida** no balanço.
+
+- **Passivo contingente:** obrigação possível, ou obrigação presente em que a saída de recursos não é provável ou não pode ser mensurada. **Não é reconhecido**, mas é **divulgado** em nota explicativa, exceto se a possibilidade for remota.
+
+- **Ativo contingente:** ativo possível cuja existência depende de evento futuro. **Não é reconhecido**; é divulgado quando a entrada for provável. Só se reconhece quando a realização for praticamente certa.
+
+Resumo prático para processos:
+
+- Perda provável: provisiona e divulga.
+
+- Perda possível: só divulga.
+
+- Perda remota: nem provisiona nem divulga.
+
+Provisões para contingências também **não são dedutíveis** fiscalmente até o pagamento ou a decisão definitiva (Lei 8.981/1995, art. 41; Lei 9.249/1995, art. 13).
+
+### Em uma frase
+
+> *Imobilizado se usa e se deprecia; perda estimada e provisão são a prudência registrada. Mas o Fisco só aceita a dedução quando a perda se realiza: a diferença vai para o LALUR.*
+
+### Débora e os caminhões que já não existiam
+
+Ao inspecionar fisicamente o imobilizado, Thiago procurou doze caminhões listados no controle patrimonial. Encontrou oito. Os outros quatro tinham sido vendidos três anos antes, mas continuavam no ativo, sendo depreciados.
+
+Débora explicou ao contador que a baixa deveria ter sido feita na data da venda, com apuração do ganho ou perda de capital e seus reflexos tributários. "E o dinheiro da venda?", perguntou ela. O contador procurou e não encontrou o recebimento contabilizado. Débora acrescentou mais uma linha à sua lista de perguntas sem resposta.
+
+### Ferramentas práticas
+
+**Checklist do imobilizado e provisões**
+
+- Inspecionar fisicamente uma amostra de bens do controle patrimonial.
+
+- Partir de bens físicos e verificar se estão no controle (integridade).
+
+- Recalcular a depreciação contábil e conferir os ajustes fiscais.
+
+- Testar baixas: venda, sucata, sinistro, com documentos e recebimentos.
+
+- Obter carta dos advogados e classificar cada processo (provável, possível, remoto).
+
+- Verificar se provisões e perdas estimadas foram adicionadas no LALUR.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que a contabilidade reconhece perdas prováveis, mas o Fisco só aceita as realizadas?
+
+**2.** O que o machado emprestado ensina sobre responsabilidade com bens que não são nossos?
+
+**3.** Que "provisão" você precisa fazer na sua vida para obrigações que sabe que virão?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Recalcule a depreciação de um bem da sua casa ou empresa, pelo método linear.
+
+**Esta semana**
+
+- Leia o CPC 25 e faça um quadro com os três tipos: provisão, passivo contingente e ativo contingente.
+
+**Este mês**
+
+- Faça a inspeção física de uma amostra do imobilizado de um cliente.
+
+**Próximos 90 dias**
+
+- Concilie o controle patrimonial com a contabilidade e regularize as diferenças.

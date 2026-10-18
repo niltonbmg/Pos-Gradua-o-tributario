@@ -1,0 +1,97 @@
+!CAPA AUDITORIA DO JEITO DE DEUS | Volume 2 — Auditoria Fiscal e Tributária | Como ler os números, conhecer a lei e examinar tributos com verdade | Um manual prático para contadores, auditores, gestores e empresários cristãos
+
+# Sumário
+
+Palavra ao leitor — Bem-vindo à segunda travessia
+
+**Parte I — A linguagem dos números**
+
+Capítulo 1 — A contabilidade como linguagem: patrimônio, usuários e equação
+
+Capítulo 2 — Débito, crédito e escrituração: o idioma das partidas dobradas
+
+Capítulo 3 — Estrutura conceitual e regime de competência
+
+Capítulo 4 — Estoques, custo das vendas e impostos recuperáveis
+
+Capítulo 5 — Imobilizado, depreciação, perdas e provisões
+
+**Parte II — As demonstrações sujeitas à auditoria**
+
+Capítulo 6 — O Balanço Patrimonial
+
+Capítulo 7 — DRE e Demonstração do Resultado Abrangente
+
+Capítulo 8 — DMPL e DLPA: o caminho do lucro até o sócio
+
+Capítulo 9 — DFC, DVA e notas explicativas
+
+**Parte III — Legislação tributária e contabilização**
+
+Capítulo 10 — O Código Tributário Nacional em linguagem de gente
+
+Capítulo 11 — Lançamento, decadência e prescrição
+
+Capítulo 12 — Tributos sobre vendas: ICMS, IPI, PIS, COFINS e ISS
+
+Capítulo 13 — Substituição tributária, DIFAL e créditos de ICMS
+
+Capítulo 14 — IRPJ e CSLL no Lucro Real: LALUR, adições e exclusões
+
+Capítulo 15 — Lucro Presumido, Lucro Arbitrado e Simples Nacional
+
+Capítulo 16 — Retenções na fonte, folha de pagamento e encargos
+
+Capítulo 17 — Tributos diferidos e contingências tributárias
+
+Capítulo 18 — Lucros, dividendos, JCP e subvenções
+
+Capítulo 19 — A Reforma Tributária: CBS, IBS, IS e sua contabilização
+
+Capítulo 20 — O procedimento fiscal: da intimação ao CARF
+
+**Parte IV — Temas avançados da auditoria fiscal**
+
+Capítulo 21 — Omissão de receitas: conceito e presunções legais
+
+Capítulo 22 — Omissão de receitas: técnicas de detecção e tributação
+
+Capítulo 23 — Planejamento tributário: elisão, evasão e propósito negocial
+
+Capítulo 24 — Controladas e coligadas no exterior
+
+Capítulo 25 — Capitalização de lucros e reservas
+
+Capítulo 26 — Auditoria digital: SPED, cruzamentos e o Fisco que vê tudo
+
+Conclusão — Fiel diante do Fisco e diante de Deus
+
+Anexo A — Calendário do Mordomo Fiel: auditoria fiscal anual
+
+Anexo B — Checklist de auditoria tributária preventiva
+
+Anexo C — Tabela-resumo de lançamentos contábeis de tributos
+
+Anexo D — Glossário sem juridiquês
+
+# Palavra ao leitor
+
+## Bem-vindo à segunda travessia
+
+Se você está lendo este segundo volume, três coisas provavelmente são verdadeiras.
+
+A primeira é que você entendeu os fundamentos. Sabe o que é governança, o que é evidência, como se planeja uma auditoria, como se avalia risco, como se decide uma opinião. Você atravessou o primeiro rio.
+
+A segunda é que você percebeu que falta alguma coisa. A auditoria das demonstrações pergunta se os números são verdadeiros. Mas, no Brasil, a maior parte dos riscos de uma empresa está escondida dentro de uma única palavra: tributo. É o tributo que mais gera passivo oculto, mais gera autuação, mais gera processo, mais gera noites mal dormidas. E não se audita tributo sem conhecer duas línguas ao mesmo tempo: a da contabilidade e a da lei.
+
+A terceira é que você quer fazer isso do jeito certo. Não quer ser o auditor que fecha os olhos, nem o consultor que ensina a esconder. Quer ser o profissional que conhece a lei tão bem que consegue proteger o cliente do Fisco e proteger o Fisco do cliente — porque, no fim, o que você protege é a verdade.
+
+Este volume está organizado em quatro partes. Na primeira, revisamos a linguagem da contabilidade: patrimônio, débito e crédito, competência, estoques, imobilizado. Na segunda, estudamos uma por uma as demonstrações que o auditor examina. Na terceira, a maior, mergulhamos na legislação tributária e na forma de contabilizar cada tributo, já com a Reforma Tributária (EC 132/2023 e LC 214/2025) em vigor. Na quarta, enfrentamos os temas que mais aparecem em fiscalizações e provas: omissão de receitas, planejamento tributário, controladas no exterior, capitalização de lucros e auditoria digital.
+
+A arquitetura de cada capítulo continua a mesma: abertura, objetivos, fundamentação bíblica, desenvolvimento, a jornada da nossa personagem-guia, uma frase-síntese, ferramentas práticas, perguntas para reflexão e plano de ação. Livros mudam a vida quando saem do livro.
+
+E Débora continua conosco. No fim do primeiro volume ela foi promovida a sênior. Agora lidera sua própria equipe pela primeira vez, num cliente que vai testar tudo o que ela aprendeu: a Comercial Boa Colheita Ltda., uma distribuidora de alimentos tributada pelo Lucro Real, com faturamento de R$ 320 milhões, três centros de distribuição em dois estados e um passado tributário que ninguém queria olhar de perto.
+
+Uma última palavra: este manual foi escrito em 2026, no primeiro ano de transição da Reforma Tributária. Leis tributárias mudam muito. Sempre que citarmos alíquota, prazo, limite ou artigo, confira a redação vigente no ano da sua leitura. Mordomo fiel confere a fonte.
+
+~ Vamos juntos.

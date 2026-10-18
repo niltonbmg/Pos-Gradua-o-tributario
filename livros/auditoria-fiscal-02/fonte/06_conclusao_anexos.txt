@@ -1,0 +1,259 @@
+# Conclusão
+
+## Fiel diante do Fisco e diante de Deus
+
+Chegamos ao fim do segundo volume. Atravessamos a linguagem da contabilidade, as demonstrações, a legislação tributária com sua contabilização, a Reforma, o procedimento fiscal e os temas avançados: omissão de receitas, planejamento tributário, controladas no exterior, capitalização de lucros e auditoria digital.
+
+Se o primeiro volume se resumia na palavra **verdade**, este se resume em outra: **luz**. Toda a legislação tributária moderna caminha numa direção — tornar visível o que antes era escondido. Notas eletrônicas, SPED, cruzamentos, split payment. O Estado enxerga cada vez mais. E o empresário e o contador cristãos têm uma escolha: viver na luz por obrigação, ou viver na luz por convicção.
+
+"Deus é luz, e não há nele treva nenhuma. Se dissermos que mantemos comunhão com ele e andarmos nas trevas, mentimos e não praticamos a verdade" (1 João 1.5-6). Não existe comunhão com Deus no culto de domingo e caixa dois na segunda-feira. A fé que não alcança o livro-caixa ainda não alcançou a vida inteira.
+
+O auditor fiscal cristão — seja ele auditor independente, auditor interno, consultor ou auditor-fiscal do Estado — é alguém que ajuda as pessoas a sair das trevas para a luz. Às vezes, isso exige coragem para dizer "isto é omissão de receita". Às vezes, exige sabedoria para mostrar o planejamento legítimo que ninguém tinha visto. Sempre exige amor: amor à verdade, amor ao cliente, amor ao bem comum que o tributo sustenta.
+
+O senhor Jairo voltou a dormir. A Boa Colheita pagou o que devia, corrigiu seus controles, recuperou créditos legítimos e reconstruiu sua relação com o banco. Seu filho, depois de um tempo afastado, voltou à empresa em outra função, mais humilde, e com outro coração. Débora terminou o ano com o laboratório de dados funcionando e uma convicção nova: auditoria fiscal não é caça ao erro. É ministério da luz.
+
+No próximo volume, se Deus permitir, seguiremos com os temas que a sua jornada acadêmica e profissional ainda apresentar. Débora estará lá.
+
+~ Que o Senhor te guarde fiel diante do Fisco e diante d'Ele.
+
+# Anexo A
+
+## Calendário do Mordomo Fiel: auditoria fiscal anual
+
+**Janeiro**
+
+- Revisar o regime tributário escolhido para o ano (opção feita com o primeiro pagamento).
+
+- Conferir inventário de 31 de dezembro e o Bloco H.
+
+**Fevereiro a março**
+
+- Fechar o balanço do ano anterior com todas as provisões e tributos diferidos.
+
+- Revisar distribuições de lucros do ano anterior contra o lucro apurado.
+
+**Abril a maio**
+
+- Conferir as informações prestadas aos sócios para as declarações de pessoa física.
+
+- Revisar JCP e capitalizações deliberadas nas assembleias e reuniões de sócios.
+
+**Junho a julho**
+
+- Revisar a ECD e a ECF antes da entrega, com os dez cruzamentos do capítulo 26.
+
+- Revisar a Parte B do LALUR e sua documentação.
+
+**Agosto a setembro**
+
+- Auditoria preventiva de omissão de receitas: caixa, bancos, passivo, suprimentos e estoques.
+
+- Levantamento de créditos não aproveitados e de incentivos fiscais.
+
+**Outubro a novembro**
+
+- Planejamento tributário do ano seguinte: simulação de regimes, JCP, efeitos da Reforma.
+
+- Revisão de operações com partes relacionadas, no Brasil e no exterior.
+
+**Dezembro**
+
+- Preparar o inventário físico de 31 de dezembro.
+
+- Computar lucros de controladas no exterior.
+
+- Revisar o cronograma da Reforma Tributária para o ano seguinte.
+
+**Todos os meses**
+
+- Conferência de tributos sobre vendas, retenções e folha.
+
+- Conciliação bancária completa.
+
+# Anexo B
+
+## Checklist de auditoria tributária preventiva
+
+**Receitas**
+
+- A receita contábil bate com as notas emitidas, os recebimentos por cartão e PIX e os créditos bancários?
+
+- O corte de receitas no fim do ano está correto?
+
+**Estoques**
+
+- O inventário físico bate com o contábil? As perdas estão documentadas e os créditos estornados?
+
+**Passivo**
+
+- Os fornecedores antigos foram confirmados? Há obrigações sem exigibilidade comprovada?
+
+**Sócios**
+
+- Os suprimentos têm prova de entrega e origem?
+
+- As distribuições estão dentro do lucro? Há negócios com sócios fora das condições de mercado?
+
+**Tributos sobre consumo**
+
+- ICMS, IPI, PIS, COFINS e ISS conferem com as escriturações? Há créditos indevidos ou não aproveitados?
+
+- O cronograma da CBS e do IBS está sendo cumprido?
+
+**Tributos sobre o lucro**
+
+- O LALUR tem fundamento e documentação para cada ajuste? A compensação respeita 30%?
+
+- As estimativas foram pagas ou suportadas por balancete?
+
+**Folha e retenções**
+
+- Encargos e retenções foram recolhidos e informados no eSocial, na EFD-Reinf e na DCTFWeb?
+
+**Exterior**
+
+- Os lucros das controladas foram computados? Os preços de transferência estão documentados?
+
+**Processos**
+
+- As contingências estão classificadas, provisionadas e divulgadas? Há decisões judiciais afetadas por novas decisões do STF?
+
+**Prazos**
+
+- Quais períodos ainda estão abertos à fiscalização? Os documentos estão guardados?
+
+# Anexo C
+
+## Tabela-resumo de lançamentos contábeis de tributos
+
+**Compra com impostos recuperáveis**
+
+- D — Estoque / D — ICMS, IPI, PIS, COFINS (ou CBS, IBS) a recuperar / C — Fornecedores.
+
+**Venda com tributos por dentro (ICMS, PIS, COFINS, ISS)**
+
+- D — Clientes / C — Receita bruta.
+
+- D — Tributos sobre vendas (dedução) / C — Tributos a recolher.
+
+**Venda com tributos por fora (IPI, CBS, IBS)**
+
+- D — Clientes / C — Receita / C — Tributo a recolher.
+
+**Apuração de tributo não cumulativo**
+
+- D — Tributo a recolher / C — Tributo a recuperar.
+
+**Pagamento de tributo**
+
+- D — Tributo a recolher / C — Bancos.
+
+**ICMS-ST no substituto**
+
+- D — Clientes / C — Receita / C — ICMS-ST a recolher.
+
+**Retenções sobre serviços tomados**
+
+- D — Despesa / C — IRRF, CSRF, INSS, ISS a recolher / C — Fornecedores.
+
+**Folha de pagamento**
+
+- D — Salários / C — INSS e IRRF a recolher / C — Salários a pagar.
+
+- D — Encargos (INSS patronal, FGTS) / C — Encargos a recolher.
+
+**IRPJ e CSLL correntes**
+
+- D — Despesa de IRPJ e CSLL / C — IRPJ e CSLL a recolher.
+
+**IRPJ e CSLL diferidos (ativo)**
+
+- D — IRPJ e CSLL diferidos (ativo) / C — Despesa (receita) de IRPJ e CSLL diferidos.
+
+**Provisão para contingência tributária**
+
+- D — Despesa com contingências / C — Provisão para contingências.
+
+**Juros sobre capital próprio**
+
+- D — Despesa de JCP / C — JCP a pagar / C — IRRF a recolher.
+
+**Capitalização de reservas**
+
+- D — Reservas de lucros / C — Capital social.
+
+~ Os exemplos deste anexo são didáticos. Planos de contas e orientações técnicas podem variar; confira as normas vigentes.
+
+# Anexo D
+
+## Glossário sem juridiquês
+
+**Adicional do IRPJ.** 10% sobre a parcela do lucro que exceder R$ 20.000 por mês.
+
+**Arbitramento.** Forma de apurar o lucro quando a escrituração não merece confiança ou não é apresentada.
+
+**Arm's length.** Princípio de que partes relacionadas devem negociar como se fossem independentes.
+
+**CARF.** Conselho Administrativo de Recursos Fiscais, segunda instância do processo administrativo federal.
+
+**CBS.** Contribuição sobre Bens e Serviços, federal, que substitui PIS e COFINS.
+
+**Decadência.** Perda do direito do Fisco de lançar o tributo.
+
+**Denúncia espontânea.** Confissão e pagamento antes de qualquer procedimento fiscal, que afasta a multa.
+
+**DIFAL.** Diferencial de alíquotas do ICMS em operações interestaduais para consumidor final.
+
+**ECD / ECF.** Escrituração Contábil Digital e Escrituração Contábil Fiscal.
+
+**Elisão.** Economia tributária lícita, feita antes do fato gerador.
+
+**Elusão.** Uso de formas artificiais, sem substância, para evitar tributo.
+
+**Evasão.** Redução ilícita de tributo; sonegação.
+
+**Fato gerador.** Situação prevista em lei que faz nascer a obrigação tributária.
+
+**IBS.** Imposto sobre Bens e Serviços, estadual e municipal, que substitui ICMS e ISS.
+
+**IS.** Imposto Seletivo, sobre bens e serviços prejudiciais à saúde ou ao meio ambiente.
+
+**JCP.** Juros sobre capital próprio: remuneração do capital dedutível para a empresa.
+
+**LALUR.** Livro de Apuração do Lucro Real, com as partes A e B.
+
+**Levantamento quantitativo.** Comparação entre estoque esperado e estoque real para detectar saídas ou entradas sem nota.
+
+**MVA.** Margem de valor agregado usada para calcular a base do ICMS-ST.
+
+**Omissão de receitas.** Receita auferida e não registrada nem declarada.
+
+**Passivo fictício.** Obrigação já paga ou inexistente mantida no passivo.
+
+**Prescrição.** Perda do direito do Fisco de cobrar judicialmente o crédito constituído.
+
+**SPED.** Sistema Público de Escrituração Digital.
+
+**Split payment.** Separação automática do tributo no momento do pagamento eletrônico.
+
+**Substituição tributária.** Recolhimento antecipado do tributo de toda a cadeia por um contribuinte substituto.
+
+**Suprimento de numerário.** Recursos entregues à empresa por sócios ou administradores.
+
+**TDPF.** Termo de Distribuição do Procedimento Fiscal, que inicia a fiscalização federal.
+
+**Tributo diferido.** Efeito tributário futuro de diferenças temporárias entre contabilidade e Fisco.
+
+~ Guarde este glossário junto com o do primeiro volume. O vocabulário se cruza.
+
+---
+
+^ **AUDITORIA DO JEITO DE DEUS — Volume 2**
+
+^ *Auditoria Fiscal e Tributária*
+
+^ Nilton Dias Sampaio Oliveira Junior
+
+^ *Do mesmo autor de "Como Vender do Jeito de Deus" e da coleção "Tributos do Jeito de Deus"*
+
+^ Edição de 2026, ajustada à Reforma Tributária (EC 132/2023 e LC 214/2025).

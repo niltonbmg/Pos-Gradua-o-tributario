@@ -1,0 +1,575 @@
+# Parte II
+
+## As demonstrações sujeitas à auditoria
+
+~ "Escreve a visão, grava-a sobre tábuas, para que a possa ler até quem passa correndo." (Habacuque 2.2)
+
+# Capítulo 6
+
+## O Balanço Patrimonial
+
+@ILUS 06 | Uma fotografia da cidade num único instante — o balanço como retrato do patrimônio
+
+Quando Neemias terminou os muros, fez um recenseamento: "Achei o livro da genealogia dos que subiram primeiro" e registrou cada família, os servos, os cavalos, os mulos, os camelos e os jumentos, e as ofertas de ouro e prata (Neemias 7). Era um retrato completo do povo e de seus bens naquele momento.
+
+O Balanço Patrimonial é esse retrato. Não mostra um filme, mostra uma fotografia: a posição do patrimônio numa data. E, como toda foto, pode ser tirada com honestidade ou com filtros que escondem as rugas. O auditor está ali para conferir a foto.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer as demonstrações obrigatórias segundo a Lei 6.404/1976 e o CPC 26.
+
+- Descrever a estrutura do Balanço Patrimonial (art. 178 da Lei 6.404/1976).
+
+- Classificar contas em circulante e não circulante.
+
+- Conhecer os grupos do patrimônio líquido.
+
+### Fundamentação bíblica
+
+**Neemias 7.5**
+
+> *Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as genealogias.*
+
+Registrar com precisão foi algo que Deus colocou no coração de Neemias. A informação ordenada é serviço ao povo.
+
+### As demonstrações obrigatórias
+
+A Lei 6.404/1976, art. 176, e o CPC 26 estabelecem o conjunto completo de demonstrações:
+
+- Balanço Patrimonial (BP).
+
+- Demonstração do Resultado do Exercício (DRE).
+
+- Demonstração do Resultado Abrangente (DRA), exigida pelo CPC 26.
+
+- Demonstração das Mutações do Patrimônio Líquido (DMPL), ou, alternativamente para as limitadas e companhias fechadas que não a apresentem, a Demonstração de Lucros ou Prejuízos Acumulados (DLPA).
+
+- Demonstração dos Fluxos de Caixa (DFC), dispensada para companhia fechada com PL inferior a R$ 2 milhões na data do balanço.
+
+- Demonstração do Valor Adicionado (DVA), obrigatória para companhias abertas.
+
+- Notas explicativas.
+
+### A estrutura do Balanço
+
+**Ativo**
+
+- **Ativo circulante:** disponibilidades, direitos realizáveis no curso do exercício social subsequente (normalmente até 12 meses) e despesas antecipadas do exercício seguinte. Ex.: caixa, bancos, aplicações de liquidez imediata, clientes, estoques, impostos a recuperar.
+
+- **Ativo não circulante:**
+- *Realizável a longo prazo:* direitos realizáveis após o exercício seguinte e, independentemente do prazo, créditos com sociedades coligadas, controladas, sócios e administradores que não constituam negócios usuais (art. 179, II).
+- *Investimentos:* participações permanentes em outras sociedades e propriedades para investimento.
+- *Imobilizado:* bens corpóreos de uso (capítulo 5).
+- *Intangível:* bens incorpóreos — marcas, softwares, direitos, ágio por expectativa de rentabilidade futura.
+
+**Passivo**
+
+- **Passivo circulante:** obrigações que vencem no exercício seguinte. Ex.: fornecedores, salários, impostos a recolher, empréstimos de curto prazo, dividendos a pagar.
+
+- **Passivo não circulante:** obrigações que vencem após o exercício seguinte.
+
+**Patrimônio líquido** (art. 182)
+
+- Capital social (subscrito, deduzido o capital a integralizar).
+
+- Reservas de capital.
+
+- Ajustes de avaliação patrimonial.
+
+- Reservas de lucros (legal, estatutária, para contingências, de incentivos fiscais, de lucros a realizar, de retenção de lucros, especial).
+
+- Ações ou quotas em tesouraria (redutora).
+
+- Prejuízos acumulados.
+
+Atenção: nas sociedades por ações, a conta "lucros acumulados" não pode ter saldo positivo no balanço; o lucro deve ser destinado a reservas ou distribuído (Lei 6.404/1976, art. 202, § 6º).
+
+### Pontos de atenção do auditor fiscal
+
+- Créditos com sócios no **realizável a longo prazo** podem indicar empréstimos disfarçados ou distribuição disfarçada de lucros, e há regras tributárias específicas (por exemplo, a sujeição ao IOF e, em certos casos, a tributação como receita financeira presumida).
+
+- **Passivo circulante** com fornecedores antigos, já pagos, mantidos no balanço é um clássico indício de **passivo fictício**, que estudaremos no capítulo 21.
+
+- **Impostos a recuperar** crescendo sem compensação podem indicar créditos indevidos ou créditos legítimos que a empresa não consegue usar — ambos merecem exame.
+
+### Em uma frase
+
+> *O Balanço é a fotografia do patrimônio numa data: ativo e passivo divididos em circulante e não circulante, e o patrimônio líquido mostrando o que pertence aos sócios.*
+
+### Débora e o fornecedor de 2019
+
+No passivo circulante da Boa Colheita, Débora encontrou uma lista de fornecedores com saldo de R$ 6,3 milhões. Ao abrir a composição, viu que R$ 2,7 milhões eram de notas emitidas entre 2019 e 2021, sem pagamento registrado.
+
+Ela enviou cartas de circularização aos cinco maiores. Três responderam: não havia nada a receber da Boa Colheita. As notas tinham sido pagas anos antes. Se as dívidas já estavam pagas, com que dinheiro tinham sido pagas? E por que continuavam no balanço?
+
+### Ferramentas práticas
+
+**Roteiro de leitura do Balanço**
+
+- O ativo é igual ao passivo mais o PL?
+
+- O capital circulante líquido (AC − PC) é positivo?
+
+- Há créditos com sócios ou partes relacionadas?
+
+- Há contas antigas sem movimentação?
+
+- O PL variou de forma compatível com o lucro, os aportes e os dividendos?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Se alguém tirasse hoje a fotografia do seu patrimônio, ela seria honesta?
+
+**2.** Por que créditos com sócios merecem atenção especial do auditor?
+
+**3.** Que "filtros" as empresas costumam usar para embelezar o balanço?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia os artigos 176 a 182 da Lei 6.404/1976.
+
+**Esta semana**
+
+- Pegue um balanço publicado e classifique cada conta no seu grupo.
+
+**Este mês**
+
+- Aplique o roteiro de leitura no balanço de um cliente.
+
+**Próximos 90 dias**
+
+- Faça a composição de todas as contas do passivo circulante com saldo há mais de um ano.
+
+# Capítulo 7
+
+## DRE e Demonstração do Resultado Abrangente
+
+@ILUS 07 | A colheita sendo pesada e separada do joio — a apuração do resultado
+
+Na parábola dos talentos, o senhor volta e cada servo apresenta o resultado: "Senhor, entregaste-me cinco talentos; eis aqui outros cinco talentos que ganhei" (Mateus 25.20). O senhor não pergunta apenas quanto o servo tem. Pergunta quanto ele ganhou com o que recebeu.
+
+A DRE responde a essa pergunta para a empresa. Enquanto o balanço é a fotografia, a DRE é o filme do período: quanto entrou de receita, quanto se gastou para gerá-la e quanto sobrou.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Descrever a estrutura da DRE segundo a Lei 6.404/1976 (art. 187) e o CPC 26.
+
+- Calcular receita líquida, lucro bruto, resultado operacional e lucro líquido.
+
+- Conhecer a Demonstração do Resultado Abrangente.
+
+- Relacionar a DRE à base de cálculo dos tributos.
+
+### Fundamentação bíblica
+
+**Mateus 25.20-21**
+
+> *Eis aqui outros cinco talentos que ganhei. Disse-lhe o senhor: Muito bem, servo bom e fiel.*
+
+O senhor elogia o resultado obtido com fidelidade. Resultado inflado não é fidelidade; é mentira com bom desempenho.
+
+### A estrutura da DRE
+
+- **Receita bruta** de vendas e serviços.
+
+- (−) **Deduções:** devoluções, abatimentos, descontos incondicionais e tributos sobre a venda (ICMS, ISS, PIS, COFINS, IPI quando incluído na receita bruta).
+
+- (=) **Receita líquida.**
+
+- (−) **Custo** das mercadorias vendidas, dos produtos vendidos ou dos serviços prestados.
+
+- (=) **Lucro bruto.**
+
+- (−) **Despesas operacionais:** com vendas, gerais e administrativas, outras despesas.
+
+- (+/−) **Resultado financeiro:** receitas financeiras menos despesas financeiras.
+
+- (+/−) **Outras receitas e despesas** (inclusive resultado na venda de ativo imobilizado) e resultado de equivalência patrimonial.
+
+- (=) **Resultado antes dos tributos sobre o lucro.**
+
+- (−) **IRPJ e CSLL** correntes e diferidos.
+
+- (=) **Lucro líquido do exercício** (antes das participações, quando houver).
+
+- (−) **Participações** de debêntures, empregados, administradores e partes beneficiárias (art. 190).
+
+- (=) **Lucro líquido** final.
+
+Atenção: o conceito de receita bruta foi atualizado pela Lei 12.973/2014, que alterou o Decreto-Lei 1.598/1977, art. 12. Ele inclui o produto da venda de bens, o preço dos serviços, o resultado de operações de conta alheia e as receitas da atividade principal não compreendidas nos itens anteriores. E a receita líquida é a bruta menos devoluções, descontos incondicionais e tributos sobre ela incidentes.
+
+### Exemplo numérico
+
+- Receita bruta: R$ 1.000.000.
+
+- Deduções (ICMS, PIS, COFINS): R$ 270.000.
+
+- Receita líquida: R$ 730.000.
+
+- CMV: R$ 450.000.
+
+- Lucro bruto: R$ 280.000.
+
+- Despesas operacionais: R$ 150.000.
+
+- Resultado financeiro: −R$ 20.000.
+
+- Resultado antes do IR/CSLL: R$ 110.000.
+
+- IRPJ e CSLL: R$ 37.400 (34% ilustrativo, sem ajustes do LALUR).
+
+- Lucro líquido: R$ 72.600.
+
+### A Demonstração do Resultado Abrangente
+
+O CPC 26 exige a DRA, que parte do lucro líquido e acrescenta os **outros resultados abrangentes**: itens que afetam o PL sem passar pela DRE, como ajustes de conversão de investimentos no exterior, certos ajustes de instrumentos financeiros e reavaliações atuariais. Esses valores ficam em "ajustes de avaliação patrimonial" no PL.
+
+### DRE e tributos
+
+A DRE é o ponto de partida dos principais tributos:
+
+- **IRPJ e CSLL no Lucro Real** partem do lucro contábil antes do IR e o ajustam no LALUR e no LACS.
+
+- **IRPJ e CSLL no Lucro Presumido** partem da receita bruta.
+
+- **PIS e COFINS** incidem sobre a receita.
+
+Por isso, uma receita escondida na DRE é, quase sempre, também uma receita omitida para o Fisco.
+
+### Em uma frase
+
+> *A DRE é o filme do período: da receita bruta ao lucro líquido, passando por deduções, custos, despesas e tributos. É dela que nasce a base de quase todos os tributos.*
+
+### Débora e a margem que não fazia sentido
+
+Débora comparou a margem bruta da Boa Colheita com a de três concorrentes do mesmo setor, usando demonstrações publicadas. Os concorrentes tinham margem bruta entre 18% e 22%. A Boa Colheita, 11%.
+
+"Ou somos muito ineficientes, ou estamos vendendo mais do que registramos", disse ela a Marta. A margem baixa, o estoque desaparecido, o caixa sem origem e os fornecedores antigos começavam a formar um desenho. Marta pediu calma: "Indício não é prova. Mas é para isso que existem procedimentos".
+
+### Ferramentas práticas
+
+**Análise rápida da DRE**
+
+- Margem bruta = lucro bruto ÷ receita líquida.
+
+- Margem operacional = resultado operacional ÷ receita líquida.
+
+- Margem líquida = lucro líquido ÷ receita líquida.
+
+- Compare com anos anteriores e com concorrentes. Diferenças grandes pedem explicação.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que um resultado baixo demais pode ser tão suspeito quanto um alto demais?
+
+**2.** Como o elogio "servo bom e fiel" se aplica a quem apresenta um resultado verdadeiro, mesmo que ruim?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Monte a DRE do exemplo deste capítulo no seu caderno.
+
+**Esta semana**
+
+- Leia o art. 187 da Lei 6.404/1976 e o art. 12 do Decreto-Lei 1.598/1977.
+
+**Este mês**
+
+- Calcule as margens de um cliente e de dois concorrentes e compare.
+
+**Próximos 90 dias**
+
+- Faça a análise de margens mês a mês de um cliente e investigue os meses fora do padrão.
+
+# Capítulo 8
+
+## DMPL e DLPA: o caminho do lucro até o sócio
+
+@ILUS 08 | Abraão entregando o dízimo a Melquisedeque — a destinação do resultado
+
+Depois de vencer os reis na batalha, Abraão voltou com os despojos. Antes de qualquer outra coisa, deu o dízimo a Melquisedeque, sacerdote do Deus Altíssimo. Depois, recusou ficar com o restante, exceto o que os seus homens tinham comido e a parte dos aliados (Gênesis 14.20-24). Abraão destinou o resultado com critério: a Deus, aos que trabalharam, aos aliados.
+
+A DMPL e a DLPA mostram como o resultado da empresa foi destinado: quanto ficou retido, quanto foi para reservas, quanto foi distribuído aos sócios. É o caminho do lucro até o bolso de quem investiu.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Distinguir DLPA e DMPL.
+
+- Descrever a estrutura de cada uma.
+
+- Conhecer as destinações obrigatórias do lucro: reserva legal e dividendo mínimo.
+
+- Identificar pontos de atenção tributária na distribuição de resultados.
+
+### Fundamentação bíblica
+
+**Gênesis 14.20**
+
+> *E Abrão lhe deu o dízimo de tudo.*
+
+**Provérbios 3.9**
+
+> *Honra ao Senhor com os teus bens e com as primícias de toda a tua renda.*
+
+Destinar o resultado é um ato de mordomia. Começa honrando a Deus, passa pelo cuidado com quem trabalhou e chega aos que investiram.
+
+### DLPA
+
+A Demonstração de Lucros ou Prejuízos Acumulados (Lei 6.404/1976, art. 186) mostra apenas a movimentação da conta de lucros ou prejuízos acumulados:
+
+- Saldo inicial.
+
+- (+/−) Ajustes de exercícios anteriores.
+
+- (+/−) Reversões de reservas.
+
+- (+/−) Lucro ou prejuízo do exercício.
+
+- (−) Transferências para reservas.
+
+- (−) Dividendos ou lucros distribuídos.
+
+- (−) Parcela incorporada ao capital.
+
+- (=) Saldo final.
+
+### DMPL
+
+A Demonstração das Mutações do Patrimônio Líquido é mais completa: mostra a movimentação de **todas** as contas do PL, em colunas — capital, reservas de capital, ajustes de avaliação patrimonial, reservas de lucros, lucros ou prejuízos acumulados e total. A DMPL contém a DLPA dentro dela. Por isso, quem publica a DMPL não precisa publicar a DLPA (Lei 6.404/1976, art. 186, § 2º). O CPC 26 exige a DMPL.
+
+### Destinações obrigatórias nas sociedades anônimas
+
+- **Reserva legal:** 5% do lucro líquido, até atingir 20% do capital social (art. 193).
+
+- **Dividendo mínimo obrigatório:** o previsto no estatuto ou, se omisso, metade do lucro líquido ajustado (art. 202).
+
+- **Reserva de incentivos fiscais:** parcela do lucro decorrente de doações ou subvenções governamentais para investimento, que pode ser excluída do dividendo obrigatório (art. 195-A). Atenção ao novo regime de subvenções da Lei 14.789/2023 (capítulo 18).
+
+Nas sociedades limitadas, a destinação segue o contrato social e as deliberações dos sócios, aplicando-se supletivamente a Lei 6.404/1976 quando o contrato assim prever.
+
+### Pontos de atenção tributária
+
+- **Lucros e dividendos:** historicamente isentos para o sócio (Lei 9.249/1995, art. 10). A partir de 2026, a Lei 15.270/2025 instituiu retenção de imposto de renda sobre dividendos pagos a uma mesma pessoa física acima de determinado valor mensal e uma tributação mínima anual para altas rendas. Confira os limites e alíquotas vigentes.
+
+- **Distribuição disfarçada de lucros (DDL):** negócios com sócios em condições de favorecimento — por exemplo, venda de bem ao sócio abaixo do valor de mercado ou aluguel pago ao sócio acima do mercado — têm o valor da vantagem tratado como lucro distribuído, adicionado na apuração do IRPJ e da CSLL (RIR/2018, arts. 528 a 530).
+
+- **Distribuição acima do lucro contábil:** pagamentos aos sócios sem lucro apurado ou acima dele podem perder a isenção e ser tratados como remuneração ou rendimento tributável.
+
+- **Juros sobre capital próprio:** forma de remunerar o sócio com dedutibilidade, tratada no capítulo 18.
+
+### Em uma frase
+
+> *A DLPA mostra o caminho do lucro acumulado; a DMPL mostra todas as contas do PL. Reserva legal, dividendo mínimo e cuidado com a distribuição disfarçada de lucros.*
+
+### Débora e o carro do sócio
+
+Na DMPL da Boa Colheita, Débora viu dividendos distribuídos de R$ 5 milhões, num ano de lucro líquido de R$ 3 milhões, sem reservas suficientes. E encontrou, no imobilizado, a venda de uma caminhonete de luxo para o filho do sócio majoritário por R$ 60 mil, quando o valor de mercado era de R$ 280 mil.
+
+Débora explicou a Marta que havia dois riscos tributários: a distribuição acima do lucro disponível e a possível distribuição disfarçada de lucros na venda da caminhonete. Marta levou o ponto ao Elias, que marcou reunião com os sócios.
+
+### Ferramentas práticas
+
+**Checklist de destinação de resultados**
+
+- Os dividendos distribuídos estão dentro do lucro e das reservas disponíveis?
+
+- A reserva legal foi constituída?
+
+- Há atas aprovando as distribuições?
+
+- Há negócios com sócios em condições fora do mercado?
+
+- As distribuições estão corretamente informadas nas obrigações acessórias (ECF, DIRF ou sucedânea, eSocial/EFD-Reinf)?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua empresa ou família, o resultado é destinado com critério, como fez Abraão?
+
+**2.** Por que a distribuição disfarçada de lucros é uma forma de injustiça com os demais sócios e com o Fisco?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Ore entregando as primícias da sua renda ao Senhor.
+
+**Esta semana**
+
+- Leia os artigos 186, 193, 195-A e 202 da Lei 6.404/1976.
+
+**Este mês**
+
+- Aplique o checklist de destinação de resultados num cliente.
+
+**Próximos 90 dias**
+
+- Revise todos os negócios com sócios e partes relacionadas dos últimos cinco anos.
+
+# Capítulo 9
+
+## DFC, DVA e notas explicativas
+
+@ILUS 09 | Rios que correm por canais distintos — os fluxos de caixa e o valor distribuído
+
+No Éden, "saía um rio para regar o jardim e dali se dividia, repartindo-se em quatro braços" (Gênesis 2.10). Um só rio, quatro caminhos. Cada braço levava água para uma região diferente.
+
+O caixa de uma empresa é esse rio. A DFC mostra por quais braços ele correu: operações, investimentos e financiamentos. A DVA mostra para quem a riqueza gerada foi repartida: empregados, governo, financiadores e sócios. E as notas explicativas são o mapa que explica cada curva do rio.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Descrever a estrutura da DFC (CPC 03) e distinguir os métodos direto e indireto.
+
+- Classificar os fluxos em operacionais, de investimento e de financiamento.
+
+- Descrever a estrutura da DVA (CPC 09).
+
+- Reconhecer o conteúdo e a importância das notas explicativas.
+
+### Fundamentação bíblica
+
+**Gênesis 2.10**
+
+> *E saía um rio do Éden para regar o jardim, e dali se dividia.*
+
+**Romanos 13.7**
+
+> *Pagai a todos o que lhes é devido: a quem tributo, tributo.*
+
+A DVA mostra, em números, a quem a empresa deu o que era devido: salário ao trabalhador, tributo ao governo, juros ao banco, lucro ao sócio.
+
+### A Demonstração dos Fluxos de Caixa
+
+A DFC mostra as entradas e saídas de caixa e equivalentes de caixa do período, em três atividades:
+
+- **Operacionais:** principais atividades geradoras de receita — recebimentos de clientes, pagamentos a fornecedores, empregados e tributos.
+
+- **De investimento:** aquisição e venda de ativos de longo prazo — imobilizado, intangível, participações.
+
+- **De financiamento:** relacionadas ao capital próprio e de terceiros — empréstimos obtidos e pagos, aportes de capital, dividendos pagos.
+
+**Método direto:** apresenta as principais classes de recebimentos e pagamentos brutos.
+
+**Método indireto:** parte do lucro líquido e o ajusta pelas despesas e receitas que não afetam o caixa (depreciação, provisões, equivalência) e pelas variações do capital de giro (clientes, estoques, fornecedores).
+
+Quando a empresa usa o método direto, deve apresentar também a conciliação entre o lucro líquido e o caixa líquido das atividades operacionais.
+
+### Por que a DFC interessa ao auditor fiscal
+
+A DFC revela incoerências. Uma empresa com lucro pequeno mas geração de caixa operacional enorme, sem explicação no capital de giro, pode ter receitas registradas no caixa mas não na DRE — ou receitas que nunca passaram pela contabilidade, mas cujo dinheiro apareceu. É a mesma pergunta da equação patrimonial: de onde veio o dinheiro?
+
+### A Demonstração do Valor Adicionado
+
+A DVA (CPC 09) mostra a riqueza gerada pela empresa e como ela foi distribuída:
+
+**Geração do valor adicionado:**
+
+- Receitas (vendas, outras receitas, perdas estimadas de clientes).
+
+- (−) Insumos adquiridos de terceiros (custos das mercadorias, materiais, energia, serviços de terceiros).
+
+- (=) Valor adicionado bruto.
+
+- (−) Depreciação, amortização e exaustão.
+
+- (=) Valor adicionado líquido produzido.
+
+- (+) Valor adicionado recebido em transferência (equivalência patrimonial, receitas financeiras, aluguéis).
+
+- (=) Valor adicionado total a distribuir.
+
+**Distribuição do valor adicionado:**
+
+- Pessoal (salários, benefícios, FGTS).
+
+- Impostos, taxas e contribuições (federais, estaduais, municipais).
+
+- Remuneração de capitais de terceiros (juros, aluguéis).
+
+- Remuneração de capitais próprios (dividendos, JCP, lucros retidos).
+
+A DVA é obrigatória para companhias abertas (Lei 6.404/1976, art. 176, V) e muito recomendada para as demais. É, talvez, a demonstração mais cristã de todas, porque mostra a empresa como fonte de sustento para muita gente.
+
+### Notas explicativas
+
+As notas explicativas fazem parte das demonstrações. Devem trazer (Lei 6.404/1976, art. 176, § 5º, e CPC 26):
+
+- a base de preparação e as políticas contábeis significativas;
+
+- as informações exigidas pelas normas e não apresentadas nas demonstrações;
+
+- informações adicionais necessárias para a apresentação adequada.
+
+Para o auditor fiscal, as notas mais importantes costumam ser: tributos a recolher e a recuperar, tributos diferidos, provisões e contingências (inclusive as tributárias), parcelamentos, partes relacionadas e eventos subsequentes.
+
+### Em uma frase
+
+> *A DFC mostra por onde o caixa correu; a DVA mostra para quem a riqueza foi repartida; as notas explicam cada curva do rio.*
+
+### Débora e o rio que corria fora do leito
+
+Débora fez a DFC pelo método indireto da Boa Colheita a partir dos balanços. Encontrou caixa operacional de R$ 14 milhões, para um lucro de R$ 3 milhões. As variações de capital de giro não explicavam a diferença. Pior: a DFC preparada pela empresa mostrava valores diferentes dos que ela calculou.
+
+Ela levou o trabalho a Marta e Elias. Elias olhou por muito tempo e disse: "Débora, você já tem quatro indícios: margem baixa, estoque sumido, fornecedores pagos ainda no passivo e caixa sem origem. Isso tem nome na legislação tributária. Antes de falar com o cliente, quero que você estude omissão de receitas. Mas, primeiro, aprenda a lei". E deu a ela um exemplar do Código Tributário Nacional.
+
+### Ferramentas práticas
+
+**Teste de coerência entre DRE, BP e DFC**
+
+- Lucro líquido + depreciação + provisões ± variação de capital de giro = caixa operacional?
+
+- O caixa final da DFC bate com o caixa do balanço?
+
+- Os tributos pagos na DFC são coerentes com os tributos da DRE e a variação dos tributos a recolher?
+
+- Os dividendos pagos na DFC batem com a DMPL e a variação dos dividendos a pagar?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Se a sua empresa publicasse a DVA, quanto da riqueza gerada iria para as pessoas que trabalham nela?
+
+**2.** Por que a coerência entre as demonstrações é uma das melhores ferramentas para detectar fraude?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia o CPC 03 e o CPC 09 nos seus itens de estrutura.
+
+**Esta semana**
+
+- Monte a DFC pelo método indireto de uma empresa a partir de dois balanços e uma DRE.
+
+**Este mês**
+
+- Aplique o teste de coerência num cliente.
+
+**Próximos 90 dias**
+
+- Elabore a DVA de um cliente e apresente aos sócios como ferramenta de gestão e testemunho.

@@ -1,0 +1,925 @@
+# Parte IV
+
+## Temas avançados da auditoria fiscal
+
+~ "Nada há encoberto que não venha a ser revelado; e oculto que não venha a ser conhecido." (Lucas 12.2)
+
+# Capítulo 21
+
+## Omissão de receitas: conceito e presunções legais
+
+@ILUS 21 | Uma lâmpada acesa revelando o que estava escondido no canto da casa
+
+Jesus disse: "Nada há encoberto que não venha a ser revelado; e oculto que não venha a ser conhecido. Porque tudo o que dissestes às escuras será ouvido em plena luz" (Lucas 12.2-3). Não é uma ameaça. É uma constatação: a verdade tem uma força própria que empurra tudo para a luz.
+
+A omissão de receitas é o esforço de manter encoberto o que aconteceu: vender e não registrar, receber e não declarar. E a legislação tributária brasileira criou um conjunto de ferramentas — as presunções legais — para trazer à luz aquilo que a empresa tentou esconder. É o tema mais cobrado em provas de auditoria fiscal e um dos mais frequentes em autos de infração.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir omissão de receitas.
+
+- Distinguir prova direta e presunção legal.
+
+- Conhecer as principais presunções legais de omissão de receitas: saldo credor de caixa, falta de escrituração de pagamentos, passivo fictício, suprimentos de numerário, depósitos bancários de origem não comprovada e levantamento quantitativo de estoques.
+
+- Compreender o ônus da prova em cada caso.
+
+### Fundamentação bíblica
+
+**Lucas 12.2-3**
+
+> *Nada há encoberto que não venha a ser revelado.*
+
+**Números 32.23**
+
+> *Sabei que o vosso pecado vos há de achar.*
+
+Moisés advertiu as tribos que queriam ficar do outro lado do Jordão: se não cumprissem a palavra, o pecado as encontraria. A omissão de receita sempre deixa rastros.
+
+### O que é omissão de receitas
+
+Omissão de receitas é a falta de registro, na escrituração e nas declarações, de receitas efetivamente auferidas pela pessoa jurídica. Ela reduz a base de cálculo de praticamente todos os tributos: IRPJ, CSLL, PIS, COFINS, ICMS, IPI, ISS e, no Simples Nacional, o próprio DAS.
+
+A omissão pode ser provada de duas formas:
+
+- **Prova direta:** a fiscalização demonstra a receita omitida com documentos — notas fiscais emitidas e não contabilizadas, contratos, extratos com recebimentos identificados, vendas sem nota comprovadas por testemunhas ou por documentos de clientes.
+
+- **Presunção legal:** a lei autoriza a autoridade a **presumir** a omissão a partir de um fato indiciário. Nesse caso, o **ônus da prova se inverte**: cabe ao contribuinte provar que a receita não foi omitida.
+
+As presunções são **relativas** (admitem prova em contrário). Mas, na prática, se o contribuinte não consegue provar, a presunção prevalece.
+
+### As presunções legais
+
+**1. Saldo credor de caixa** (Decreto-Lei 1.598/1977, art. 12, § 2º; RIR/2018, art. 293, I). Caixa é um ativo: não pode ter saldo credor (negativo). Se a escrituração mostra que a empresa pagou mais do que tinha no caixa em determinado momento, presume-se que os pagamentos foram feitos com recursos de receitas não contabilizadas. O mesmo vale para o "estouro de caixa" revelado pela recomposição do fluxo diário.
+
+**2. Falta de escrituração de pagamentos** (Lei 9.430/1996, art. 40; RIR/2018, art. 293, II). Se a empresa pagou algo e não registrou o pagamento, presume-se que pagou com dinheiro não contabilizado.
+
+**3. Passivo fictício** (Decreto-Lei 1.598/1977, art. 12, § 2º; Lei 9.430/1996, art. 40; RIR/2018, art. 293, III). Manter no passivo obrigações já pagas, ou cuja exigibilidade não seja comprovada, caracteriza omissão. A lógica: se a dívida foi paga e o pagamento não foi registrado, foi paga com recursos de fora da contabilidade. Se a dívida nunca existiu, foi criada para "esconder" um saldo de caixa vindo de receitas omitidas.
+
+**4. Suprimentos de numerário** (Decreto-Lei 1.598/1977, art. 12, § 3º; RIR/2018, art. 294). Recursos entregues à empresa por administradores, sócios, titular ou acionista controlador são presumidos como receita omitida se a **efetividade da entrega** e a **origem dos recursos** não forem comprovadas com documentação coincidente em datas e valores. Não basta mostrar que o dinheiro entrou; é preciso mostrar de onde o sócio tirou o dinheiro.
+
+**5. Depósitos bancários de origem não comprovada** (Lei 9.430/1996, art. 42; RIR/2018, art. 299). Valores creditados em conta bancária em relação aos quais o titular, regularmente intimado, não comprove, mediante documentação hábil e idônea, a origem dos recursos, caracterizam omissão. O STF julgou constitucional essa presunção (RE 855.649, Tema 842). Os depósitos são analisados individualizadamente, e a lei prevê limites para pessoas físicas. O acesso da Receita aos dados bancários sem ordem judicial, nos termos da LC 105/2001, também foi considerado constitucional pelo STF (RE 601.314).
+
+**6. Levantamento quantitativo por espécie** (Lei 9.430/1996, art. 41; RIR/2018, art. 295). A fiscalização pode apurar omissão a partir da diferença entre as quantidades de produtos ou mercadorias que deveriam estar em estoque (estoque inicial + entradas − saídas registradas) e as que efetivamente estão (estoque final). A falta de mercadoria em estoque indica saída sem nota; o excesso indica entrada sem nota, paga com recursos não contabilizados. O valor da receita omitida é calculado pelo preço médio de venda.
+
+### Outras situações de prova direta frequentes
+
+- Notas fiscais emitidas e não escrituradas.
+
+- Vendas por cartão e PIX informadas pelas instituições financeiras e não declaradas.
+
+- Receitas de serviços recebidas em contas de sócios ou de terceiros.
+
+- Diferenças entre o faturamento declarado nas obrigações acessórias federais e estaduais.
+
+### Em uma frase
+
+> *Omissão de receitas é receita auferida e não registrada. A lei presume a omissão quando há saldo credor de caixa, pagamento não escriturado, passivo fictício, suprimento sem origem, depósito sem origem ou diferença de estoque. Na presunção, quem tem de provar é o contribuinte.*
+
+### Débora reconhece as presunções
+
+Débora abriu o papel de trabalho que tinha começado meses antes, com as perguntas sem resposta, e escreveu ao lado de cada uma o nome técnico:
+
+- Fornecedores de 2019 a 2021 já pagos e mantidos no passivo: **passivo fictício**.
+
+- R$ 12 milhões no caixa sem origem, entrando como "empréstimos de sócios": **suprimento de numerário** sem comprovação de origem.
+
+- Diferença de R$ 3,4 milhões no inventário sem documentação: **levantamento quantitativo**, indicando saídas sem nota.
+
+- Margem bruta muito abaixo do setor: indício que reforça as presunções.
+
+O senhor Jairo tinha confessado. Mas Débora sabia que confissão não bastava para a contabilidade. Era preciso quantificar, documentar e corrigir.
+
+### Ferramentas práticas
+
+**Quadro das presunções legais (copie no caderno)**
+
+- Saldo credor de caixa — DL 1.598/1977, art. 12, § 2º — pagamentos maiores que o caixa disponível.
+
+- Falta de escrituração de pagamentos — Lei 9.430/1996, art. 40 — pagamento feito e não registrado.
+
+- Passivo fictício — DL 1.598/1977, art. 12, § 2º, e Lei 9.430/1996, art. 40 — obrigação paga ou não comprovada mantida no passivo.
+
+- Suprimentos — DL 1.598/1977, art. 12, § 3º — recursos de sócios sem comprovação de entrega e origem.
+
+- Depósitos bancários — Lei 9.430/1996, art. 42 — créditos bancários sem origem comprovada.
+
+- Levantamento quantitativo — Lei 9.430/1996, art. 41 — diferença física de estoques.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que a lei inverte o ônus da prova nas presunções? É justo?
+
+**2.** "O vosso pecado vos há de achar": como essa verdade se manifesta na vida tributária?
+
+**3.** Existe algo "encoberto" na sua vida profissional que você precisa trazer à luz antes que alguém o descubra?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Lucas 12.1-3 e Números 32.20-23. Ore pedindo a coragem de viver na luz.
+
+**Esta semana**
+
+- Leia os artigos 293 a 300 do RIR/2018.
+
+**Este mês**
+
+- Aplique, num cliente, o teste de passivo fictício: circularize os fornecedores antigos.
+
+**Próximos 90 dias**
+
+- Monte um roteiro de auditoria preventiva de omissão de receitas para os clientes que você atende.
+
+# Capítulo 22
+
+## Omissão de receitas: técnicas de detecção e tributação
+
+@ILUS 22 | Uma lupa sobre colunas de números — o exame que revela a diferença
+
+Quando Gideão quis saber se Deus estava com ele, fez um teste com a lã: primeiro, orvalho só na lã e a terra seca; depois, a terra molhada e a lã seca (Juízes 6.36-40). Ele cruzou duas evidências opostas para ter certeza. Não se contentou com um único sinal.
+
+O auditor que procura omissão de receitas faz algo parecido: cruza informações de fontes diferentes até que a verdade apareça. E, uma vez encontrada a omissão, precisa saber como ela é tributada e quais são as consequências.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Aplicar técnicas de auditoria para detectar omissão de receitas.
+
+- Executar um levantamento quantitativo de estoques.
+
+- Recompor o fluxo de caixa para identificar saldo credor.
+
+- Conhecer a forma de tributação da receita omitida e as multas aplicáveis.
+
+- Orientar o cliente sobre o caminho de regularização.
+
+### Fundamentação bíblica
+
+**Juízes 6.39**
+
+> *Seja seca somente a lã, e em toda a terra haja orvalho.*
+
+**Provérbios 25.2**
+
+> *A glória dos reis é esquadrinhar as coisas.*
+
+Cruzar evidências é esquadrinhar. E esquadrinhar com método é a glória do auditor.
+
+### Técnicas de detecção
+
+**1. Análise de margens e indicadores.** Margem bruta, giro de estoque, prazo médio de recebimento e relação entre compras e vendas, comparados com anos anteriores e com o setor. Margem muito baixa pode indicar vendas não registradas.
+
+**2. Recomposição do caixa.** Reconstituir o saldo diário do caixa a partir dos documentos de entrada e saída, verificando se em algum dia os pagamentos superaram os recursos disponíveis. Atenção a saldos de caixa altos e constantes, que podem esconder estouros.
+
+**3. Conciliação bancária completa.** Comparar todos os créditos bancários com receitas registradas, empréstimos e aportes documentados. Créditos sem correspondência pedem explicação.
+
+**4. Circularização de fornecedores do passivo.** Confirmar com os fornecedores os saldos antigos. Se responderem que nada têm a receber, há indício de passivo fictício.
+
+**5. Exame dos suprimentos de sócios.** Para cada aporte ou empréstimo de sócio, exigir prova da entrega (transferência bancária identificada) e da origem (declaração de imposto de renda do sócio, extratos pessoais, venda de bens).
+
+**6. Levantamento quantitativo de estoques.** Para cada produto relevante:
+
+^ **Estoque inicial + Entradas com nota − Saídas com nota = Estoque final esperado**
+
+Compara-se com o estoque final contado. Se o contado for **menor**, a diferença indica **saída sem nota** (receita omitida = diferença × preço médio de venda). Se for **maior**, indica **entrada sem nota** (compra paga com recursos não registrados).
+
+Exemplo: arroz tipo 1, fardo de 30 kg.
+
+- Estoque inicial: 2.000 fardos.
+
+- Entradas com nota: 48.000 fardos.
+
+- Saídas com nota: 44.500 fardos.
+
+- Estoque final esperado: 5.500 fardos.
+
+- Estoque final contado: 3.100 fardos.
+
+- Diferença: 2.400 fardos sem nota de saída.
+
+- Preço médio de venda: R$ 150.
+
+- Receita omitida presumida: 2.400 × 150 = R$ 360.000.
+
+**7. Cruzamentos digitais.** Comparar as vendas declaradas com as informações das administradoras de cartão e instituições de pagamento, com as notas de entrada dos clientes (que registram compras da empresa) e com as obrigações acessórias estaduais e federais (capítulo 26).
+
+### Como a receita omitida é tributada
+
+Pela Lei 9.249/1995, art. 24, verificada a omissão, a autoridade determina o valor do IRPJ e da CSLL **de acordo com o regime de tributação a que a pessoa jurídica estiver submetida** no período, e lança também PIS e COFINS sobre a receita omitida.
+
+- **Lucro Real:** a receita omitida é adicionada ao lucro, sem dedução de custos não comprovados.
+
+- **Lucro Presumido ou Arbitrado:** aplicam-se os percentuais de presunção sobre a receita omitida.
+
+- **Simples Nacional:** a receita omitida é tributada pelas regras do Simples e pode levar à exclusão do regime (LC 123/2006, art. 29), com efeitos retroativos.
+
+- **ICMS, IPI e ISS:** cobrados pelos respectivos entes, cada um com sua fiscalização.
+
+Além disso:
+
+- **Multa de ofício de 75%**, ou **qualificada de 100%** quando houver sonegação, fraude ou conluio — por exemplo, venda reiterada sem nota com uso de passivo fictício e suprimentos simulados.
+
+- **Juros pela taxa Selic.**
+
+- **Decadência pelo art. 173, I, do CTN**, quando houver dolo, fraude ou simulação (capítulo 11).
+
+- **Responsabilidade pessoal dos administradores** (CTN, art. 135).
+
+- **Representação fiscal para fins penais** (Lei 8.137/1990).
+
+### O caminho da regularização
+
+Diante de uma omissão confirmada, o auditor não é advogado de defesa nem acusador. Seu papel é: recomendar a correção das demonstrações, avaliar as provisões necessárias e indicar à administração que procure assessoria jurídica para escolher o melhor caminho legal. Esse caminho pode incluir:
+
+- **Denúncia espontânea** para tributos e períodos ainda não alcançados por procedimento fiscal, com pagamento do tributo e dos juros.
+
+- **Pagamento ou parcelamento com redução de multa** para o que já estiver sob fiscalização ou autuado.
+
+- **Transação tributária**, quando houver créditos inscritos em dívida ativa.
+
+- **Correção dos controles internos** que permitiram a omissão.
+
+### Em uma frase
+
+> *Detecta-se omissão cruzando margens, caixa, bancos, passivo, suprimentos, estoques e dados digitais. A receita omitida é tributada pelo regime da empresa, com multa de 75% ou 100%, juros e responsabilidade dos administradores. O caminho é trazer à luz e regularizar.*
+
+### Débora quantifica a verdade
+
+Débora e sua equipe passaram três semanas fazendo o levantamento quantitativo dos quinze principais produtos da Boa Colheita para os anos de 2022 a 2025, cruzando com as notas de entrada e saída. Recompuseram os suprimentos de sócios e circularizaram todos os fornecedores antigos. A soma das receitas omitidas no período chegou a R$ 61 milhões.
+
+A Boa Colheita, com advogados tributaristas, decidiu o caminho: para o IRPJ e a CSLL de 2023, já sob fiscalização, colaboraria com o Fisco e pagaria o auto com a redução de 50% da multa. Para os demais períodos e tributos federais, ainda fora do escopo do TDPF, e para o ICMS, que não estava sob fiscalização estadual, faria denúncia espontânea, com pagamento ou parcelamento. O passivo fictício seria baixado, os suprimentos simulados, estornados, e as demonstrações, corrigidas, com as provisões necessárias.
+
+O filho do senhor Jairo deixou a diretoria financeira. O senhor Jairo assinou cada documento pessoalmente. No último dia, disse a Débora: "Moça, eu dormi esta noite. Fazia quatro anos que eu não dormia".
+
+### Ferramentas práticas
+
+**Roteiro de levantamento quantitativo**
+
+- Escolher os produtos mais relevantes em valor e volume.
+
+- Padronizar a unidade de medida (quilo, fardo, caixa, litro).
+
+- Obter estoque inicial e final (inventários assinados).
+
+- Somar entradas e saídas pelas notas fiscais eletrônicas, inclusive devoluções.
+
+- Calcular o estoque esperado e comparar com o contado.
+
+- Investigar perdas documentadas, consumo interno e erros de cadastro antes de concluir.
+
+- Valorar as diferenças pelo preço médio de venda (saídas) ou de compra (entradas).
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que o senhor Jairo voltou a dormir depois de confessar e regularizar?
+
+**2.** Qual é o papel do auditor diante de uma omissão confirmada: acusar, defender ou ajudar a trazer à luz?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o exemplo do levantamento quantitativo do arroz.
+
+**Esta semana**
+
+- Leia o artigo 24 da Lei 9.249/1995 e o artigo 44 da Lei 9.430/1996.
+
+**Este mês**
+
+- Faça um levantamento quantitativo de três produtos num cliente.
+
+**Próximos 90 dias**
+
+- Implante, num cliente, um controle mensal de estoque físico × contábil com análise das diferenças.
+
+# Capítulo 23
+
+## Planejamento tributário: elisão, evasão e propósito negocial
+
+@ILUS 23 | Dois caminhos: uma estrada iluminada e um atalho escuro pela mata
+
+Jesus contou a parábola do administrador infiel que, ao saber que seria demitido, reduziu as dívidas dos devedores do patrão para ganhar amigos. E o senhor "louvou o administrador iníquo por haver procedido sabiamente" (Lucas 16.8). Jesus não elogiou a desonestidade; elogiou a esperteza em pensar no futuro. E concluiu: "Se, pois, não fostes fiéis na riqueza de origem injusta, quem vos confiará a verdadeira riqueza?" (16.11).
+
+Planejamento tributário vive nessa tensão. Pensar no futuro, organizar os negócios de forma inteligente e pagar apenas o que a lei exige é sabedoria. Usar a inteligência para enganar é infidelidade. A linha entre os dois é o tema deste capítulo.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Distinguir elisão, evasão e elusão fiscal.
+
+- Conhecer a norma geral antielisiva do CTN (art. 116, parágrafo único).
+
+- Compreender os conceitos de simulação, abuso de forma e propósito negocial.
+
+- Identificar instrumentos legítimos de planejamento tributário.
+
+- Aplicar critérios éticos cristãos ao planejamento.
+
+### Fundamentação bíblica
+
+**Lucas 16.8-11**
+
+> *Se, pois, não fostes fiéis na riqueza de origem injusta, quem vos confiará a verdadeira riqueza?*
+
+**Romanos 12.17**
+
+> *Procurai as coisas dignas, perante todos os homens.*
+
+O planejamento cristão precisa ser digno diante de todos: diante de Deus, diante do Fisco e diante do próprio cliente.
+
+### Elisão, evasão e elusão
+
+- **Elisão fiscal (planejamento tributário lícito):** escolher, **antes** da ocorrência do fato gerador e **dentro da lei**, a forma de agir que resulte em menor tributo. Ex.: optar pelo regime mais vantajoso, pagar JCP, usar incentivos fiscais, localizar uma operação onde a lei concede benefício.
+
+- **Evasão fiscal (sonegação):** reduzir o tributo por meio ilícito — fraude, falsificação, omissão de receitas, normalmente **depois** de ocorrido o fato gerador. É crime.
+
+- **Elusão fiscal (abuso de formas):** usar formas jurídicas aparentemente lícitas, mas artificiais, sem substância econômica, apenas para evitar o tributo. Ex.: operações em cadeia sem propósito econômico, empresas de fachada, contratos que não correspondem à realidade. Não é sonegação clássica, mas pode ser desconsiderada pelo Fisco.
+
+### A norma antielisiva e a simulação
+
+O CTN, art. 116, parágrafo único (incluído pela LC 104/2001), permite à autoridade **desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular** a ocorrência do fato gerador ou a natureza dos elementos da obrigação tributária, observados os procedimentos a serem estabelecidos em lei ordinária. O STF julgou o dispositivo constitucional (ADI 2.446), destacando que ele não autoriza tributar por analogia nem proíbe a economia lícita de tributos.
+
+Além disso, o CTN, art. 149, VII, autoriza o lançamento de ofício quando o sujeito passivo agiu com **dolo, fraude ou simulação**. E o Código Civil, art. 167, define simulação: o negócio aparenta conferir direitos a pessoas diferentes das reais, contém declaração não verdadeira ou tem datas antedatadas ou pós-datadas.
+
+### Propósito negocial e substância
+
+Nos julgamentos do CARF, ganhou força a análise do **propósito negocial** e da **substância econômica**: operações estruturadas exclusivamente para economizar tributo, sem razão empresarial e sem efeitos econômicos reais, tendem a ser desconsideradas. Exemplos de estruturas frequentemente questionadas:
+
+- Empresas-veículo criadas e extintas em curto prazo apenas para transferir ágio.
+
+- "Ágio interno", gerado entre empresas do mesmo grupo.
+
+- Fracionamento de uma mesma atividade em várias empresas do Simples Nacional, com os mesmos sócios, endereço, funcionários e clientes.
+
+- Pejotização de empregados para reduzir encargos, quando presentes os requisitos da relação de emprego.
+
+- Contratos de prestação de serviço com partes relacionadas sem efetiva prestação.
+
+O STF, em 2025, também tratou da validade de contratos de prestação de serviços entre pessoas jurídicas em substituição a vínculos de emprego, e o tema exige análise caso a caso.
+
+### Instrumentos legítimos de planejamento
+
+- Escolha anual do regime tributário (capítulo 15).
+
+- Juros sobre capital próprio (capítulo 18).
+
+- Aproveitamento integral de créditos de PIS, COFINS, ICMS e, no futuro, CBS e IBS.
+
+- Incentivos fiscais previstos em lei: Lei do Bem (pesquisa e inovação), PAT, doações incentivadas a projetos culturais, esportivos, da infância e do idoso, SUDENE e SUDAM.
+
+- Recuperação de tributos pagos indevidamente dentro do prazo de cinco anos.
+
+- Organização societária com propósito real (holding de participações, segregação de atividades com substância).
+
+- Revisão de classificação fiscal de produtos (NCM) e de enquadramento em alíquotas reduzidas.
+
+- Planejamento da sucessão, com os cuidados exigidos pelas novas regras do ITCMD após a Reforma.
+
+### Um teste ético cristão
+
+Antes de recomendar um planejamento, pergunte:
+
+- Está expressamente previsto ou permitido em lei?
+
+- Tem propósito negocial e substância econômica, além da economia tributária?
+
+- Os documentos descrevem exatamente a realidade?
+
+- Eu explicaria esta estrutura, com todos os detalhes, ao auditor-fiscal sem constrangimento?
+
+- Eu explicaria esta estrutura à minha igreja sem constrangimento?
+
+Se alguma resposta for "não", não é planejamento. É atalho escuro.
+
+### Em uma frase
+
+> *Elisão é escolher, antes do fato e dentro da lei, o caminho que custa menos; evasão é esconder o que aconteceu; elusão é fingir uma forma sem substância. O planejamento cristão é lícito, real e explicável a qualquer um.*
+
+### Débora e a proposta da consultoria
+
+Depois da regularização, um consultor procurou o senhor Jairo propondo "recuperar o prejuízo": dividir a Boa Colheita em seis empresas do Simples Nacional, cada uma em nome de um parente, todas operando no mesmo galpão. "Ninguém vai perceber", disse o consultor.
+
+O senhor Jairo levou a proposta a Débora. Ela aplicou o teste ético e o teste legal na frente dele. Mesmo endereço, mesmos funcionários, mesmos clientes, mesmo dono de fato. "Isso é simulação, senhor Jairo. O Fisco desconsidera, cobra tudo como uma só empresa, aplica multa qualificada e exclui todas do Simples."
+
+Em seguida, mostrou o que era possível fazer: revisar os créditos de PIS e COFINS sobre insumos e fretes, que a empresa não aproveitava havia anos; pagar JCP dentro dos limites; e preparar a empresa para a CBS e o IBS. Só os créditos não aproveitados somavam R$ 2,3 milhões recuperáveis. "Esse é o planejamento que deixa o senhor dormir", disse ela.
+
+### Ferramentas práticas
+
+**Matriz de planejamento tributário**
+
+- Descrição da estratégia.
+
+- Fundamento legal expresso.
+
+- Propósito negocial além do tributo.
+
+- Substância: mudanças reais em pessoas, ativos, riscos e operações.
+
+- Documentação necessária.
+
+- Riscos e jurisprudência (CARF, STJ, STF).
+
+- Teste ético: eu explicaria ao Fisco e à igreja?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que Jesus elogiou a esperteza do administrador sem elogiar sua desonestidade?
+
+**2.** Que estrutura tributária você conhece que passa no teste legal, mas não passa no teste ético?
+
+**3.** Deixar de aproveitar créditos legítimos também é falta de mordomia?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Lucas 16.1-13. Ore pedindo sabedoria e fidelidade ao mesmo tempo.
+
+**Esta semana**
+
+- Leia o artigo 116, parágrafo único, e o artigo 149, VII, do CTN, e o artigo 167 do Código Civil.
+
+**Este mês**
+
+- Aplique a matriz de planejamento a uma estratégia usada por um cliente.
+
+**Próximos 90 dias**
+
+- Faça um levantamento de créditos e incentivos não aproveitados num cliente.
+
+# Capítulo 24
+
+## Controladas e coligadas no exterior
+
+@ILUS 24 | Os navios de Salomão voltando de Társis carregados de riquezas
+
+Salomão tinha uma frota de navios que, "de três em três anos, voltava trazendo ouro, prata, marfim, bugios e pavões" (1 Reis 10.22). Os negócios do rei não se limitavam a Israel. Iam além do mar. E toda a riqueza voltava para o reino e era registrada: Salomão sabia quanto ouro recebia por ano, "seiscentos e sessenta e seis talentos" (10.14).
+
+Empresas brasileiras também têm negócios além-mar. E a lei brasileira exige que os lucros obtidos lá fora sejam registrados e tributados aqui, nas condições que ela define. É um tema complexo, mas que todo auditor fiscal de empresas médias e grandes precisa conhecer.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Compreender a tributação em bases universais.
+
+- Conhecer as regras da Lei 12.973/2014 para lucros de controladas e coligadas no exterior.
+
+- Compreender o crédito do imposto pago no exterior.
+
+- Conhecer o novo regime de preços de transferência (Lei 14.596/2023).
+
+- Conhecer o adicional da CSLL para grandes grupos multinacionais (tributação mínima global).
+
+### Fundamentação bíblica
+
+**1 Reis 10.14**
+
+> *O peso do ouro que se trazia a Salomão cada ano era de seiscentos e sessenta e seis talentos.*
+
+**Lucas 16.10**
+
+> *Quem é fiel no pouco também é fiel no muito.*
+
+A riqueza que vem de longe precisa ser administrada com a mesma fidelidade da que vem de perto.
+
+### Tributação em bases universais
+
+Desde a Lei 9.249/1995, art. 25, as pessoas jurídicas brasileiras são tributadas sobre lucros, rendimentos e ganhos de capital auferidos **no Brasil e no exterior**. O desafio é definir **quando** esses lucros são tributados e **como** evitar a dupla tributação.
+
+### Controladas no exterior (Lei 12.973/2014, arts. 76 a 80)
+
+A controladora domiciliada no Brasil deve computar na determinação do lucro real e da base de cálculo da CSLL a parcela do ajuste do valor do investimento em controlada, direta ou indireta, no exterior, **equivalente aos lucros auferidos** por ela, **antes do imposto sobre a renda**. Esse cômputo ocorre no **balanço de 31 de dezembro do ano em que os lucros forem apurados**, independentemente de terem sido distribuídos.
+
+Ou seja: para controladas, o lucro é tributado no Brasil **no ano em que é gerado lá fora**, mesmo que fique retido no exterior.
+
+Os resultados devem ser apurados **individualmente** por controlada. A lei permitiu, por prazo determinado e sob condições, a **consolidação** de resultados positivos e negativos de controladas, com restrições para controladas em países com tributação favorecida ou sujeitas a regimes subtributados. Verifique a vigência dessa possibilidade para o período auditado.
+
+Prejuízos de uma controlada podem ser compensados com lucros futuros **da mesma controlada**, observadas as regras de informação à Receita.
+
+### Coligadas no exterior (art. 81)
+
+Para coligadas, a regra geral é diferente: os lucros são computados no Brasil na data do **balanço em que forem disponibilizados** (distribuídos, creditados ou pagos) para a investidora brasileira. Porém, se a coligada estiver em país com tributação favorecida, em regime fiscal privilegiado, ou se não houver controle societário relevante de outra pessoa nas condições da lei, o tratamento pode ser equiparado ao das controladas.
+
+### Crédito do imposto pago no exterior (art. 87)
+
+Para evitar dupla tributação, a pessoa jurídica pode deduzir do IRPJ e da CSLL devidos no Brasil o imposto sobre a renda pago no exterior pela controlada ou coligada, **até o limite** dos tributos brasileiros incidentes sobre a mesma parcela de lucro. O imposto pago lá fora deve ser comprovado por documento reconhecido pelo órgão arrecadador e, em regra, consularizado ou apostilado.
+
+Exemplo simplificado: controlada no exterior com lucro antes do IR de R$ 1.000.000, que pagou R$ 200.000 de imposto local.
+
+- IRPJ e CSLL no Brasil (34%): R$ 340.000.
+
+- Crédito do imposto pago no exterior: R$ 200.000.
+
+- Valor a pagar no Brasil: R$ 140.000.
+
+### Preços de transferência
+
+Operações entre partes relacionadas em países diferentes podem ser usadas para transferir lucro para onde o tributo é menor (preço de venda baixo para a subsidiária no exterior, preço de compra alto da subsidiária). Por isso existem as regras de preços de transferência.
+
+A **Lei 14.596/2023**, obrigatória a partir de 2024, alinhou o Brasil ao padrão internacional da OCDE, adotando o **princípio do *arm's length***: os preços entre partes relacionadas devem ser os mesmos que seriam praticados entre partes independentes em condições comparáveis. A lei exige análise de comparabilidade, escolha do método mais apropriado e documentação.
+
+### Tributação mínima global
+
+A **Lei 15.079/2024** instituiu um **adicional da CSLL** para grupos multinacionais com receita consolidada anual de pelo menos 750 milhões de euros, de modo que a tributação efetiva no Brasil atinja **15%**, em linha com as regras globais da OCDE (Pilar Dois). Atinge apenas grandes grupos, mas o auditor precisa saber identificá-los.
+
+### Pontos de atenção do auditor
+
+- Existência de controladas ou coligadas no exterior, diretas ou indiretas, inclusive por meio de "trading companies" ou empresas de fachada.
+
+- Cômputo dos lucros das controladas no balanço de 31 de dezembro, no LALUR e no LACS.
+
+- Documentação do imposto pago no exterior.
+
+- Operações com partes relacionadas no exterior e documentação de preços de transferência.
+
+- Declaração de capitais brasileiros no exterior ao Banco Central, quando exigida.
+
+### Em uma frase
+
+> *A empresa brasileira é tributada em bases universais: lucros de controladas no exterior entram no lucro real e na CSLL em 31 de dezembro do ano em que são gerados, com crédito do imposto pago lá fora. Coligadas, em regra, quando disponibilizados. E os preços entre partes relacionadas seguem o arm's length.*
+
+### Débora e a trading do Uruguai
+
+Ao rever os investimentos da Boa Colheita, Débora encontrou uma participação de 100% numa empresa no Uruguai, criada para importar arroz e feijão de países do Mercosul e revender à Boa Colheita. A trading comprava a R$ 100 e vendia à controladora a R$ 135. O lucro ficava lá, sem distribuição, e não tinha sido computado no lucro real.
+
+Débora explicou que havia dois problemas: o lucro da controlada deveria ter sido adicionado no Brasil todo 31 de dezembro, e o preço de R$ 135 precisava ser justificado pelas regras de preços de transferência. Os advogados da empresa incluíram esse ponto na denúncia espontânea. Débora lembrou dos navios de Salomão. O ouro que volta de longe também precisa ser registrado.
+
+### Ferramentas práticas
+
+**Checklist de operações no exterior**
+
+- Organograma societário completo, inclusive participações indiretas.
+
+- Demonstrações das controladas e coligadas no exterior, convertidas e auditadas, se possível.
+
+- Cálculo do lucro a ser computado no Brasil, por controlada.
+
+- Comprovantes do imposto pago no exterior.
+
+- Estudo de preços de transferência das operações com partes relacionadas.
+
+- Verificação do enquadramento no adicional da CSLL para grandes grupos.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Por que deixar lucros "longe" não muda a obrigação de fidelidade?
+
+**2.** O que o princípio do *arm's length* ensina sobre tratar partes relacionadas com a mesma justiça que estranhos?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia 1 Reis 10 e ore pela sabedoria de Salomão aplicada aos negócios.
+
+**Esta semana**
+
+- Leia os artigos 76 a 87 da Lei 12.973/2014.
+
+**Este mês**
+
+- Leia o resumo da Lei 14.596/2023 sobre preços de transferência.
+
+**Próximos 90 dias**
+
+- Aplique o checklist de operações no exterior num cliente que tenha participações fora do país.
+
+# Capítulo 25
+
+## Capitalização de lucros e reservas
+
+@ILUS 25 | O servo que multiplicou os talentos, reinvestindo o que recebeu
+
+Na parábola dos talentos, o servo que recebeu cinco "foi imediatamente negociar com eles e ganhou outros cinco" (Mateus 25.16). Ele não enterrou, não gastou: reinvestiu. E o fruto do reinvestimento foi o dobro.
+
+Capitalizar lucros é a forma societária de reinvestir: em vez de distribuir o lucro aos sócios, a empresa o incorpora definitivamente ao seu capital social, fortalecendo seu patrimônio para crescer. É uma decisão de mordomia, com consequências contábeis, societárias e tributárias que o auditor precisa conhecer.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Definir capitalização de lucros e reservas.
+
+- Contabilizar o aumento de capital com lucros e reservas.
+
+- Conhecer as regras societárias que limitam ou exigem a capitalização.
+
+- Compreender os efeitos tributários para a empresa e para os sócios.
+
+- Avaliar os cuidados no contexto das novas regras de tributação de dividendos.
+
+### Fundamentação bíblica
+
+**Mateus 25.16**
+
+> *Foi imediatamente negociar com eles e ganhou outros cinco.*
+
+**Provérbios 13.11**
+
+> *A riqueza obtida com ligeireza diminuirá, mas quem a ajunta pouco a pouco terá aumento.*
+
+Reinvestir com constância é princípio bíblico de prosperidade sólida.
+
+### O que é capitalização
+
+Capitalização de lucros e reservas é o aumento do capital social mediante a incorporação de lucros acumulados ou de reservas (de lucros ou de capital), sem ingresso de novos recursos. O patrimônio líquido total **não muda**; muda apenas sua composição: diminuem as reservas ou lucros acumulados e aumenta o capital social.
+
+Lançamento:
+
+- D — Reserva de lucros (ou Lucros acumulados): R$ 2.000.000
+
+- C — Capital social: R$ 2.000.000
+
+Nas sociedades anônimas, a capitalização pode ser feita com **emissão de novas ações** distribuídas aos acionistas na proporção de suas participações (bonificação) ou com **aumento do valor nominal** das ações existentes (Lei 6.404/1976, art. 169). Nas limitadas, por alteração do contrato social, aumentando o valor das quotas.
+
+### Regras societárias
+
+- **Reserva legal:** pode ser usada para aumentar o capital (Lei 6.404/1976, art. 193, § 2º).
+
+- **Reservas de capital:** podem ser capitalizadas (art. 200, IV).
+
+- **Limite do saldo das reservas de lucros:** o saldo das reservas de lucros, exceto as de contingências, de incentivos fiscais e de lucros a realizar, **não pode ultrapassar o capital social**. Atingido esse limite, a assembleia deve deliberar sobre a aplicação do excesso na **integralização ou no aumento do capital** ou na **distribuição de dividendos** (art. 199).
+
+- **Reserva de incentivos fiscais:** pode ser capitalizada, e isso é inclusive uma das formas previstas para manter benefícios sem distribuição.
+
+### Efeitos tributários
+
+**Para os sócios:** a incorporação de lucros ou reservas ao capital, em regra, **não é tributada** no momento da capitalização, e o valor capitalizado **integra o custo de aquisição** das quotas ou ações, o que reduz o ganho de capital numa venda futura. A legislação do imposto de renda trata dos lucros apurados e incorporados ao capital como parte do regime de isenção dos lucros e dividendos (Lei 9.249/1995, art. 10).
+
+**Para a empresa:** a capitalização aumenta o capital social, o que pode ampliar a base de cálculo dos **juros sobre capital próprio** (capítulo 18), já que o capital integralizado compõe a base.
+
+**Cuidados importantes:**
+
+- **Redução posterior de capital:** devolver aos sócios, em seguida, o capital que acabou de ser aumentado com lucros pode ser examinado pelo Fisco como distribuição de lucros por outro caminho. Avalie com cuidado a legislação vigente e o propósito da operação antes de reduzir capital.
+
+- **Devolução de capital em bens** (Lei 9.249/1995, art. 22): pode ser feita pelo valor contábil ou de mercado; se for a valor de mercado, a diferença é ganho de capital tributável na empresa.
+
+- **Novas regras sobre dividendos:** com a Lei 15.270/2025, a partir de 2026 os dividendos acima de certos valores passaram a ter retenção na fonte, e houve regras de transição para lucros apurados até 2025. O tratamento de lucros capitalizados e de eventuais reduções de capital posteriores precisa ser analisado à luz dessas regras e de sua regulamentação. Não use a capitalização como manobra para escapar da nova tributação.
+
+### Por que capitalizar
+
+- Fortalecer o patrimônio para obter crédito (bancos olham o capital social).
+
+- Atender exigências regulatórias ou de licitações (capital mínimo).
+
+- Cumprir o limite do art. 199 da Lei 6.404/1976.
+
+- Sinalizar compromisso dos sócios com o crescimento.
+
+- Aumentar a base do JCP.
+
+### Em uma frase
+
+> *Capitalizar é reinvestir: lucros e reservas viram capital, o PL não muda, os sócios não são tributados no ato e o custo das quotas aumenta. Mas reduzir capital logo depois, ou usar a capitalização como manobra, chama a atenção do Fisco.*
+
+### Débora e o novo começo da Boa Colheita
+
+Depois de pagar e parcelar os tributos, a Boa Colheita ficou com o caixa apertado e o patrimônio enfraquecido. O banco que financiava a frota pediu um reforço no capital social como condição para renovar as linhas de crédito.
+
+O senhor Jairo e os demais sócios decidiram capitalizar R$ 8 milhões das reservas de lucros remanescentes e aportar mais R$ 3 milhões em dinheiro, vindos da venda de um imóvel pessoal, com toda a documentação de origem. Débora conferiu a ata, a alteração contratual registrada na junta comercial, os lançamentos e o comprovante bancário do aporte. "Agora sim", disse ela a Priscila, "um suprimento de sócio com origem e entrega comprovadas."
+
+### Ferramentas práticas
+
+**Checklist de capitalização**
+
+- Há lucros ou reservas disponíveis para capitalizar?
+
+- A deliberação foi aprovada em ata ou alteração contratual, registrada?
+
+- O lançamento contábil está correto e o PL total não mudou?
+
+- O custo das quotas dos sócios foi atualizado nos controles e nas declarações?
+
+- Há intenção de redução de capital próxima? Foi avaliada pela assessoria tributária?
+
+- A operação foi analisada à luz das regras vigentes sobre dividendos?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua empresa, os lucros são reinvestidos ou consumidos?
+
+**2.** Por que uma operação lícita pode se tornar suspeita quando é usada apenas como manobra?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Mateus 25.14-30 e ore sobre o que você tem feito com os talentos recebidos.
+
+**Esta semana**
+
+- Leia os artigos 169, 193, 199 e 200 da Lei 6.404/1976.
+
+**Este mês**
+
+- Verifique, num cliente, se o saldo das reservas de lucros ultrapassa o capital social.
+
+**Próximos 90 dias**
+
+- Prepare, para um cliente, uma análise de capitalização ou distribuição considerando as regras de 2026.
+
+# Capítulo 26
+
+## Auditoria digital: SPED, cruzamentos e o Fisco que vê tudo
+
+@ILUS 26 | Uma rede de linhas luminosas ligando documentos digitais — os dados que conversam entre si
+
+O salmista escreveu: "Para onde me ausentarei do teu Espírito? Para onde fugirei da tua face? Se subo aos céus, lá estás; se faço a minha cama no mais profundo abismo, lá estás também" (Salmo 139.7-8). Não existe lugar onde o homem se esconda de Deus.
+
+O Fisco não é Deus, e é bom não confundir as coisas. Mas, na era digital, o Estado enxerga muito mais do que enxergava. Cada nota fiscal, cada pagamento com cartão, cada PIX, cada folha de pagamento, cada lançamento contábil está num banco de dados. E os dados conversam entre si. Para o auditor, isso é ao mesmo tempo um alerta e uma ferramenta.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer o SPED e seus principais módulos.
+
+- Conhecer as fontes de informação de terceiros usadas pelo Fisco.
+
+- Compreender como funcionam os cruzamentos eletrônicos e as malhas fiscais.
+
+- Aplicar técnicas de auditoria digital e análise de dados nos próprios trabalhos.
+
+- Organizar a empresa para a coerência entre todas as obrigações.
+
+### Fundamentação bíblica
+
+**Salmo 139.7-8**
+
+> *Para onde fugirei da tua face?*
+
+**Hebreus 4.13**
+
+> *Não há criatura que não seja manifesta na sua presença; pelo contrário, todas as coisas estão descobertas e patentes aos olhos daquele a quem temos de prestar contas.*
+
+O cristão não vive na luz por medo do Fisco digital, mas porque já vive diante de Alguém que vê tudo.
+
+### O SPED
+
+O Sistema Público de Escrituração Digital (Decreto 6.022/2007) unificou a recepção, validação e armazenamento das escriturações e documentos fiscais. Principais módulos:
+
+- **NF-e, NFC-e, CT-e, MDF-e e NFS-e:** documentos fiscais eletrônicos, autorizados em tempo real. A NFS-e de padrão nacional ganha força com a Reforma.
+
+- **ECD (Escrituração Contábil Digital):** o Diário, o Razão e as demonstrações, assinados digitalmente.
+
+- **ECF (Escrituração Contábil Fiscal):** IRPJ, CSLL, e-LALUR e e-LACS, informações econômicas e gerais.
+
+- **EFD ICMS/IPI:** apuração do ICMS e do IPI, com registro de cada documento e do inventário (Bloco H) e, para algumas empresas, do controle de produção e estoque (Bloco K).
+
+- **EFD-Contribuições:** apuração de PIS e COFINS.
+
+- **eSocial:** eventos trabalhistas e previdenciários.
+
+- **EFD-Reinf:** retenções e informações de serviços tomados e prestados e pagamentos a beneficiários.
+
+- **DCTFWeb:** consolidação e confissão de débitos.
+
+### Informações de terceiros
+
+Além do que a própria empresa entrega, o Fisco recebe informações de terceiros, por exemplo:
+
+- **e-Financeira:** movimentações financeiras informadas por bancos e instituições financeiras à Receita Federal.
+
+- **Informações de meios de pagamento:** administradoras de cartão, instituições de pagamento e intermediadores informam às administrações tributárias as operações com cartões, PIX e outros meios (DIMP, nos estados, e declarações federais equivalentes).
+
+- **Notas fiscais de entrada dos clientes:** o que um cliente registra como compra é, do outro lado, uma venda do fornecedor.
+
+- **Declarações das pessoas físicas:** rendimentos e bens declarados pelos sócios.
+
+- **DOI:** operações imobiliárias informadas pelos cartórios.
+
+- **Informações de comércio exterior** e de outros órgãos.
+
+### Os cruzamentos
+
+Com essas fontes, o Fisco faz cruzamentos como:
+
+- Receita declarada na ECF × NF-e emitidas × EFD-Contribuições × EFD ICMS/IPI.
+
+- Vendas declaradas × recebimentos por cartão e PIX.
+
+- Movimentação bancária (e-Financeira) × receita declarada.
+
+- Folha no eSocial × encargos na DCTFWeb × despesas na ECD.
+
+- Retenções na EFD-Reinf do tomador × receitas e retenções declaradas pelo prestador.
+
+- Inventário no Bloco H × estoques no balanço da ECD.
+
+- Distribuição de lucros na ECF × rendimentos isentos na declaração dos sócios.
+
+Divergências relevantes alimentam as **malhas fiscais** da pessoa jurídica, que geram avisos para autorregularização ou seleção para fiscalização. A Receita Federal e as secretarias de Fazenda utilizam cada vez mais ferramentas de análise de dados e inteligência artificial para selecionar contribuintes com maior risco.
+
+### Auditoria digital do lado do auditor
+
+O auditor independente e o auditor interno também podem — e devem — usar os dados digitais:
+
+- **Testes em 100% da população:** em vez de amostrar, analisar todas as notas, todos os lançamentos e todos os pagamentos com ferramentas de análise de dados.
+
+- **Testes de lançamentos contábeis** (exigidos pela NBC TA 240): lançamentos manuais, feitos em fins de semana ou fora do horário, por usuários incomuns, com valores redondos, em contas raramente usadas, próximos ao fechamento.
+
+- **Duplicidades:** notas e pagamentos duplicados.
+
+- **Lacunas de numeração:** notas fiscais faltando na sequência.
+
+- **Lei de Benford:** a distribuição dos primeiros dígitos de grandes conjuntos de números naturais segue um padrão; desvios significativos podem indicar números inventados.
+
+- **Cruzamento entre os próprios arquivos do SPED** do cliente, antes que o Fisco faça.
+
+- **Cadastros:** fornecedores com o mesmo endereço ou conta bancária de empregados; clientes e fornecedores com CNPJ inativo.
+
+A NBC TA 500 e a NBC TA 330 reconhecem o uso de técnicas de auditoria assistidas por computador. E a NBC TA 230 exige que o auditor documente as ferramentas e os dados utilizados.
+
+### Em uma frase
+
+> *No Brasil digital, os dados conversam: SPED, notas eletrônicas, cartões, PIX, bancos e declarações dos sócios se cruzam. O Fisco usa isso para selecionar; o auditor sábio usa antes, para corrigir.*
+
+### Débora monta o laboratório de dados
+
+Depois do caso da Boa Colheita, Elias pediu a Débora que montasse, na Prates & Lima, um pequeno laboratório de auditoria digital. Ela e Thiago criaram rotinas para importar a ECD, a ECF, as EFDs e as notas eletrônicas de cada cliente e rodar, em poucos minutos, os principais cruzamentos.
+
+No primeiro mês, os testes encontraram, em três clientes diferentes, diferenças entre a receita da ECF e as notas emitidas, retenções não informadas na EFD-Reinf e uma distribuição de lucros acima do lucro contábil. Nenhum desses clientes estava sob fiscalização. Todos puderam corrigir as informações antes de qualquer procedimento fiscal.
+
+"O Fisco vê tudo", disse Débora na apresentação aos sócios da firma. "Mas o nosso trabalho é fazer com que o cliente veja primeiro."
+
+### Ferramentas práticas
+
+**Os dez cruzamentos que todo cliente deveria fazer antes do Fisco**
+
+- Receita da ECF × NF-e e NFS-e emitidas.
+
+- Receita declarada × recebimentos por cartão e PIX.
+
+- Créditos bancários × receitas, empréstimos e aportes documentados.
+
+- PIS e COFINS na EFD-Contribuições × receita da ECD.
+
+- ICMS na EFD ICMS/IPI × notas e contabilidade.
+
+- Folha no eSocial × DCTFWeb × ECD.
+
+- Retenções na EFD-Reinf × pagamentos a prestadores.
+
+- Inventário do Bloco H × estoque do balanço.
+
+- Prejuízo fiscal na Parte B × documentação.
+
+- Lucros distribuídos × lucro contábil × declarações dos sócios.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Você vive na luz por medo de ser visto ou porque já sabe que é visto por Deus?
+
+**2.** Como a tecnologia pode tornar a auditoria mais justa e menos onerosa para o cliente honesto?
+
+**3.** Que cruzamento da lista acima a sua empresa ou o seu cliente não resistiria hoje?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia o Salmo 139 e ore agradecendo por ser conhecido por inteiro e amado assim mesmo.
+
+**Esta semana**
+
+- Baixe os arquivos do SPED de um cliente (com autorização) e faça o primeiro cruzamento da lista.
+
+**Este mês**
+
+- Execute os dez cruzamentos num cliente e documente os resultados.
+
+**Próximos 90 dias**
+
+- Aprenda uma ferramenta de análise de dados (planilha avançada, linguagem de programação ou software de auditoria) e automatize pelo menos três cruzamentos.

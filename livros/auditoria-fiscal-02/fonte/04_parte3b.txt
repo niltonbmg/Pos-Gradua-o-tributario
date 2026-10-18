@@ -1,0 +1,781 @@
+# Capítulo 16
+
+## Retenções na fonte, folha de pagamento e encargos
+
+@ILUS 16 | O trabalhador recebendo o salário ao pôr do sol — o pagamento justo e no tempo certo
+
+A Lei de Moisés era clara: "Não oprimirás o jornaleiro pobre e necessitado... No seu dia lhe darás o seu salário, antes que o sol se ponha" (Deuteronômio 24.14-15). E Tiago, séculos depois, advertiu: "Eis que o salário dos trabalhadores que ceifaram os vossos campos, e que por vós foi retido com fraude, clama" (Tiago 5.4).
+
+A folha de pagamento é o lugar onde a empresa honra quem trabalha. E é também o lugar onde ela recolhe tributos que não são seus: o INSS descontado do empregado, o imposto de renda retido, as contribuições retidas de prestadores. Reter e não repassar é das infrações mais graves que existem, porque é apropriar-se de dinheiro alheio.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer as principais retenções na fonte sobre serviços: IRRF, CSRF, INSS e ISS.
+
+- Conhecer os encargos sobre a folha: INSS patronal, RAT/FAP, terceiros e FGTS.
+
+- Contabilizar a folha de pagamento, as retenções e as provisões de férias e 13º salário.
+
+- Conhecer as obrigações acessórias: eSocial, EFD-Reinf e DCTFWeb.
+
+- Compreender a gravidade da apropriação indébita de valores retidos.
+
+### Fundamentação bíblica
+
+**Deuteronômio 24.15**
+
+> *No seu dia lhe darás o seu salário, antes que o sol se ponha.*
+
+**Tiago 5.4**
+
+> *O salário dos trabalhadores... retido com fraude, clama; e os clamores dos ceifeiros penetraram nos ouvidos do Senhor dos Exércitos.*
+
+O dinheiro retido de outros clama. Deus ouve.
+
+### Retenções sobre serviços tomados
+
+Quando uma empresa contrata serviços de outra pessoa jurídica, em muitos casos é obrigada a reter tributos e recolhê-los em nome do prestador:
+
+- **IRRF de 1,5%** sobre serviços profissionais (RIR/2018, art. 714), e **1%** sobre serviços de limpeza, conservação, segurança e locação de mão de obra (art. 716).
+
+- **CSRF de 4,65%** (CSLL 1% + PIS 0,65% + COFINS 3%) sobre serviços de limpeza, conservação, manutenção, segurança, vigilância, transporte de valores, locação de mão de obra, assessoria creditícia e mercadológica, gestão de crédito e serviços profissionais (Lei 10.833/2003, art. 30). Há dispensa para pagamentos de pequeno valor e para prestadores do Simples Nacional.
+
+- **INSS de 11%** sobre o valor bruto da nota nos serviços prestados mediante cessão de mão de obra ou empreitada (Lei 8.212/1991, art. 31).
+
+- **ISS retido** quando a lei municipal ou a LC 116/2003, art. 6º, atribuir responsabilidade ao tomador.
+
+Exemplo: serviço de limpeza de R$ 10.000.
+
+- IRRF 1%: R$ 100.
+
+- CSRF 4,65%: R$ 465.
+
+- INSS 11%: R$ 1.100.
+
+- ISS 5% (se o município exigir retenção): R$ 500.
+
+- Valor líquido a pagar: R$ 7.835.
+
+Lançamento no tomador:
+
+- D — Despesa com serviços de limpeza: R$ 10.000
+
+- C — IRRF a recolher: R$ 100
+
+- C — CSRF a recolher: R$ 465
+
+- C — INSS retido a recolher: R$ 1.100
+
+- C — ISS retido a recolher: R$ 500
+
+- C — Fornecedores (ou Bancos): R$ 7.835
+
+### Encargos sobre a folha
+
+Sobre a remuneração dos empregados, a empresa (fora do Simples e da desoneração) recolhe:
+
+- **INSS patronal:** 20% sobre a folha.
+
+- **RAT (Risco Ambiental do Trabalho):** 1%, 2% ou 3%, conforme o grau de risco da atividade, ajustado pelo **FAP** (Fator Acidentário de Prevenção), que varia de 0,5 a 2,0.
+
+- **Terceiros (Sistema S, salário-educação, INCRA):** em geral cerca de 5,8%, conforme o código FPAS.
+
+- **FGTS:** 8% depositado na conta vinculada do empregado.
+
+Do empregado, a empresa **desconta** o INSS (alíquotas progressivas, de 7,5% a 14%, até o teto) e o **IRRF** (tabela progressiva), e recolhe.
+
+### Contabilização da folha
+
+Folha de salários de R$ 100.000, INSS do empregado descontado R$ 11.000, IRRF descontado R$ 6.000:
+
+- D — Despesa com salários: R$ 100.000
+
+- C — INSS a recolher (parte do empregado): R$ 11.000
+
+- C — IRRF a recolher: R$ 6.000
+
+- C — Salários a pagar: R$ 83.000
+
+Encargos patronais (20% + RAT 2% + terceiros 5,8% = 27,8%; FGTS 8%):
+
+- D — Despesa com INSS patronal: R$ 27.800 / C — INSS a recolher: R$ 27.800
+
+- D — Despesa com FGTS: R$ 8.000 / C — FGTS a recolher: R$ 8.000
+
+**Provisões mensais de férias e 13º:** a cada mês, provisiona-se 1/12 do 13º e 1/12 das férias mais o terço constitucional, com os respectivos encargos. Essas provisões são dedutíveis no Lucro Real (RIR/2018, arts. 342 e 343), ao contrário das provisões em geral.
+
+### Obrigações acessórias
+
+- **eSocial:** informações trabalhistas, previdenciárias e fiscais da folha.
+
+- **EFD-Reinf:** retenções e informações não ligadas à folha (serviços tomados com retenção, pagamentos a beneficiários). A partir de 2025, substituiu a DIRF.
+
+- **DCTFWeb:** declaração que consolida os débitos de contribuições previdenciárias e, progressivamente, de outros tributos, a partir do eSocial e da EFD-Reinf. Constitui o crédito tributário (confissão de dívida).
+
+### Apropriação indébita
+
+Descontar a contribuição do empregado ou reter tributo de terceiro e **não recolher** no prazo é crime: apropriação indébita previdenciária (Código Penal, art. 168-A) e, para os demais tributos retidos, crime contra a ordem tributária (Lei 8.137/1990, art. 2º, II). O STF decidiu que até o não recolhimento de ICMS próprio declarado, de forma contumaz e com dolo de apropriação, pode configurar crime (RHC 163.334). O dinheiro retido não é da empresa. É de César e é do trabalhador.
+
+### Em uma frase
+
+> *Na fonte, a empresa retém o que é de outros: IRRF, CSRF, INSS e ISS. Na folha, paga o que é seu: INSS patronal, RAT, terceiros e FGTS. Reter e não repassar é apropriação de dinheiro alheio.*
+
+### Débora e as notas de consultoria
+
+Ao testar as retenções da Boa Colheita, Thiago encontrou pagamentos mensais de R$ 80 mil a uma "consultoria comercial", sem retenção de IRRF e CSRF. A consultoria pertencia à esposa do sócio majoritário, e o contrato não descrevia nenhum serviço específico.
+
+Débora identificou dois problemas: a falta de retenção, que gera responsabilidade da Boa Colheita pelo imposto não retido, e o risco de a despesa ser considerada **não necessária** ou até **distribuição disfarçada de lucros**. Anotou: "Pedir comprovação da efetiva prestação do serviço".
+
+### Ferramentas práticas
+
+**Checklist de retenções e folha**
+
+- Todos os serviços tomados foram classificados quanto às retenções devidas?
+
+- As retenções foram recolhidas no prazo e informadas na EFD-Reinf?
+
+- Os encargos da folha conferem com o eSocial e a DCTFWeb?
+
+- O FAP aplicado é o publicado para o ano?
+
+- As provisões de férias e 13º estão conciliadas?
+
+- Há pagamentos a partes relacionadas sem comprovação do serviço?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Na sua empresa, os salários e as retenções são pagos "antes que o sol se ponha"?
+
+**2.** Por que reter e não repassar é moralmente mais grave do que simplesmente não pagar um tributo próprio?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Deuteronômio 24.14-15 e Tiago 5.1-6. Ore pelos trabalhadores da empresa onde você atua.
+
+**Esta semana**
+
+- Refaça o exemplo de retenção sobre serviços de limpeza.
+
+**Este mês**
+
+- Aplique o checklist de retenções e folha num cliente.
+
+**Próximos 90 dias**
+
+- Concilie, para doze meses, a folha contábil com o eSocial e a DCTFWeb.
+
+# Capítulo 17
+
+## Tributos diferidos e contingências tributárias
+
+@ILUS 17 | Um semeador que planta hoje para colher em outra estação — o efeito tributário no tempo
+
+"Lança o teu pão sobre as águas, porque depois de muitos dias o acharás" (Eclesiastes 11.1). Há coisas que fazemos hoje e cujo efeito só aparece muito depois.
+
+Na contabilidade tributária, isso tem nome: tributo diferido. Quando uma despesa é reconhecida hoje pela contabilidade, mas só será dedutível no futuro, nasce um direito de pagar menos imposto depois. Quando uma receita é reconhecida hoje, mas só será tributada no futuro, nasce uma obrigação de pagar mais depois. E há também os tributos que a empresa discute e talvez tenha de pagar: as contingências.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Distinguir diferenças temporárias e permanentes.
+
+- Reconhecer ativos e passivos fiscais diferidos (CPC 32).
+
+- Conhecer o tratamento das incertezas sobre tributos sobre o lucro (ICPC 22).
+
+- Classificar e contabilizar contingências tributárias (CPC 25).
+
+- Conhecer os efeitos da decisão do STF sobre coisa julgada em matéria tributária.
+
+### Fundamentação bíblica
+
+**Eclesiastes 11.1**
+
+> *Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.*
+
+**Lucas 14.28**
+
+> *Assenta-se primeiro a calcular a despesa.*
+
+A boa gestão tributária calcula não só o imposto de hoje, mas o efeito tributário que as decisões de hoje terão amanhã.
+
+### Diferenças permanentes e temporárias
+
+- **Permanentes:** nunca serão revertidas. Ex.: multas punitivas (adicionadas e nunca excluídas), dividendos recebidos (excluídos e nunca tributados), brindes. Não geram tributo diferido.
+
+- **Temporárias:** serão revertidas no futuro. Ex.: provisão para contingências adicionada hoje e excluída quando paga; depreciação contábil diferente da fiscal; perdas estimadas de clientes. Geram tributo diferido.
+
+### Ativo e passivo fiscal diferido
+
+**Ativo fiscal diferido:** nasce quando a empresa paga mais imposto hoje do que pagaria pela contabilidade, e pagará menos no futuro. Exemplo: provisão para contingências de R$ 100.000, adicionada no LALUR. Com alíquota combinada de 34% (IRPJ 25% + CSLL 9%):
+
+- D — IRPJ e CSLL diferidos (ativo não circulante): R$ 34.000
+
+- C — Despesa (receita) de IRPJ e CSLL diferidos (resultado): R$ 34.000
+
+O CPC 32 exige que o ativo diferido só seja reconhecido se for **provável** a existência de lucro tributável futuro suficiente para utilizá-lo. Também se reconhece ativo diferido sobre **prejuízo fiscal** e base negativa, nas mesmas condições — lembrando a trava de 30%.
+
+**Passivo fiscal diferido:** nasce quando a empresa paga menos hoje e pagará mais no futuro. Exemplo: depreciação acelerada incentivada excluída no LALUR hoje, que será adicionada nos próximos anos.
+
+### Incerteza sobre tratamento de tributos sobre o lucro
+
+A ICPC 22 trata de situações em que não está claro se a autoridade fiscal aceitará um tratamento tributário adotado pela empresa. A entidade deve presumir que a autoridade examinará o tratamento com pleno conhecimento das informações e, se concluir que **não é provável** que ele seja aceito, deve refletir a incerteza na mensuração do IRPJ e da CSLL — pelo valor mais provável ou pelo valor esperado.
+
+### Contingências tributárias
+
+Aplicam-se as regras do CPC 25 (capítulo 5):
+
+- **Perda provável:** provisionar o tributo, a multa e os juros, e divulgar.
+
+- **Perda possível:** apenas divulgar, com a natureza e o valor estimado.
+
+- **Perda remota:** não provisionar nem divulgar.
+
+Exemplo de provisão para contingência de PIS e COFINS em discussão judicial, com perda provável:
+
+- D — Despesa com contingências tributárias: R$ 500.000
+
+- C — Provisão para contingências tributárias (passivo): R$ 500.000
+
+Se houver **depósito judicial**, ele é registrado no ativo e não compensa automaticamente a provisão no balanço, salvo quando atendidos os critérios de compensação.
+
+Fiscalmente, a provisão não é dedutível até a decisão definitiva (adição no LALUR), mas os tributos com exigibilidade suspensa que forem contabilizados como despesa também não são dedutíveis enquanto suspensos (Lei 8.981/1995, art. 41, § 1º).
+
+### Coisa julgada e o Tema 881
+
+Em 2023, o STF decidiu (Temas 881 e 885) que uma decisão judicial definitiva que dispensou o contribuinte de pagar um tributo de relação continuada **perde seus efeitos automaticamente** quando o próprio STF decidir em sentido contrário em controle concentrado ou repercussão geral, respeitadas as regras de anterioridade. Isso afetou empresas que deixaram de pagar CSLL com base em decisões antigas. O auditor deve verificar se o cliente se apoia em decisões judiciais que podem ter sido superadas.
+
+### Em uma frase
+
+> *Diferença permanente não gera diferido; temporária gera. Ativo diferido só com lucro futuro provável. Contingência provável se provisiona, possível se divulga, remota se ignora. E coisa julgada tributária pode cair com nova decisão do STF.*
+
+### Débora e a provisão que faltava
+
+Diante de tudo o que tinha encontrado, Débora fez uma estimativa preliminar do risco tributário da Boa Colheita, caso a omissão de receitas fosse confirmada: R$ 48 milhões entre tributos, multas e juros. A empresa não tinha nenhuma provisão.
+
+Elias explicou que, para a contabilidade, a avaliação dependia da probabilidade de perda, e que essa probabilidade dependia de uma pergunta ainda sem resposta: houve, de fato, omissão de receitas? "Não podemos provisionar uma suspeita", disse ele. "Mas também não podemos assinar um balanço sem resolver essa dúvida. Vamos pedir uma reunião com os sócios."
+
+### Ferramentas práticas
+
+**Revisão de diferidos e contingências**
+
+- Listar todas as diferenças temporárias da Parte B do LALUR.
+
+- Conferir o cálculo do ativo e do passivo diferido.
+
+- Avaliar a recuperabilidade do ativo diferido com projeções de lucro.
+
+- Obter carta dos advogados com a classificação de cada processo tributário.
+
+- Verificar decisões judiciais que sustentam a falta de pagamento de algum tributo.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Que decisões tributárias de hoje terão efeito na sua empresa daqui a cinco anos?
+
+**2.** Por que a contabilidade não pode provisionar uma suspeita, mas o auditor também não pode ignorá-la?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o cálculo do ativo diferido sobre a provisão de R$ 100.000.
+
+**Esta semana**
+
+- Leia o CPC 32 (itens de reconhecimento) e a ICPC 22.
+
+**Este mês**
+
+- Aplique a revisão de diferidos e contingências num cliente.
+
+**Próximos 90 dias**
+
+- Faça um levantamento das decisões judiciais tributárias de um cliente e verifique se foram afetadas pelos Temas 881 e 885.
+
+# Capítulo 18
+
+## Lucros, dividendos, JCP e subvenções
+
+@ILUS 18 | O lavrador recebendo o primeiro fruto da colheita — a remuneração justa de quem investiu
+
+"O lavrador que trabalha deve ser o primeiro a participar dos frutos" (2 Timóteo 2.6). Paulo reconhecia que quem investe esforço tem direito ao fruto. O sócio que coloca capital numa empresa também tem.
+
+A forma como esse fruto chega ao sócio tem consequências tributárias enormes. Dividendos, juros sobre capital próprio, pró-labore, cada caminho tem um custo diferente. E, do outro lado, o governo também transfere recursos às empresas por meio de subvenções e incentivos, que têm tratamento tributário próprio. Este capítulo trata dessas duas mãos.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer o tratamento tributário dos lucros e dividendos, inclusive as mudanças a partir de 2026.
+
+- Calcular e contabilizar juros sobre capital próprio (JCP).
+
+- Distinguir pró-labore e distribuição de lucros.
+
+- Conhecer o regime das subvenções para investimento após a Lei 14.789/2023.
+
+### Fundamentação bíblica
+
+**2 Timóteo 2.6**
+
+> *O lavrador que trabalha deve ser o primeiro a participar dos frutos.*
+
+**1 Timóteo 5.18**
+
+> *Digno é o trabalhador do seu salário.*
+
+Remunerar o sócio é justo. Disfarçar a remuneração para fugir do tributo não é.
+
+### Lucros e dividendos
+
+Desde 1996, os lucros e dividendos distribuídos por empresas brasileiras são **isentos** do imposto de renda para o sócio (Lei 9.249/1995, art. 10), desde que calculados a partir de resultados apurados.
+
+A partir de 2026, a **Lei 15.270/2025** alterou esse cenário: instituiu retenção na fonte sobre lucros e dividendos pagos por uma mesma empresa a uma mesma pessoa física acima de determinado valor mensal e criou uma tributação mínima anual para contribuintes de alta renda, com mecanismos para evitar que a soma da tributação da empresa e do sócio ultrapasse certos limites. Como se trata de regra nova, com regulamentação em andamento, confira os valores, alíquotas e regras de transição vigentes antes de qualquer planejamento.
+
+Pontos de atenção do auditor:
+
+- Distribuição sem lucro apurado, ou acima dele, perde a isenção e pode ser tratada como rendimento tributável.
+
+- Distribuição desproporcional à participação no capital deve estar prevista no contrato social e aprovada.
+
+- No Lucro Presumido, pode-se distribuir isento o lucro presumido menos os tributos (IRPJ, CSLL, PIS, COFINS) ou, se houver escrituração contábil, o lucro contábil efetivo, se maior.
+
+### Pró-labore
+
+É a remuneração do sócio que trabalha na empresa. É **dedutível** para a empresa e **tributável** para o sócio, com INSS (11% do sócio e 20% da empresa) e IRRF pela tabela progressiva. Sócio que trabalha e não recebe pró-labore, recebendo apenas dividendos, pode ter parte da distribuição requalificada como remuneração pela fiscalização previdenciária.
+
+### Juros sobre capital próprio (JCP)
+
+É uma forma de remunerar o capital investido pelos sócios que é **dedutível** do IRPJ e da CSLL para a empresa no Lucro Real (Lei 9.249/1995, art. 9º).
+
+**Cálculo:** aplica-se a **TJLP** sobre determinadas contas do patrimônio líquido. A Lei 14.789/2023 restringiu a base, considerando apenas capital integralizado, reservas de capital, reservas de lucros, ações em tesouraria e prejuízos acumulados, e excluindo variações que não decorram de efetivo ingresso de recursos.
+
+**Limite de dedutibilidade:** o maior entre 50% do lucro líquido do exercício (antes do IR e após a CSLL e antes do próprio JCP) e 50% dos lucros acumulados e reservas de lucros.
+
+**Tributação para o beneficiário:** retenção de IRRF na fonte de 15%, definitiva para pessoa física e antecipação para pessoa jurídica no Lucro Real. Propostas recentes alteraram ou tentaram alterar essa alíquota; confira a regra vigente.
+
+Exemplo: PL ajustado de R$ 20 milhões, TJLP de 7% ao ano.
+
+- JCP calculado: R$ 1.400.000.
+
+- Lucro líquido antes do JCP e do IR: R$ 6.000.000; 50% = R$ 3.000.000. Limite respeitado.
+
+- Economia para a empresa: 34% × 1.400.000 = R$ 476.000.
+
+- IRRF para o sócio: 15% × 1.400.000 = R$ 210.000.
+
+- Ganho líquido do grupo: R$ 266.000.
+
+Lançamentos:
+
+- D — Despesa financeira de JCP: R$ 1.400.000 / C — JCP a pagar: R$ 1.190.000 / C — IRRF a recolher: R$ 210.000
+
+Para fins societários, o CPC recomenda apresentar o JCP como distribuição no PL; o registro como despesa é feito para fins fiscais e revertido na apresentação.
+
+### Subvenções e incentivos fiscais
+
+Durante anos, as empresas excluíam do lucro real as subvenções para investimento, inclusive os benefícios de ICMS concedidos pelos estados (LC 160/2017 e antigo art. 30 da Lei 12.973/2014). A **Lei 14.789/2023** mudou esse regime a partir de 2024:
+
+- As subvenções passaram a ser **tributáveis** pelo IRPJ, CSLL, PIS e COFINS.
+
+- Em contrapartida, criou-se um **crédito fiscal de 25%** (alíquota de IRPJ) sobre as receitas de subvenção vinculadas à **implantação ou expansão** de empreendimento econômico, mediante habilitação na Receita Federal e cumprimento de requisitos.
+
+- As subvenções devem ser registradas em reserva de incentivos fiscais.
+
+Com a Reforma Tributária, os benefícios de ICMS terão de ser gradualmente extintos até 2032, com um fundo de compensação para as empresas beneficiadas.
+
+### Em uma frase
+
+> *Dividendo é fruto do lucro, isento até 2025 e agora sujeito a novas regras para altas rendas; pró-labore é remuneração do trabalho; JCP é remuneração do capital, dedutível dentro dos limites; e subvenção, desde 2024, é tributável com crédito para quem investe.*
+
+### Débora e a reunião com os sócios
+
+A reunião com os sócios da Boa Colheita foi tensa. Débora apresentou os achados de forma organizada: margem bruta muito abaixo do setor, diferença de inventário sem documentação, fornecedores já pagos mantidos no passivo, caixa sem origem, distribuição de lucros acima do lucro, consultoria sem comprovação e caminhonete vendida abaixo do mercado.
+
+O sócio majoritário, senhor Jairo, ouviu calado. O filho dele, diretor financeiro, reagiu mal: "Vocês são auditores ou fiscais?". Elias respondeu com tranquilidade: "Somos as pessoas que o senhor contratou para dizer a verdade antes que o Fisco diga. Preferimos que o senhor ouça de nós".
+
+O senhor Jairo pediu uma semana para pensar. Débora foi para casa e orou por ele.
+
+### Ferramentas práticas
+
+**Checklist de remuneração dos sócios**
+
+- O pró-labore é compatível com o trabalho do sócio?
+
+- A distribuição de lucros está dentro do lucro apurado e documentada em ata?
+
+- O JCP foi calculado com a base e os limites atuais?
+
+- O IRRF sobre JCP e, quando aplicável, sobre dividendos foi retido e recolhido?
+
+- As subvenções foram tratadas conforme a Lei 14.789/2023?
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Como você remunera o seu próprio trabalho e o seu capital na empresa? É transparente?
+
+**2.** Por que usar o JCP dentro da lei é planejamento legítimo, mas disfarçar salário de dividendo não é?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Refaça o cálculo do JCP deste capítulo.
+
+**Esta semana**
+
+- Leia os artigos 9º e 10 da Lei 9.249/1995 e o resumo da Lei 15.270/2025.
+
+**Este mês**
+
+- Aplique o checklist de remuneração dos sócios num cliente.
+
+**Próximos 90 dias**
+
+- Simule, para um cliente do Lucro Real, a economia com JCP considerando as regras vigentes.
+
+# Capítulo 19
+
+## A Reforma Tributária: CBS, IBS, IS e sua contabilização
+
+@ILUS 19 | Os muros de Jerusalém sendo reconstruídos pedra por pedra — a transição de um sistema para outro
+
+Os muros de Jerusalém não foram reconstruídos num dia. Neemias organizou o trabalho por trechos, cada família cuidando da sua parte, com uma mão na obra e outra na arma (Neemias 4.17). A reconstrução foi feita enquanto a cidade continuava funcionando.
+
+A Reforma Tributária brasileira é assim. O novo sistema está sendo construído enquanto o antigo continua de pé. De 2026 a 2033, as empresas vão conviver com dois sistemas ao mesmo tempo. E o auditor precisa conhecer os dois.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Conhecer os novos tributos: CBS, IBS e Imposto Seletivo.
+
+- Conhecer o cronograma de transição de 2026 a 2033.
+
+- Compreender os princípios do novo sistema: não cumulatividade plena, cobrança no destino e cobrança "por fora".
+
+- Conhecer o mecanismo do split payment.
+
+- Contabilizar operações com CBS e IBS.
+
+### Fundamentação bíblica
+
+**Neemias 4.17**
+
+> *Com uma das mãos faziam a obra e com a outra seguravam as armas.*
+
+**Isaías 43.19**
+
+> *Eis que faço coisa nova; agora sairá à luz; porventura não a percebeis?*
+
+O tempo de transição exige atenção dupla: manter o que funciona e aprender o novo.
+
+### Os novos tributos
+
+A Emenda Constitucional 132/2023 e a Lei Complementar 214/2025 criaram:
+
+- **CBS (Contribuição sobre Bens e Serviços):** federal, substitui PIS e COFINS.
+
+- **IBS (Imposto sobre Bens e Serviços):** de competência compartilhada entre estados e municípios, administrado por um Comitê Gestor, substitui ICMS e ISS.
+
+- **IS (Imposto Seletivo):** federal, incide sobre bens e serviços prejudiciais à saúde ou ao meio ambiente (como tabaco, bebidas alcoólicas, bebidas açucaradas, veículos poluentes e extração de minerais).
+
+CBS e IBS formam o chamado **IVA dual**.
+
+### O cronograma de transição
+
+- **2026:** ano de teste. CBS de 0,9% e IBS de 0,1%, destacados em documento fiscal, compensáveis com PIS e COFINS (ou restituíveis), com dispensa de recolhimento para quem cumprir as obrigações acessórias.
+
+- **2027:** PIS e COFINS são extintos. A CBS passa a ser cobrada com alíquota cheia. O IS começa a ser cobrado. O IPI tem alíquota zerada, exceto para produtos com industrialização incentivada na Zona Franca de Manaus.
+
+- **2027 e 2028:** IBS com alíquota de teste (0,05% estadual e 0,05% municipal).
+
+- **2029 a 2032:** redução gradual de ICMS e ISS (para 90%, 80%, 70% e 60% das alíquotas) e aumento proporcional do IBS.
+
+- **2033:** ICMS e ISS extintos. Sistema novo em funcionamento pleno.
+
+### Os princípios do novo sistema
+
+- **Base ampla:** incide sobre operações com bens materiais, imateriais e serviços.
+
+- **Não cumulatividade plena:** direito a crédito de tudo o que for adquirido, exceto bens e serviços de uso e consumo pessoal, com crédito condicionado, em regra, à extinção (pagamento) do tributo na etapa anterior.
+
+- **Cobrança no destino:** o tributo pertence ao local de consumo, não ao de origem.
+
+- **Cobrança "por fora":** CBS e IBS não integram sua própria base de cálculo nem a de outros tributos, e não compõem o preço para fins de cálculo um do outro.
+
+- **Alíquota de referência:** cada ente fixa sua alíquota; a soma estimada de CBS e IBS gira em torno de 26% a 28%, com reduções de 30%, 60% ou 100% para setores específicos (saúde, educação, cesta básica, entre outros) e regimes específicos (combustíveis, serviços financeiros, operações imobiliárias, entre outros).
+
+- **Cashback:** devolução de parte do tributo às famílias de baixa renda.
+
+### Split payment
+
+O **pagamento dividido** é um mecanismo em que, no momento do pagamento eletrônico (cartão, PIX, boleto), o valor da CBS e do IBS é separado automaticamente e enviado ao Fisco, enquanto o restante vai para o vendedor. Será implementado de forma gradual. Para o auditor, significa que o Fisco saberá, em tempo real, quanto cada empresa vendeu por meios eletrônicos.
+
+### Contabilização
+
+Como CBS e IBS são cobrados por fora e geram crédito pleno, sua contabilização se parece com a do IPI e do ICMS recuperável:
+
+Venda de R$ 10.000 (valor da operação, sem os tributos), CBS de 8,8% e IBS de 17,7% (alíquotas ilustrativas):
+
+- CBS: R$ 880. IBS: R$ 1.770. Total cobrado do cliente: R$ 12.650.
+
+- D — Clientes: R$ 12.650
+
+- C — Receita de vendas: R$ 10.000
+
+- C — CBS a recolher: R$ 880
+
+- C — IBS a recolher: R$ 1.770
+
+Na compra de insumos de R$ 5.000 com os mesmos tributos:
+
+- D — Estoque: R$ 5.000
+
+- D — CBS a recuperar: R$ 440
+
+- D — IBS a recuperar: R$ 885
+
+- C — Fornecedores: R$ 6.325
+
+A forma de apresentação da receita bruta e das deduções na DRE durante a transição deve seguir as orientações dos órgãos contábeis, que ainda estão sendo consolidadas. Confira as orientações técnicas vigentes do CFC e do CPC.
+
+### O que muda para o auditor
+
+- Mais dados em tempo real para o Fisco, menos espaço para omissão de receitas.
+
+- Créditos condicionados ao pagamento na etapa anterior: o auditor precisará verificar a situação dos fornecedores.
+
+- Benefícios fiscais de ICMS sendo extintos: impactos em margens e em subvenções.
+
+- Necessidade de revisar contratos de longo prazo para tratar o reequilíbrio do preço com a mudança dos tributos.
+
+- Precificação: como o tributo passa a ser destacado por fora, a política de preços precisa ser revista com integridade, sem aproveitar a transição para enganar o cliente.
+
+### Em uma frase
+
+> *CBS, IBS e IS substituem PIS, COFINS, ICMS, ISS e boa parte do IPI entre 2026 e 2033: tributos por fora, com crédito pleno, cobrança no destino e split payment. Dois sistemas convivem; o auditor precisa dominar os dois.*
+
+### Débora e o comitê da Reforma
+
+A Prates & Lima criou um comitê interno para estudar a Reforma, e Elias convidou Débora para participar. Na primeira reunião, ela levantou um ponto que ninguém tinha pensado: "Com o split payment, as vendas no cartão e no PIX vão ser vistas pelo Fisco na hora. Empresas que vendem sem nota vão ser descobertas muito rápido".
+
+Elias assentiu: "A Reforma não muda só a alíquota. Muda o quanto o Estado enxerga. Quem tem algo escondido tem pouco tempo para colocar na luz".
+
+### Ferramentas práticas
+
+**Plano de preparação para a Reforma (para o cliente)**
+
+- Mapear todos os produtos e serviços e suas alíquotas no novo sistema.
+
+- Revisar o cadastro de fornecedores e a regularidade deles.
+
+- Adaptar sistemas de emissão de notas e de escrituração.
+
+- Revisar contratos de longo prazo e cláusulas de reequilíbrio.
+
+- Simular o impacto na margem e no fluxo de caixa ano a ano até 2033.
+
+- Revisar benefícios fiscais de ICMS e seu cronograma de extinção.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Como a transição tributária pode ser uma oportunidade de colocar a empresa "na luz"?
+
+**2.** Que tentação de precificação desonesta a Reforma pode trazer? Como resistir?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia o resumo da EC 132/2023 e anote o cronograma no seu caderno.
+
+**Esta semana**
+
+- Refaça os lançamentos de venda e compra com CBS e IBS.
+
+**Este mês**
+
+- Aplique o plano de preparação para a Reforma num cliente.
+
+**Próximos 90 dias**
+
+- Acompanhe a regulamentação da LC 214/2025 e as orientações contábeis e mantenha um resumo atualizado.
+
+# Capítulo 20
+
+## O procedimento fiscal: da intimação ao CARF
+
+@ILUS 20 | Paulo diante do tribunal de Festo, apelando para César — o direito de defesa
+
+Quando Paulo foi acusado diante do governador Festo, não aceitou ser julgado de forma injusta. Disse: "Estou perante o tribunal de César, onde devo ser julgado... Apelo para César" (Atos 25.10-11). Paulo conhecia seus direitos e os usou com respeito. Não fugiu da autoridade, mas também não abriu mão da defesa.
+
+O procedimento fiscal é o caminho pelo qual o Fisco verifica, cobra e julga. O contribuinte tem deveres — apresentar documentos, prestar informações —, mas também tem direitos: ser intimado, ter prazo, impugnar e recorrer. O auditor precisa conhecer esse caminho para preparar o cliente e para avaliar os riscos dos processos em andamento.
+
+### Objetivos deste capítulo
+
+Ao concluir este capítulo, você deverá ser capaz de:
+
+- Descrever as etapas da fiscalização federal: TDPF, intimações e auto de infração.
+
+- Conhecer as multas de ofício e suas reduções.
+
+- Descrever o processo administrativo fiscal: impugnação, DRJ, CARF e CSRF.
+
+- Conhecer os crimes contra a ordem tributária e a representação fiscal para fins penais.
+
+- Conhecer alternativas de regularização: parcelamento, transação e autorregularização.
+
+### Fundamentação bíblica
+
+**Atos 25.10-11**
+
+> *Estou perante o tribunal de César... Apelo para César.*
+
+**Mateus 5.25**
+
+> *Entra em acordo sem demora com o teu adversário, enquanto estás com ele a caminho.*
+
+Jesus também ensinou o valor do acordo antes do julgamento. Defender-se é direito; reconhecer o erro e resolver cedo é sabedoria.
+
+### O início da fiscalização
+
+Na Receita Federal, a fiscalização começa com o **Termo de Distribuição do Procedimento Fiscal (TDPF)**, que identifica o contribuinte, o tributo, o período e o auditor-fiscal responsável. O contribuinte pode verificar a autenticidade no site da Receita.
+
+O início do procedimento fiscal **exclui a espontaneidade** do contribuinte em relação aos tributos e períodos fiscalizados (CTN, art. 138, parágrafo único; Decreto 70.235/1972, art. 7º, § 1º). Ou seja, a partir daí não cabe mais denúncia espontânea sobre aquilo. A espontaneidade é readquirida se a fiscalização ficar 60 dias sem nenhum ato escrito que dê prosseguimento aos trabalhos (art. 7º, § 2º).
+
+Depois vêm as **intimações**, que pedem documentos, livros, arquivos digitais e esclarecimentos, com prazo para atendimento. Ao fim, se houver infração, a autoridade lavra o **auto de infração**, que deve conter a descrição dos fatos, o enquadramento legal, a exigência e a intimação para pagar ou impugnar em 30 dias (Decreto 70.235/1972, art. 10).
+
+### Multas de ofício
+
+Na esfera federal (Lei 9.430/1996, art. 44):
+
+- **Multa de ofício básica:** 75% sobre o tributo não pago ou não declarado.
+
+- **Multa qualificada:** quando houver sonegação, fraude ou conluio (Lei 4.502/1964, arts. 71 a 73). A Lei 14.689/2023 reduziu a multa qualificada para **100%**, elevando-a para **150%** em caso de reincidência.
+
+- **Agravamento:** acréscimo de metade quando o contribuinte não atende às intimações para prestar esclarecimentos ou apresentar arquivos e documentos.
+
+- **Multa isolada:** 50% sobre estimativas mensais não pagas, entre outras hipóteses.
+
+**Reduções** (Lei 8.218/1991, art. 6º): pagamento em até 30 dias da ciência do auto reduz a multa de ofício em 50%; parcelamento nesse prazo, em 40%; reduções menores nas fases seguintes.
+
+### O processo administrativo fiscal
+
+Regido pelo Decreto 70.235/1972:
+
+- **Impugnação:** em até 30 dias da ciência do auto, dirigida à **DRJ** (Delegacia de Julgamento da Receita Federal). Suspende a exigibilidade do crédito.
+
+- **Recurso voluntário:** contra a decisão da DRJ, em 30 dias, ao **CARF** (Conselho Administrativo de Recursos Fiscais), órgão paritário com representantes da Fazenda e dos contribuintes.
+
+- **Recurso especial:** à **Câmara Superior de Recursos Fiscais (CSRF)**, em caso de divergência de interpretação entre turmas.
+
+- **Voto de qualidade:** a Lei 14.689/2023 restabeleceu o voto de qualidade do presidente (representante da Fazenda) em caso de empate, mas determinou que, nesse caso, sejam excluídas as multas e cancelada a representação fiscal para fins penais, entre outros benefícios ao contribuinte.
+
+Processos de pequeno valor seguem rito simplificado.
+
+Encerrada a fase administrativa com decisão desfavorável, o crédito é definitivamente constituído e, não pago, inscrito em dívida ativa pela PGFN, que pode ajuizar execução fiscal. O contribuinte ainda pode discutir no Judiciário.
+
+### Crimes contra a ordem tributária
+
+A Lei 8.137/1990 define como crime, entre outros:
+
+- **Art. 1º:** suprimir ou reduzir tributo mediante omissão de informação ou declaração falsa, fraude à fiscalização com inserção de elementos inexatos ou omissão de operações em livros, falsificação de documentos, emissão de nota fiscal falsa ou falta de fornecimento de nota. Pena de reclusão de 2 a 5 anos e multa.
+
+- **Art. 2º:** declarações falsas, deixar de recolher tributo descontado ou cobrado na qualidade de sujeito passivo, entre outros. Pena de detenção de 6 meses a 2 anos e multa.
+
+Pela **Súmula Vinculante 24** do STF, os crimes materiais do art. 1º só se tipificam após o **lançamento definitivo** do tributo. Por isso, quando há multa qualificada, a Receita encaminha ao Ministério Público uma **representação fiscal para fins penais**, que, em regra, só é enviada após a decisão final na esfera administrativa.
+
+O pagamento integral do tributo, inclusive acessórios, extingue a punibilidade desses crimes, conforme a jurisprudência e a legislação aplicáveis.
+
+### Caminhos de regularização
+
+- **Denúncia espontânea** (CTN, art. 138): antes do início da fiscalização sobre aquele tributo e período.
+
+- **Autorregularização:** a Receita Federal tem promovido programas e avisos prévios (como malhas e alertas) que permitem corrigir declarações antes do auto de infração, com redução de multas.
+
+- **Parcelamento:** ordinário (até 60 meses) e programas especiais.
+
+- **Transação tributária** (Lei 13.988/2020): acordo com a PGFN ou a Receita, com descontos e prazos maiores, conforme a capacidade de pagamento e o grau de recuperabilidade do crédito.
+
+### Em uma frase
+
+> *A fiscalização começa com o TDPF, que tira a espontaneidade; termina no auto de infração, com multa de 75% ou, se houver fraude, 100%. O contribuinte impugna na DRJ, recorre ao CARF e pode chegar à CSRF. E, entre o erro e o crime, a diferença é a fraude.*
+
+### Débora e a carta da Receita
+
+Na segunda-feira seguinte à reunião, antes da resposta do senhor Jairo, chegou à Boa Colheita um TDPF. A Receita Federal ia fiscalizar o IRPJ e a CSLL de 2023. O motivo, descobriu-se depois, era um cruzamento: as vendas informadas pelas administradoras de cartão e as movimentações bancárias eram muito maiores do que a receita declarada.
+
+O senhor Jairo ligou para Elias naquela tarde. Sua voz estava diferente. "Elias, eu errei. Meu filho começou a vender sem nota para os mercadinhos há quatro anos. Eu sabia e fingi que não sabia. O dinheiro entrava como empréstimo de sócio e pagava fornecedor por fora. O que eu faço agora?"
+
+Elias respondeu: "Agora, o senhor faz a coisa certa, do jeito certo. Vamos estudar o que ainda pode ser denunciado espontaneamente, o que já está sob fiscalização e como enfrentar tudo com verdade". Depois desligou e chamou Débora. "Você estava certa. E agora você vai aprender o capítulo mais difícil da auditoria fiscal: omissão de receitas."
+
+### Ferramentas práticas
+
+**Roteiro de atendimento a uma fiscalização**
+
+- Verifique a autenticidade do TDPF e o seu escopo (tributos e períodos).
+
+- Designe um responsável único pelo atendimento.
+
+- Registre cada intimação, prazo e resposta.
+
+- Entregue apenas o que foi pedido, completo e no prazo; peça prorrogação por escrito, se necessário.
+
+- Nunca entregue documento falso ou alterado.
+
+- Avalie, com advogado, a possibilidade de denúncia espontânea para tributos e períodos fora do escopo.
+
+- Avalie reduções de multa e alternativas de regularização.
+
+### Perguntas para reflexão
+
+~ Antes de virar a página, pare cinco minutos. Pegue um caderno. Não responda de cabeça — escreva. Deus fala mais quando a gente escreve devagar.
+
+**1.** Qual a diferença entre defender-se com verdade e defender-se com mentira?
+
+**2.** O que significa, na prática tributária, "entrar em acordo enquanto estás a caminho"?
+
+**3.** Se uma fiscalização chegasse hoje à sua empresa, você estaria em paz?
+
+### Plano de ação
+
+~ Livros mudam a vida quando saem do livro. Se você fechar este capítulo sem uma ação concreta, terei falhado com você.
+
+**Hoje**
+
+- Leia Atos 25 e Mateus 5.21-26. Ore pedindo coragem para corrigir erros antes do julgamento.
+
+**Esta semana**
+
+- Leia os artigos 7º a 16 do Decreto 70.235/1972 e o artigo 44 da Lei 9.430/1996.
+
+**Este mês**
+
+- Leia uma decisão do CARF sobre um tema que você estuda (os acórdãos são públicos no site do CARF).
+
+**Próximos 90 dias**
+
+- Monte, para um cliente, o roteiro de atendimento a fiscalizações e treine a equipe.
